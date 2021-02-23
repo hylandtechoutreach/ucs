@@ -14,7 +14,7 @@ To get started, follow the steps below. In order to make the setup quicker, you 
 
 Open up a Google Chrome browser, and follow these steps:
 
-1. Go to the [Starter Website Project](https://repl.it/@JosephMaxwell/HeartHealthy#index.html)
+1. Go to the [Starter Website Project](https://repl.it/@HylandOutreach/Starter-Website)
 1. On the right, find and click the "Fork" button to create a fork of this project  
     ![](https://i.imgur.com/ndhNX9c.png)
 1. On the pop-up that appears, click the "log in" link  
@@ -190,7 +190,8 @@ Some basic colors are built into the web (like **pink** and **red**), but it is 
 1. Once a color is selected, highlight the "HEX" code text under the color picker, and copy it
     ![](https://i.imgur.com/ZnYw6fa.png)
 1. Go back to the Repl
-1. Remove the existing `background` color name from the CSS, and paste in the new hex code
+1. Remove the existing color value from the CSS, and paste in the new hex code
+    - Don't remove the `background:` part, just the color after
 1. Verify that the new background color appears on the website!
 1. Repeat the steps above to change the color of the text to another custom color
 
