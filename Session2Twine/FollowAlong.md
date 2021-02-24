@@ -32,7 +32,7 @@ Now that the story is setup up, it's time to start writing it! Double click on t
 1. In the lower right corner of the screen, click the "Play" button to see the story so far!
 
 ## Adding an Image
-Adding an image to a story can make it much more dynamic and engaging.
+Adding an **image** to a story can make it much more dynamic and engaging.
 
 1. Open a new tab in Google Chrome, and go to [Google Images](https://images.google.com/)
 1. Search and find a picture (e.g., "alarm clock 6:00am" - https://www.ohsu.edu/sites/default/files/2019-06/insomnia-sleep.png)
@@ -47,7 +47,7 @@ Adding an image to a story can make it much more dynamic and engaging.
 1. Click the "Play" button to make sure the image appears!
 
 ## Branching
-Currently, the story is not very interactive. To make it more fun, use links to allow the user to choose a path for the main character.
+Currently, the story is not very interactive. To make it more fun, use **links** to allow the user to choose a path for the main character.
 
 1. Double click the "The Beginning" passage to edit it again
 1. Make a few new lines under the existing text
@@ -82,13 +82,13 @@ Choose one of the paths, and add another pair of branches to continue the story.
 1. Close out of the stylesheet, and click "Play" to see the styles in the story!
 
 ## Tracking Story Information with Variables
-Twine also allows developers to keep track of different details throughout the story using variables. For example, the story could track how much money the main character has, their health level, their age, the weather, the time of day, or anything else!
+Twine also allows developers to keep track of different details throughout the story using **variables**. For example, the story could track how much money the main character has, their health level, their age, the weather, the time of day, or anything else!
 
 ### More on Variables
 In computer science, **variables** are containers for information that can _change_. Variables have a name (e.g., `money`, `health`, `age`) and a value (e.g., `$5`, `90hp`, `11`). The _value_ of a variable can change throughout the story, but the _name_ will always stay the same. For example, if the main character in a story bought a banana and ate it, the `money` variable might go down to `$4.69`, and the `health` variable might go up to `95hp`.
 
 ## Creating the `GPA` variable
-For the "A Day in the Life" story, the main character's GPA could change depending on the path the user takes. For example, if the main character skips school, their GPA could go down. If they go to school and work hard, their GPA could go up. Create a `GPA` variable to track this information throughout the story.
+For the "A Day in the Life" story, the main character's GPA could change depending on the path the user takes. For example, if the main character skips school, their GPA could go down. If they go to school and work hard, their GPA could go up. Create a **`GPA` variable** to track this information throughout the story.
 
 >If desired, create a different variable to track a different type of information, like the main character's `money`, `HP`, `stress`, or anything else!
 
@@ -105,7 +105,7 @@ For the "A Day in the Life" story, the main character's GPA could change dependi
 1. Close out of the passage and click the "Play" button to verify that the GPA appears as expected!
 
 ## Updating the `GPA` Variable
-Now that the main character's GPA has a starting value, it is possible to update it depending on the story branch.
+Now that the main character's GPA has a starting value, it is possible to **update it** depending on the story branch.
 
 1. In Twine, open up one of the passages where the main character's GPA might go down
 1. At the top of the text, add the code `<<set $GPA to $GPA - 0.2>>`
