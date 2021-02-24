@@ -1,0 +1,21 @@
+# Interactive Storytelling with Twine
+Welcome to the Interactive Storytelling session!
+
+## PowerPoint Presentation
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/ucs/Session2Twine/InteractiveStorytelling.pptx' width='100%' height='450px' frameborder='0'></iframe>
+
+## Introductory Activity
+Play through this [Interactive Fiction Example - Dead Space](http://chooseyourstory.com/story/viewer/default.aspx?StoryId=23287) to learn more about choose-your-own-adventure games.
+
+## Follow-Along Activity
+Follow [these steps](FollowAlong.md) to start writing a story in Twine!
+
+## Self-Paced Work
+Work on the [Individual exercise](IndividualExercise.md) after the follow-along activity.
+
+## Sharing Stories
+When you want to share your story, follow [these instructions](SharingStories.md)!
+
+## Resources
+- [CSS Tutorial](https://www.w3schools.com/css/)
+- [SugarCube Documentation](https://www.motoslave.net/sugarcube/2/docs/)

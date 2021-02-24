@@ -1,3 +1,6 @@
 - [Kick-Off: Building a Website](KickOffHtmlCss/StudentDesc.md)
 - [Session 2: Interactive Storytelling](Session2Twine/StudentDesc.md)
+  - [Follow-Along Activity](Session2Twine/FollowAlong.md)
+  - [Individual Exercise](Session2Twine/IndividualExercise.md)
+  - [Sharing Stories](Session2Twine/SharingStories.md)
 - [Session 3: Retro Games](Session3RetroGames/StudentDesc.md)
