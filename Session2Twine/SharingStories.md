@@ -6,7 +6,7 @@ One of the best parts of creating stories is sharing them with others! When you 
 	![](https://i.imgur.com/0Omised.png)
 1. Choose a folder for the download, and click "Save"  
 	![](https://i.imgur.com/xgHLWvh.png)
-1. In a new tab, open the [UCS Twine Stories Folder](https://app.sharebase.com/#/folder/1488801/share/3-xzcV2UKWJeYSa66RnoWHszJ3cmM)
+1. In a new tab, open the [UCS Twine Stories Folder](https://app.sharebase.com/#/folder/1488801/share/3-cudZENqtVsCX7JgrjVtKItoCCO8)
 1. Drag the downloaded story file into the folder  
 	![](uploadstory.gif)
 
