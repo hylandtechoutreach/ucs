@@ -4,3 +4,6 @@
   - [Individual Exercise](Session2Twine/IndividualExercise.md)
   - [Sharing Stories](Session2Twine/SharingStories.md)
 - [Session 3: Retro Games](Session3RetroGames/StudentDesc.md)
+  - [Code-Along Activity](Session3RetroGames/CodeAlong.md)
+  - [Challenges](Session3RetroGames/Challenges.md)
+  - [Sharing Games](Session3RetroGames/SharingGames.md)
