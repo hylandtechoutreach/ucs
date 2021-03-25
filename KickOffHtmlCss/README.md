@@ -9,3 +9,11 @@ The final version of their websites should look something like this: https://rep
 
 ## Kahoot Quiz
 At the end of the session, play through the [Kahoot quiz](https://create.kahoot.it/share/duplicate-of-basic-html-css-activities-quiz/bacfd57b-72ff-4802-8cc7-caf098c9dd27s).
+
+## Suggested Schedule
+
+| Activity | Time |
+|-|-|
+| Code-Along | 40m |
+| Sharing Websites | 10m |
+| Kahoot | 10m |

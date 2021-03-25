@@ -6,16 +6,6 @@ A workshop introducing [Twine](http://twinery.org/2/#!/welcome) in ~1.5hrs. Twin
     - NOTE: The lecture video contains an example game. Students should have a chance to play the game themselves.
 - [Interactive Storytelling Follow-Along](https://www.youtube.com/watch?v=9PuIZa3iX7E&list=PL1P_sExxi-9NeogaTKc9lSzoUkqPuqHOT)
 
-## Suggested Schedule
-
-| Activity | Time |
-|-|-|
-| Lecture | 10m |
-| Kahoot | 10m |
-| Follow-Along | 40m |
-| Individual Work | 20m |
-| Sharing Stories | 10m |
-
 ## Topics
 
 - Using Twine to write interactive fiction stories
@@ -45,3 +35,13 @@ If there is any time remaining, allow the students to complete the [individual e
 There is a link within the follow-along to a ShareBase folder where the students can upload their stories: https://app.sharebase.com/#/folder/1488801/share/3-cudZENqtVsCX7JgrjVtKItoCCO8
 
 Toward the end of the session, encourage students to upload their stories. Download them and open them in a web browser to read through them as a group.
+
+## Suggested Schedule
+
+| Activity | Time |
+|-|-|
+| Lecture | 10m |
+| Kahoot | 10m |
+| Follow-Along | 40m |
+| Individual Work | 20m |
+| Sharing Stories | 10m |

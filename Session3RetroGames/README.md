@@ -5,15 +5,6 @@ A workshop introducing [MakeCode Arcade](https://arcade.makecode.com/) in ~1.5hr
 - [Retro Games Lecture](https://www.youtube.com/watch?v=Z9FmkPrxtHY&list=PL1P_sExxi-9NeogaTKc9lSzoUkqPuqHOT)
 - [Retro Games Code-Along](https://www.youtube.com/watch?v=bzpnbTn7lOc&list=PL1P_sExxi-9NeogaTKc9lSzoUkqPuqHOT)
 
-## Suggested Schedule
-
-| Activity | Time |
-|-|-|
-| Lecture | 10m |
-| Kahoot | 10m |
-| Code-Along | 60m |
-| Individual Work / Game Sharing | 10m |
-
 ## Lecture
 The [lecture](RetroGames.pptx) provides some background information about retro games. The goal is to relate to the experience of the students as much as possible, and prepare them for the code-along activity. Check the Kahoot quiz questions to see which points might be worth emphasizing.
 
@@ -39,3 +30,12 @@ The goal of the [challenges](Challenges.md) is to inspire the students to contin
 
 ## Game Sharing
 Toward the end of the session, students should have an opportunity to share what they have created. They can follow the steps on the [Sharing Games page](SharingGames.md).
+
+## Suggested Schedule
+
+| Activity | Time |
+|-|-|
+| Lecture | 10m |
+| Kahoot | 10m |
+| Code-Along | 60m |
+| Individual Work / Game Sharing | 10m |
