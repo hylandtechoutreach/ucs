@@ -7,3 +7,8 @@
   - [Code-Along Activity](Session3RetroGames/CodeAlong.md)
   - [Challenges](Session3RetroGames/Challenges.md)
   - [Sharing Games](Session3RetroGames/SharingGames.md)
+- [Session 4: Animation](Session4Animation/StudentDesc.md)
+  - [Piskel Demo](Session4Animation/PiskelDemo.md)
+  - [Game Animation](Session4Animation/GameAnimation.md)
+  - [Animation Challenges](Session4Animation/AnimationChallenges.md)
+  - [Sharing Art](Session4Animation/SharingArt.md)
