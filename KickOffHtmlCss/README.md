@@ -8,7 +8,7 @@ Walk through the [code-along instructions](StudentDesc.md) with the students. Fe
 The final version of their websites should look something like this: https://repl.it/@hylandstudent/Starter-Website
 
 ## Kahoot Quiz
-At the end of the session, play through the [Kahoot quiz](https://create.kahoot.it/share/duplicate-of-basic-html-css-activities-quiz/bacfd57b-72ff-4802-8cc7-caf098c9dd27s).
+At the end of the session, play through the [Kahoot quiz](https://create.kahoot.it/share/duplicate-of-basic-html-css-activities-quiz/bacfd57b-72ff-4802-8cc7-caf098c9dd27).
 
 ## Suggested Schedule
 
