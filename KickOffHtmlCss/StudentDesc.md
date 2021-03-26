@@ -161,8 +161,8 @@ The code should look something like this:
 
 ```css
 body {
-  background: #ffe9ff;
-  color: #bb09bb;
+  background: pink;
+  color: red;
   font-family: consolas;
   font-size: 18px;
 }
