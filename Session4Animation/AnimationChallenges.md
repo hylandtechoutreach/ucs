@@ -1,6 +1,12 @@
 # Animation Challenges
 After completing the [Game Animation Follow-Along](GameAnimation.md), work on some of these challenges. There are a few different options; feel free to get creative and do whatever you want to do with Piskel and/or the platformer game!
 
+Click the links below to scroll to one of the options on this page.
+
+- [Option 1: A Totally New Sprite](#option-1-a-totally-new-sprite-op1)
+- [Option 2: Updating the Existing Game Art](#option-2-updating-the-existing-game-art)
+- [Option 3: Updating the Existing Game Code](#option-3-updating-the-existing-game-code)
+
 ## Option 1: A Totally New Sprite
 Go to [Piskel](https://www.piskelapp.com/p/create) and work on creating a new sprite of any kind. This could be a character, an enemy, a background element, or a completely abstract work of art! Try to add multiple frames to make it into an animation.
 
