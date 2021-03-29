@@ -12,3 +12,7 @@
   - [Game Animation](Session4Animation/GameAnimation.md)
   - [Animation Challenges](Session4Animation/AnimationChallenges.md)
   - [Sharing Art](Session4Animation/SharingArt.md)
+- [Session 5: Machine Learning](Session5MachineLearning/StudentDesc.md)
+  - [Follow-Along Activity](Session5MachineLearning/FollowAlong.md)
+  - [Sharing Applications](Session5MachineLearning/SharingApplications.md)
+  - [Challenges](Session5MachineLearning/Challenges.md)
