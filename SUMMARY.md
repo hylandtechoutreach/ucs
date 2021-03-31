@@ -16,3 +16,8 @@
   - [Follow-Along Activity](Session5MachineLearning/FollowAlong.md)
   - [Sharing Applications](Session5MachineLearning/SharingApplications.md)
   - [Challenges](Session5MachineLearning/Challenges.md)
+- [Session 6: Python](Session6Python/StudentDesc.md)
+  - [Code-Along Activity](Session6Python/TurtleCodeAlong.md)
+  - [Turtle Challenges](Session6Python/TurtleChallenges.md)
+  - [Turtle Examples](Session6Python/TurtleExamples.md)
+  - [Sharing Work](Session6Python/SharingWork.md)
