@@ -14,12 +14,14 @@ for x in range(3):
 _HINT: Update the numbers from the triangle loop (the `3` and the `120`) so that the turtle draws the correct number of sides, and turns the correct angle each time_
 
 ## Other Shapes
-Create new turtles (or update the existing turtles) and make them draw the following shapes:
+Make the turtle draw the following shapes:
 - Diamond
 - Hexagon
 - Septagon
 - Parallelogram
 - Trapezoid
+
+Try to keep each shape separate, so they do not overlap.
 
 ## Complete Drawing
 Use a turtle to draw a whole picture, like a house, a flower, an animal, a tree, or anything else that comes to mind!
