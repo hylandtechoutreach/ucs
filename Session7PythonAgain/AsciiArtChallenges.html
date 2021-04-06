@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Individual Exercise · GitBook</title>
+        <title>ASCII Art Challenges · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -63,10 +63,8 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="SharingStories.html" />
     
-    
-    <link rel="prev" href="FollowAlong.html" />
+    <link rel="prev" href="AsciiArtCodeAlong.html" />
     
 
     </head>
@@ -121,9 +119,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3" data-path="StudentDesc.html">
+        <li class="chapter " data-level="1.3" data-path="../Session2Twine/StudentDesc.html">
             
-                <a href="StudentDesc.html">
+                <a href="../Session2Twine/StudentDesc.html">
             
                     
                     Session 2: Interactive Storytelling
@@ -135,9 +133,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.3.1" data-path="FollowAlong.html">
+        <li class="chapter " data-level="1.3.1" data-path="../Session2Twine/FollowAlong.html">
             
-                <a href="FollowAlong.html">
+                <a href="../Session2Twine/FollowAlong.html">
             
                     
                     Follow-Along Activity
@@ -148,9 +146,9 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.3.2" data-path="IndividualExercise.html">
+        <li class="chapter " data-level="1.3.2" data-path="../Session2Twine/IndividualExercise.html">
             
-                <a href="IndividualExercise.html">
+                <a href="../Session2Twine/IndividualExercise.html">
             
                     
                     Individual Exercise
@@ -161,9 +159,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.3" data-path="SharingStories.html">
+        <li class="chapter " data-level="1.3.3" data-path="../Session2Twine/SharingStories.html">
             
-                <a href="SharingStories.html">
+                <a href="../Session2Twine/SharingStories.html">
             
                     
                     Sharing Stories
@@ -437,9 +435,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.8" data-path="../Session7PythonAgain/StudentDesc.html">
+        <li class="chapter " data-level="1.8" data-path="StudentDesc.html">
             
-                <a href="../Session7PythonAgain/StudentDesc.html">
+                <a href="StudentDesc.html">
             
                     
                     Session 7: Python in the Console
@@ -451,9 +449,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.8.1" data-path="../Session7PythonAgain/AsciiArtCodeAlong.html">
+        <li class="chapter " data-level="1.8.1" data-path="AsciiArtCodeAlong.html">
             
-                <a href="../Session7PythonAgain/AsciiArtCodeAlong.html">
+                <a href="AsciiArtCodeAlong.html">
             
                     
                     ASCII Art Code-Along Activity
@@ -464,9 +462,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.8.2" data-path="../Session7PythonAgain/AsciiArtChallenges.html">
+        <li class="chapter active" data-level="1.8.2" data-path="AsciiArtChallenges.html">
             
-                <a href="../Session7PythonAgain/AsciiArtChallenges.html">
+                <a href="AsciiArtChallenges.html">
             
                     
                     ASCII Art Challenges
@@ -512,7 +510,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >Individual Exercise</a>
+        <a href=".." >ASCII Art Challenges</a>
     </h1>
 </div>
 
@@ -527,37 +525,89 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="interactive-storytelling-individual-exercise">Interactive Storytelling: Individual Exercise</h1>
-<p>Complete one of the exercises below. Choose between an open-ended activity and a more structured set of challenges.</p>
-<h4 id="sharing-stories">Sharing Stories</h4>
-<p>Whichever option you decide, make sure to follow <a href="SharingStories.html">these instructions</a> when you want to share your story.</p>
-<h2 id="open-ended-create-a-new-story">Open-ended: Create a New Story</h2>
-<p>Start from scratch and create a completely new story using Twine!</p>
-<h3 id="starting-point">Starting Point</h3>
-<p>Start by writing the story out on paper or in a text editor. This will make it easier to create the story in Twine. Once the story structure is ready to go, try to make it in Twine!</p>
-<h3 id="requirements">Requirements</h3>
-<p>The new story should:</p>
-<ul>
-<li>Have at least three (3) choices for the player</li>
-<li>Have at least two (2) CSS styles (font, color, etc)</li>
-<li>Have at least one (1) variable tracked throughout the story</li>
+                                <h1 id="ascii-art-challenges">ASCII Art Challenges</h1>
+<p>After completing the <a href="AsciiArtCodeAlong.html">code-along</a>, work on adding more functions.</p>
+<h2 id="1-a-fish-function">1. A Fish Function</h2>
+<p>Define a new function to draw a fish, and then call it a couple of times.</p>
+<p>Drawing a fish looks like this:</p>
+<pre><code class="lang-py">print(<span class="hljs-string">&apos;  _&apos;</span>)
+print(<span class="hljs-string">&apos;&gt;&lt;_&gt;&apos;</span>)
+</code></pre>
+<h3 id="defining-the-function">Defining the Function</h3>
+<p>First, <em>define</em> the function.</p>
+<ol>
+<li>In the <strong>main.py</strong> file, find the <code>draw_owl</code> function definition</li>
+<li>Make a few new lines under that</li>
+<li>Define a new function named <code>draw_fish</code><ul>
+<li>Start with the <code>def</code> keyword</li>
+<li>Then, on the same line, add the function name</li>
+<li>After that, on the same line, add parentheses and a colon</li>
 </ul>
-<h2 id="structured-challenges">Structured: Challenges</h2>
-<p>Complete the challenges starting from the existing story!</p>
-<h3 id="challenge-1---a-new-day">Challenge 1 - A New Day</h3>
-<p>Continue the story by starting a new day for the main character. Make sure to provide a choice for the player in the first passage of the day.</p>
-<h3 id="challenge-2---a-new-image">Challenge 2 - A New Image</h3>
-<p>Find another image and put it in a passage of the story. Try adding images to every single passage!</p>
-<h3 id="challenge-3---a-new-variable">Challenge 3 - A New Variable</h3>
-<p>Keep track of another piece of information throughout the story. For example, track the amount of money the main character has, the happiness of the main character, or any other statistics about them!</p>
-<h3 id="challenge-4---more-styles">Challenge 4 - More Styles</h3>
-<p>Use CSS to update the styles of the story. Follow <a href="https://www.w3schools.com/css/" target="_blank">this tutorial</a> to learn more about what is possible with CSS.</p>
-<h3 id="challenge-5---conditional">Challenge 5 - Conditional</h3>
-<h4 id="background">Background</h4>
-<p>In computer science, a <strong>conditional</strong> is something that changes the flow of the program. For example, in a video game, the main character might be able to do some magic <em>if</em> their magic level is high enough. This makes programs much more dynamic.</p>
-<p>In Twine, it is possible to use <strong>if statements</strong> to show or hide some options from the player. For example, the player may only be able to buy a candy bar <em>if</em> they have enough money.</p>
-<h4 id="story">Story</h4>
-<p>Add a conditional to the story. Check the <a href="https://www.motoslave.net/sugarcube/2/docs/#macros-macro-if" target="_blank">SugarCube documentation</a> to learn how to add a conditional in Twine!</p>
+</li>
+<li>Make a new line, and <em>indent</em> it<ul>
+<li>This will be the <em>body</em> of the <code>draw_fish</code> function</li>
+</ul>
+</li>
+<li>Add the two <code>print</code> statements to draw the fish, both indented</li>
+</ol>
+<p>That should be it! Now the function has been defined.</p>
+<h3 id="calling-the-function">Calling the Function</h3>
+<p>Now that the function definition is there, it will be possible to <em>call</em> the function.</p>
+<ol>
+<li>In the <strong>main.py</strong> file, make a new line at the bottom</li>
+<li>Use the <code>change_color</code> command to change to color to <code>&apos;orange&apos;</code></li>
+<li>Under that, call the <code>draw_fish</code> function<ul>
+<li>Use the function name, followed by parentheses</li>
+</ul>
+</li>
+<li>Under that, change the color to another color</li>
+<li>Under that, call the <code>draw_fish</code> function again</li>
+</ol>
+<p>At this point, it should be possible to run the code and see the two fish appear! Try adding more fish of different colors as well.</p>
+<h2 id="2-a-duck-function">2. A Duck Function</h2>
+<p>Define a new function to draw a duck, and then call it a couple of times.</p>
+<p>Drawing a duck looks like this:</p>
+<pre><code class="lang-py">print(<span class="hljs-string">&apos;  __    &apos;</span>)
+print(<span class="hljs-string">&apos;&lt;(o )___&apos;</span>)
+print(<span class="hljs-string">&apos; ( ._&gt; /&apos;</span>)
+print(<span class="hljs-string">&apos;  `---/ &apos;</span>)
+</code></pre>
+<h3 id="defining-the-function">Defining the Function</h3>
+<p>First, <em>define</em> the function.</p>
+<ol>
+<li>In the <strong>main.py</strong> file, find the <code>draw_fish</code> function definition</li>
+<li>Make a few new lines under that</li>
+<li>Define a new function named <code>draw_duck</code><ul>
+<li>Start with the <code>def</code> keyword</li>
+<li>Then, on the same line, add the function name</li>
+<li>After that, on the same line, add parentheses and a colon</li>
+</ul>
+</li>
+<li>Make a new line, and <em>indent</em> it<ul>
+<li>This will be the <em>body</em> of the <code>draw_duck</code> function</li>
+</ul>
+</li>
+<li>Add the four <code>print</code> statements to draw the duck, all indented</li>
+</ol>
+<p>That should be it! Now the function has been defined.</p>
+<h3 id="calling-the-function">Calling the Function</h3>
+<p>Now that the function definition is there, it will be possible to <em>call</em> the function.</p>
+<ol>
+<li>In the <strong>main.py</strong> file, make a new line at the bottom</li>
+<li>Use the <code>change_color</code> command to change to color to <code>&apos;red&apos;</code></li>
+<li>Under that, call the <code>draw_duck</code> function<ul>
+<li>Use the function name, followed by parentheses</li>
+</ul>
+</li>
+<li>Under that, change the color to another color</li>
+<li>Under that, call the <code>draw_duck</code> function again</li>
+</ol>
+<p>At this point, it should be possible to run the code and see the two ducks appear! Try adding more ducks of different colors as well.</p>
+<h2 id="3-more-ascii-art">3. More ASCII Art</h2>
+<p>Try to create some additional ASCII art to print out to the console! Find some online by Google searching &quot;ASCII Art&quot; or make up your own! It can be helpful to start in the <strong>art.txt</strong> file before trying to write code.</p>
+<blockquote>
+<p>NOTE: Using the backslash (<code>\</code>) character can cause issues when writing text to the screen. To avoid this, use <code>\\</code> instead of <code>\</code>, and only one <code>\</code> will appear.</p>
+</blockquote>
 
                                 
                                 </section>
@@ -585,14 +635,10 @@
 
             
                 
-                <a href="FollowAlong.html" class="navigation navigation-prev " aria-label="Previous page: Follow-Along Activity">
+                <a href="AsciiArtCodeAlong.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page: ASCII Art Code-Along Activity">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
-                
-                <a href="SharingStories.html" class="navigation navigation-next " aria-label="Next page: Sharing Stories">
-                    <i class="fa fa-angle-right"></i>
-                </a>
                 
             
         
@@ -601,7 +647,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Individual Exercise","level":"1.3.2","depth":2,"next":{"title":"Sharing Stories","level":"1.3.3","depth":2,"path":"Session2Twine/SharingStories.md","ref":"Session2Twine/SharingStories.md","articles":[]},"previous":{"title":"Follow-Along Activity","level":"1.3.1","depth":2,"path":"Session2Twine/FollowAlong.md","ref":"Session2Twine/FollowAlong.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Session2Twine/IndividualExercise.md","mtime":"2021-04-06T19:10:46.737Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-04-06T19:11:24.746Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"ASCII Art Challenges","level":"1.8.2","depth":2,"previous":{"title":"ASCII Art Code-Along Activity","level":"1.8.1","depth":2,"path":"Session7PythonAgain/AsciiArtCodeAlong.md","ref":"Session7PythonAgain/AsciiArtCodeAlong.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Session7PythonAgain/AsciiArtChallenges.md","mtime":"2021-04-06T19:10:46.937Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-04-06T19:11:24.746Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
