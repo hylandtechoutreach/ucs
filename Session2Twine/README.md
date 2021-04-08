@@ -28,6 +28,9 @@ An easy way to accomplish this is to make a "Day in the Life" story. Begin with 
 
 Note that the students can also create stories that do not align with the follow-along; any creativity of that nature should be encouraged.
 
+### Notes from 4/7
+It may be necessary to skip the _variables_ portion of the activity depending on the time. It is also possible to share stories using Replit instead of ShareBase - this makes it easier to read stories online. It would be valuable to write up some instructions on how to do that.
+
 ## Individual Exercise
 If there is any time remaining, allow the students to complete the [individual exercise](IndividualExercise.md). There is an open-ended option and a more structured option. The goal is for the students to enjoy working in Twine or writing a story. Encourage them to be creative and have fun with their stories. If a student says they are "done" writing, try to guide them to another chapter or another pathway their story could take.
 
