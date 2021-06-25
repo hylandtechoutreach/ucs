@@ -1,5 +1,5 @@
 # Interactive Storytelling with Twine
-Welcome to the Interactive Storytelling session!
+Welcome to the Interactive Storytelling with Twine session!
 
 ## PowerPoint Presentation
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/ucs/Session2Twine/InteractiveStorytelling.pptx' width='100%' height='450px' frameborder='0'></iframe>
