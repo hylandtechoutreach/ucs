@@ -1,12 +1,16 @@
-# UCS
-Material for Hyland's partnership with Urban Community School.
+# Hyland + UCS
+This repository contains material for Hyland's partnership with Urban Community School. The first iteration of this partnership took place in [Spring 2021](Spring2021/). Currently, the material is for Fall 2021. Here is a tentative schedule:
 
-## Schedule
-1. [Kick-Off (3/31): Building a Website with HTML & CSS](KickOffHtmlCss/)
-1. [Session 2 (4/7): Interactive Storytelling with Twine](Session2Twine/)
-1. [Session 3 (4/14): Creating Retro Games with MakeCode Arcade](Session3RetroGames/)
-1. [Session 4 (4/21): Animation](Session4Animation/)
-1. [Session 5 (4/28): Machine Learning](Session5MachineLearning/)
-1. [Session 6 (5/5): Programming with Python](Session6Python/)
-1. [Session 7 (5/12): Programming with Python 2]
-1. [Session 8 (5/19): Career Possibilities - Open Discussion]
+1. Hyland Intro day
+1. Repl account creation + HTML (re)intro + typing practice
+1. More HTML elements - restaurant website (simplified)
+1. CSS (re)intro - coolors, bananas
+1. More CSS - tv theme song w/ classes
+1. Piskel + JavaScript Game
+1. Intro to JS with buttons
+1. Conditionals
+1. About Me quiz
+1. Final project work (quiz, game, other site)
+1. Final project work + presentations
+
+The lessons should be flexible based on the students wants and needs, and should draw from existing programs such as [Hy-Tech Club](https://github.com/hytechclub) and Hyland's partnership with the [Boys & Girls Club of Northeast Ohio](https://github.com/hylandtechoutreach/bgcneo).
