@@ -1,1 +1,8 @@
+- [Repl Setup](ReplSetup.md)
 - [Kick-Off: Intro to Hyland](Session1IntroHyland/StudentDesc.md)
+- [Session 2: Intro to HTML](Session2HtmlIntro/StudentDesc.md)
+  - [About Me Code-Along](Session2HtmlIntro/AboutMeCodeAlong.md)
+  - [About Me Individual](Session2HtmlIntro/AboutMeIndividual.md)
+- [Session 3: More HTML Elements](Session3MoreHtml/StudentDesc.md)
+  - [Restaurant Code-Along](Session3MoreHtml/RestaurantCodeAlong.md)
+  - [Restaurant Individual](Session3MoreHtml/RestaurantIndividual.md)
