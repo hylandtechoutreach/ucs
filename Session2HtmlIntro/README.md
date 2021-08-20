@@ -18,6 +18,9 @@ Like telestrations - https://drawphone.tannerkrewson.com/
 ## Lecture
 The [PowerPoint Presentation](HelloHtml.pptx) introduces the idea of HTML and shows how some basic elements work.
 
+## Typing Practice
+Give students some time to practice typing, specifically HTML. The goal is for them to get used to typing HTML symbols (like `<`, `>`, `/`, `=`, and tag names) without having to worry about what any of it means.
+
 ## Kahoot
 There is a [Kahoot quiz](https://create.kahoot.it/details/740e9179-5b3b-426c-a5ef-e770b2bd60c4) covering the content from the lecture.
 
@@ -36,6 +39,7 @@ Students should have an opportunity to share their sites with the group at the e
 |-|-|
 | Icebreaker | 10m |
 | Lecture | 15m |
+| Typing Practice | 10m |
 | Kahoot | 10m |
-| Code-Along | 25m |
+| Code-Along | 15m |
 | Individual Exercise | 10m |
