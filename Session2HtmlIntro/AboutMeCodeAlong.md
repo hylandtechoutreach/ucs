@@ -5,19 +5,11 @@ With this exercise, you will create a webpage that shows some information about 
 Before beginning, make sure you have a Repl account. You can follow [these instructions](../ReplSetup.md) to set one up if you do not have one.
 
 ## Getting Started
-Start by creating a **fork** of an empty project to get started, and sharing a **Multiplayer Link** to the project.
+Start by creating a **fork** of an empty project to get started.
 
-1. Go to [this empty Project](https://replit.com/@HylandOutreach/EmptyWeb#index.html)
+1. Go to [this empty Project](https://replit.com/@HylandOutreach/AboutMeBegin#index.html)
 1. Click the "Fork" button in the upper right  
-    ![](https://i.imgur.com/BLN0x38.png)
-1. On the next page, click the "Invite" button in the upper right  
-    ![](https://i.imgur.com/HO0pn17.png)
-1. In the window that appears, click the "Generate a join link" button at the bottom 
-    ![](https://i.imgur.com/StM4yXX.png)
-1. When the link appears, click the copy button to copy the URL for the **Multiplayer Link**  
-    ![](https://i.imgur.com/G8fzSoE.png)
-
-Once the **Multiplayer Link** has been copied, you can open [this google form](https://forms.gle/rH62KaA7tSeSuDnQ7). Fill in your name, paste the link, and submit the form.
+    ![](https://i.imgur.com/UuJ0Emr.png)
 
 ## HTML Setup
 Now everything should be ready to go. Start by creating a simple HTML document containing a header.
@@ -63,9 +55,24 @@ Add in a picture of your favorite animal.
 
 1. Under the last `p` paragraph tag, add a smaller `h3` header that says "Favorite Animal"
 1. Add an image of your favorite animal
-    1. Find an image somewhere online, and copy the **image URL**
+    1. Find an animal in the Repl project `animals` folder
     1. Add an `<img>` image tag under the `h3` header
-    1. Set the `src` of the image to the URL, in quotes
+    1. Set the `src` of the image to `animals/` plus the image name, all in quotes
+
+### Using a New Picture
+If none of the pictures in the `animals` folder will work, it is also possible to add another picture!
+
+1. Open a new tab, but make sure to keep the Replit project open too
+1. In the new tab, go to [google images](https://images.google.com/)
+1. Search for an animal you would like on your webpage (e.g., a koala)
+1. Click on the image, and make sure it fully loads on the right side of the page
+1. When it has loaded, right click it, and select "Save image as..."
+1. Enter a good name for the image (e.g., "koala.jpg")
+1. Switch back to the Replit project tab
+1. Drag the newly saved image from the bottom of the page into the `animals` folder
+1. Now the image can be used in your project!
+
+![](addimagetoreplit.gif)
 
 ## Final HTML
 The code should look something like this:
@@ -81,7 +88,7 @@ The code should look something like this:
         <p>I like to play with my dog</p>
 
         <h3>Favorite Animal</h3>
-        <img src="https://i.imgur.com/GfT5Z9R.png">
+        <img src="animals/dog.png">
     </body>
 </html>
 ```
