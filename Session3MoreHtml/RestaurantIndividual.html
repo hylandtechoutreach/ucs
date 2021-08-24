@@ -269,93 +269,26 @@
                                 
                                 <h1 id="restaurant-website-individual-exercises">Restaurant Website: Individual Exercises</h1>
 <p>The website for Alfredo&apos;s Pizza Cafe (or your own restaurant) is pretty solid, but there are some changes you can make to take it to the next level. Follow the instructions below to add some new features to your website!</p>
-<h2 id="part-1---expanding-the-existing-options">Part 1 - Expanding the Existing Options</h2>
-<p>Great news! Your restaurant is expanding its offerings. There is a new location, a new specialty item, and a new topping. The website should reflect those changes.</p>
-<h3 id="adding-a-new-location">Adding a New Location</h3>
-<p>First, add another location to the list of locations.</p>
+<h2 id="adding-a-new-location">Adding a New Location</h2>
+<p>Find the other locations for the restaurant, and add a new one! It could be any new location, such as &quot;Cleveland, OH&quot; or anywhere else. It should be a new <code>&lt;p&gt;&lt;/p&gt;</code> element under the existing ones.</p>
+<h2 id="adding-a-new-specialty-pizza">Adding a New Specialty Pizza</h2>
+<p>Next, add another specialty pizza where the specialty items are. It could be any new specialty pizza, such as &quot;Margherita Pizza&quot; or anything else. It should be a new <code>&lt;p&gt;&lt;/p&gt;</code> element under the existing ones.</p>
+<h2 id="adding-a-new-topping">Adding a New Topping</h2>
+<p>Finally, add another topping to the toppings. It could be any topping you&apos;d like, such as &quot;Olives&quot; or anything else. It should be a new <code>&lt;p&gt;&lt;/p&gt;</code> element under the existing ones.</p>
+<h2 id="size-options">Size Options</h2>
+<p>For several types of food (including pizza), customers may want to decide what size portion they would like. For this restaurant, let&apos;s say we want two size options: Small and Large. Show these options beneath the menu on the webpage!</p>
 <ol>
-<li>Open the <strong>index.html</strong> file for editing</li>
-<li>Find the <code>&lt;ul&gt;&lt;/ul&gt;</code> element that lists restaurant locations</li>
-<li>Under the existing <code>&lt;li&gt;&lt;/li&gt;</code> elements, above the <code>&lt;/ul&gt;</code>, make a new line</li>
-<li>Add a new <code>&lt;li&gt;&lt;/li&gt;</code> element with a new location, like &quot;Cleveland, OH&quot;</li>
-<li>Run the site and make sure the new location appears in the list!</li>
-</ol>
-<p>It should look something like this:</p>
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">ul</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Scranton, PA<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Albany, NY<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Utica, NY<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Cleveland, OH<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
-<span class="hljs-tag">&lt;/<span class="hljs-name">ul</span>&gt;</span>
-</code></pre>
-<h3 id="adding-a-new-specialty-item">Adding a New Specialty Item</h3>
-<p>Next, add another specialty item to the list of specialty items.</p>
-<ol>
-<li>Open the <strong>menu.html</strong> file for editing</li>
-<li>Find the <code>&lt;ul&gt;&lt;/ul&gt;</code> element that lists specialty items</li>
-<li>Under the existing <code>&lt;li&gt;&lt;/li&gt;</code> elements, above the <code>&lt;/ul&gt;</code>, make a new line</li>
-<li>Add a new <code>&lt;li&gt;&lt;/li&gt;</code> element with a new specialty item, like &quot;Margherita Pizza&quot;</li>
-<li>Run the site, open the menu, and make sure the new item appears in the list!</li>
-</ol>
-<h3 id="adding-a-new-topping">Adding a New Topping</h3>
-<p>Finally, add another topping to the list of toppings.</p>
-<ol>
-<li>Open the <strong>menu.html</strong> file for editing</li>
-<li>Find the <code>&lt;ul&gt;&lt;/ul&gt;</code> element that lists toppings</li>
-<li>Under the existing <code>&lt;li&gt;&lt;/li&gt;</code> elements, above the <code>&lt;/ul&gt;</code>, make a new line</li>
-<li>Add a new <code>&lt;li&gt;&lt;/li&gt;</code> element with a new topping, like &quot;Olives&quot;</li>
-<li>Run the site, open the menu, and make sure the new item appears in the list!</li>
-</ol>
-<h2 id="part-2---size-options">Part 2 - Size Options</h2>
-<p>For several types of food (including pizza), customers may want to decide what size portion they would like. For this restaurant, let&apos;s say we want two size options: Small and Large. List these options on the Menu page!</p>
-<ol>
-<li>Open the <strong>menu.html</strong> file for editing</li>
-<li>Under the <code>&lt;/ul&gt;</code> for the toppings, but <em>above</em> the <code>&lt;a&gt;</code> link, make a new line</li>
-<li>Add an <code>&lt;h2&gt;&lt;/h2&gt;</code> header that says &quot;Size Options&quot;</li>
-<li>Under that, create a <code>&lt;ul&gt;&lt;/ul&gt;</code> list</li>
-<li>Between the <code>&lt;ul&gt;</code> and <code>&lt;/ul&gt;</code>, add an <code>&lt;li&gt;&lt;/li&gt;</code> element with text &quot;Small&quot;</li>
-<li>Under that, above the <code>&lt;/ul&gt;</code>, add another <code>&lt;li&gt;&lt;/li&gt;</code> saying &quot;Large&quot;</li>
-<li>Run the site, open the menu, and make sure the size options appear!</li>
-</ol>
-<h2 id="part-3---crust-options">Part 3 - Crust Options</h2>
-<p>Many pizza restaurants have different options for crusts. This could also be applied for other types of restaurants - for example, tacos could have hard or soft shells, sushi could have white or brown rice, etc. List these options on the Menu page!</p>
-<ol>
-<li>Open the <strong>menu.html</strong> file for editing</li>
-<li>Under the <code>&lt;/ul&gt;</code> for the size options, but <em>above</em> the <code>&lt;a&gt;</code> link, make a new line</li>
-<li>Add an <code>&lt;h2&gt;&lt;/h2&gt;</code> header that says &quot;Crust Options&quot;</li>
-<li>Under that, create a <code>&lt;ul&gt;&lt;/ul&gt;</code> list</li>
-<li>Between the <code>&lt;ul&gt;</code> and <code>&lt;/ul&gt;</code>, add an <code>&lt;li&gt;&lt;/li&gt;</code> element with text &quot;Thin&quot;</li>
-<li>Under that, above the <code>&lt;/ul&gt;</code>, add another <code>&lt;li&gt;&lt;/li&gt;</code> saying &quot;Deep Dish&quot;</li>
-<li>Run the site, open the menu, and make sure the crust options appear!</li>
-</ol>
-<h2 id="challenge-part-4---an-about-us-page">(CHALLENGE) Part 4 - An &quot;About Us&quot; Page</h2>
-<p>Sometimes customers want to learn more about a restaurant. This can be accomplished with an &quot;About Us&quot; Page! Create the new page, and link it from the home page.</p>
-<h3 id="the-new-page">The New Page</h3>
-<p>Start by creating the new page.</p>
-<ol>
-<li>Add a new file to the Replit project</li>
-<li>Name the file <strong>about.html</strong></li>
-<li>Open the file for editing</li>
-<li>Add some basic HTML to the file<ul>
-<li>The <code>&lt;html&gt;&lt;/html&gt;</code> and <code>&lt;body&gt;&lt;/body&gt;</code> tags</li>
-<li>A <code>&lt;h1&gt;&lt;/h1&gt;</code> in the <code>body</code> that says &quot;About Us&quot;</li>
-<li>A <code>&lt;p&gt;&lt;/p&gt;</code> under the <code>h1</code> with a short blurb about the restaurant</li>
+<li>Create an <code>h3</code> saying &quot;Size Options&quot;</li>
+<li>Add <code>p</code> elements for each size under the <code>h3</code><ul>
+<li>One for &quot;Large&quot;</li>
+<li>One for &quot;Small&quot;</li>
 </ul>
 </li>
-<li>Under the <code>&lt;/p&gt;</code>, add an <code>&lt;a&gt;</code></li>
-<li>Set the <code>href</code> for the <code>a</code> to be &quot;index.html&quot;</li>
-<li>Make the text for the <code>a</code> say &quot;Back&quot;</li>
 </ol>
-<h3 id="linking-to-the-new-page">Linking to the New Page</h3>
-<p>Now the page exists, but it is not accessible yet! Add a link to the homepage.</p>
-<ol>
-<li>Open the <strong>index.html</strong> file for editing</li>
-<li>Find the <code>&lt;a href=&quot;menu.html&quot;&gt;Menu&lt;/a&gt;</code> above the <code>&lt;/body&gt;</code></li>
-<li>Right under that, add a new <code>&lt;a&gt;</code></li>
-<li>Set the <code>href</code> for the <code>a</code> to be &quot;about.html&quot;</li>
-<li>Make the text for the <code>a</code> say &quot;About Us&quot;</li>
-</ol>
-<p>Run the code, and verify that it is possible to open the &quot;About Us&quot; page!</p>
+<h2 id="crust-options">Crust Options</h2>
+<p>Many pizza restaurants have different options for crusts. This could also be applied for other types of restaurants - for example, tacos could have hard or soft shells, sushi could have white or brown rice, etc. Show these options beneath the menu as well! This should be similar to adding the different sizes.</p>
+<h2 id="link-to-another-site">Link to Another Site</h2>
+<p>Update the link on the website so it goes somewhere else, or add a whole new link! It can go to any relevant website.</p>
 
                                 
                                 </section>
@@ -395,7 +328,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Restaurant Individual","level":"1.5.2","depth":2,"previous":{"title":"Restaurant Code-Along","level":"1.5.1","depth":2,"path":"Session3MoreHtml/RestaurantCodeAlong.md","ref":"Session3MoreHtml/RestaurantCodeAlong.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Session3MoreHtml/RestaurantIndividual.md","mtime":"2021-08-23T14:24:14.286Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-08-23T14:24:55.136Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Restaurant Individual","level":"1.5.2","depth":2,"previous":{"title":"Restaurant Code-Along","level":"1.5.1","depth":2,"path":"Session3MoreHtml/RestaurantCodeAlong.md","ref":"Session3MoreHtml/RestaurantCodeAlong.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Session3MoreHtml/RestaurantIndividual.md","mtime":"2021-08-24T15:04:59.523Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-08-24T15:05:49.970Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

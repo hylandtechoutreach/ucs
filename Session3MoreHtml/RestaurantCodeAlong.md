@@ -67,14 +67,12 @@ It should look something like this:
 </html>
 ```
 
-## Adding a List of Locations
-Next, it's important to list the locations for the restaurant.
+## Adding Locations
+Next, it's important to have the locations for the restaurant.
 
 1. Add an `h2` header that says "Locations" under the `</iframe>`
-1. Under the `h2`, add a new `ul` (unordered list)
-1. Within the `ul`, add some locations within `li` elements
-    - Note that the `li` elements are _children_ of the `ul` element
-    - There should be at least _three_ locations
+1. Under the `h2`, add some locations within `p` elements
+   - There should be at least _three_ locations
 1. Open your webpage in a browser and make sure it appears as expected!
 
 At the end of this section, your code should look something like this:
@@ -89,119 +87,65 @@ At the end of this section, your code should look something like this:
         <iframe width="560" height="315" src="https://www.youtube.com/embed/wusGIl3v044" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
         <h2>Locations</h2>
-        <ul>
-            <li>Scranton, PA</li>
-            <li>Albany, NY</li>
-            <li>Utica, NY</li>
-        </ul>
+        <p>Scranton, PA</p>
+        <p>Albany, NY</p>
+        <p>Utica, NY</p>
     </body>
 </html>
 ```
 
-## Adding the Menu - A New Page
-The website has information now, but we still need to add in a menu! The menu can be another page on the website - this way, it can stay separate from the main page. Start by adding a new file, filling out some basic HTML, and linking it from the **index.html** file.
+## Adding a Menu
+The website has information now, but we still need to add in a menu!
 
-1. In the Replit project, add a new file by clicking the "Add file" button
-1. Enter the name **menu.html** for the new file
-1. Open the new file, and add the basic elements: `html` and `body`
-1. Within the `body`, add an `h1` header that says "Menu"
-1. Under that, add a `p` that says "No substitutions please"
-
-The code in the **menu.html** file should look something like this:
+1. Under the other code in the `<body></body>`, add an `<h2><h2>` element
+    - It should say "Menu"
+1. Add some specialty pizzas under the header, each in `<p></p>` elements
 
 ```html
-<html>
-    <body>
-        <h1>Menu</h1>
-        <p>No substitutions please</p>
-    </body>
-</html>
+<h2>Menu</h2>
+<p>Hawaiian Pizza</p>
+<p>Meat Lovers Pizza</p>
+<p>Meat Haters Pizza</p>
 ```
-
-### Linking to the New File
-In order to actually see the new page, it will be necessary to link to it from the main page!
-
-1. Open the **index.html** file for editing
-1. Under the `</ul>` element, create an `a` element
-1. Set the `src` of the `a` element to be "menu.html"
-1. Set the text of the `a` element to say "Menu
-
-The `a` element should look something like this:
-
-```html
-<a href="menu.html">Menu</a>
-```
-
-Run the program, and verify that it is possible to open the new Menu page!
-
-## Adding Specialty Pizzas
-Now that the Menu page has been created, we need to add some food to it.
-
-1. Open the **menu.html** file for editing
-1. Make a new line under the `</p>` in the `body`
-1. Add an `h3` that says "Top Specialty Pizzas"
-1. Under the `</h3>`, create a `<ol></ol>` element
-    - This is an _unordered_ list because these are ranked in order
-1. Between the `<ol>` and `</ol>`, add an `<li></li>` element
-1. Between the `<li>` and `</li>`, add the text "Hawaiian Pizza"
-1. Continue this process and add two more `<li></li>` elements under the first one within the `ol`
-
-The code for this part should look something like this:
-
-```html
-<h3>Top Specialty Pizzas</h3>
-<ol>
-    <li>Hawaiian Pizza</li>
-    <li>Meat Lovers Pizza</li>
-    <li>Meat Haters Pizza</li>
-</ol>
-```
-
-Run the program, and verify that the specialty pizzas appear on the menu!
 
 ## Adding Toppings
 Next, add a section that lists all the toppings a customer can add.
 
-1. Under the `</ol>` in the `body`, make a new line
+1. Under the last `</p>` in the `body`, make a new line
 1. Add an `h3` that says "Toppings"
-1. Under the `</h3>`, create a `<ul></ul>` element
-1. Between the `<ul>` and `</ul>`, add an `<li></li>` element
-1. Between the `<li>` and `</li>`, add the text "Pepperoni"
-1. Continue this process and add two more `<li></li>` elements under the first one within the `ul`
+1. Under the `</h3>`, create a `<p></p>` element
+1. Between the `<p>` and `</p>`, add the text "Pepperoni"
+2. Continue this process and add two more `<p></p>` elements under the first one
 
 The code for this part should look something like this:
 
 ```html
 <h3>Toppings</h3>
-<ul>
-    <li>Pepperoni</li>
-    <li>Mushroom</li>
-    <li>Extra Cheese</li>
-</ul>
+<p>Pepperoni</p>
+<p>Mushrooms</p>
+<p>Extra cheese</p>
 ```
 
 Run the program, and verify that the toppings list appears on the menu!
 
-## Linking Back
-Currently, after a customer visits the menu, they cannot get back to the main page. We can fix this with another `a` element on the Menu page.
+## Linking to the Actual Website
+Alfredo's Cafe has an actual website that visitors may be interested in seeing. At the bottom of the page, add a hyperlink to this website!
 
-1. Under the final `</ul>`, make a new line
-1. Add an `a` element
-    - Set its `href` attribute to `index.html`
-    - Set its text content to `Back`
+1. Add a `h3` element saying "Alfredo's Cafe Site"
+1. Under that, add an `a` element
+1. Set the `href` attribute of the `a` element to `"https://www.alfredoscafe.com/"`
+1. Set the text between `<a>` and `</a>` to say "Click here"
 
-It should look something like this:
+The could should look something like this:
 
 ```html
-<a href="index.html">Back</a>
+<h3>Alfredo's Cafe Site</h3>
+<a href="https://www.alfredoscafe.com/">Click here</a>
 ```
 
-Run the program, and verify that it is possible to go to the Menu page and go back!
-
 ## Final HTML
-By the end, the two files should look something like this:
+By the end, the HTML should look something like this:
 
-**index.html**
 ```html
 <html>
     <body>
@@ -212,38 +156,22 @@ By the end, the two files should look something like this:
         <iframe width="560" height="315" src="https://www.youtube.com/embed/wusGIl3v044" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
         <h2>Locations</h2>
-        <ul>
-            <li>Scranton, PA</li>
-            <li>Albany, NY</li>
-            <li>Utica, NY</li>
-        </ul>
-        <a href="menu.html">Menu</a>
-    </body>
-</html>
-```
+        <p>Scranton, PA</p>
+        <p>Albany, NY</p>
+        <p>Utica, NY</p>
 
-**menu.html**
-```html
-<html>
-    <body>
-        <h1>Menu</h1>
-        <p>No substitutions please</p>
-
-        <h3>Top Specialty Pizzas</h3>
-        <ol>
-            <li>Hawaiian Pizza</li>
-            <li>Meat Lovers Pizza</li>
-            <li>Meat Haters Pizza</li>
-        </ol>
+        <h2>Menu</h2>
+        <p>Hawaiian Pizza</p>
+        <p>Meat Lovers Pizza</p>
+        <p>Meat Haters Pizza</p>
 
         <h3>Toppings</h3>
-        <ul>
-            <li>Pepperoni</li>
-            <li>Mushroom</li>
-            <li>Extra Cheese</li>
-        </ul>
-
-        <a href="index.html">Back</a>
+        <p>Pepperoni</p>
+        <p>Mushrooms</p>
+        <p>Extra cheese</p>
+        
+        <h3>Alfredo's Cafe Site</h3>
+        <a href="https://www.alfredoscafe.com/">Click here</a>
     </body>
 </html>
 ```
