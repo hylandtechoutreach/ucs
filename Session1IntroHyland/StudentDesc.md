@@ -3,7 +3,3 @@ For the first session of this program, we will get to know you as you get to kno
 
 ## Questionnaire
 Please complete [this survey](https://forms.gle/aErAxixc21dv8mpK8) to tell us more about yourself.
-
-## Icebreakers
-
-## Hyland Presentation
