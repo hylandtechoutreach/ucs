@@ -5,7 +5,7 @@ Learn what HTML is all about, and how to use some of the basic HTML elements: he
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/ucs/Session2HtmlIntro/HelloHtml.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## HTML Typing Practice
-See how quickly you can [type](https://www.speedcoder.net/lessons/custom/2/text/HTML%20Test%202%20-%20Spongebob%20Quotes/1/) some HTML code for a Spongebob website!
+See how quickly you can [type](https://www.speedcoder.net/lessons/html/1/) some HTML code!
 
 ## Activities
 - [About Me Code-Along](AboutMeCodeAlong.md)
