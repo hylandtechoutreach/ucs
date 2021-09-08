@@ -6,3 +6,7 @@
 - [Session 4: More HTML Elements](Session4MoreHtml/StudentDesc.md)
   - [Restaurant Code-Along](Session4MoreHtml/RestaurantCodeAlong.md)
   - [Restaurant Individual](Session4MoreHtml/RestaurantIndividual.md)
+- [Session 5: Intro to CSS](Session5CssIntro/StudentDesc.md)
+  - [Coolors Warm-up](Session5CssIntro/CoolorsWarmUp.md)
+  - [Bananas Code-Along](Session5CssIntro/BananasCodeAlong.md)
+  - [Bananas Individual](Session5CssIntro/BananasIndividual.md)
