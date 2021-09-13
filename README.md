@@ -36,6 +36,7 @@ In addition to the hardware, students and instructors should all have access to 
 - https://speedcoder.net/
 - https://nitrotype.com/
 - https://coolors.co/
+- https://hourofcode.com/
 - https://sporcle.com/
 - https://kahoot.com/
 - https://kahoot.it/
