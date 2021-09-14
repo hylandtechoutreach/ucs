@@ -19,5 +19,6 @@ To close out the session, play through a [Baamboozle group quiz](https://www.baa
 |-|-|
 | Lecture | 10m |
 | Code-Along | 25m |
-| Individual Exercise | 15m |
+| Individual Exercise | 10m |
 | Baamboozle Quiz | 10m |
+| Survey | 5m |
