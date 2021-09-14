@@ -22,6 +22,7 @@ If there is enough time, close out the session with an activity where the studen
 |-|-|
 | Warm-up | 10m |
 | Lecture | 15m |
-| Code-Along | 25m |
+| Code-Along | 20m |
 | Individual Exercise | 10m |
 | Sporcle | 5m |
+| Survey | 5m |
