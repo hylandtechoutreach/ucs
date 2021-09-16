@@ -31,6 +31,7 @@ In addition to the hardware, students and instructors should all have access to 
 - https://replit.com/
 - https://repl.co/
 - https://hylandtechoutreach.github.io/
+- https://github.com/
 - https://images.google.com/
 - https://docs.google.com/
 - https://speedcoder.net/
