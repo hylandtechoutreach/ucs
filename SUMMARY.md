@@ -10,3 +10,6 @@
   - [Coolors Warm-up](Session5CssIntro/CoolorsWarmUp.md)
   - [Bananas Code-Along](Session5CssIntro/BananasCodeAlong.md)
   - [Bananas Individual](Session5CssIntro/BananasIndividual.md)
+- [Session 6: More HTML Elements](Session6MoreCss/StudentDesc.md)
+  - [Rainbow Poem Code-Along](Session6MoreCss/RainbowPoemCodeAlong.md)
+  - [Rainbow Poem Individual](Session6MoreCss/RainbowPoemIndividual.md)

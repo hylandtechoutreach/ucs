@@ -1,0 +1,110 @@
+# Rainbow Poem Code-Along
+In this activity, take an existing poem and make it your own!
+
+## Current Site
+Start by taking a look at the [existing website](https://replit.com/@HylandOutreach/RainbowPoem). Try to figure out what it does! In the HTML, it has a header, a picture, and a few paragraphs with lines from a poem. In the CSS, it sets some of the basic colors, adds a border to the image, and creates a couple classes. The first two lines of the poem are rainbow, but the rest are plain white. In this activity, update the HTML and CSS so that the whole poem is a rainbow!
+
+## A Green Line
+In the HTML, the first _three_ `<p>` elements for the poem have `class` attributes. Two of these are doing what they are supposed to-- the `class="red"` is setting the color to red, and the `class="yellow"` is setting the color to yellow. Why is the `class="green"` not working? Take a look at the CSS.
+
+In the CSS, there are two rulesets that change the color: `.red` and `.yellow`. These set the `<p class="red">` to red and the `<p class="yellow">` to yellow.
+
+**Add another ruleset to set all `<p class="green">` elements to be green.**
+
+>Hint: for a nice bright green, use `lime`.
+
+```css
+.green {
+    color: lime;
+}
+```
+
+After adding that CSS, the third line should turn green!
+
+## A Blue Line
+Setting the fourth line to blue will be very similar to the first three lines - this time, it will be necessary to update both the HTML and the CSS.
+
+### CSS
+First, create a new ruleset to select elements with a `class` of `blue`: `.blue { }`
+
+Within that ruleset, set the color to a nice light blue: `color: cyan`
+
+```css
+.blue {
+    color: cyan;
+}
+```
+
+After adding that CSS, nothing should happen - the HTML still needs to be updated.
+
+### HTML
+Now that a ruleset has been created, it can be used to style HTML elements.
+
+1. Open the HTML file for editing
+1. Find the `<p>` element with the fourth line of the poem
+1. Add a `class` attribute to the paragraph
+1. Set the value of the `class` attribute to `blue`
+
+```html
+<p class="blue">I'll tell you how I became the prince of a town called Bel-Air</p>
+```
+
+After adding that in the HTML, the fourth line should become blue!
+
+## The Second Verse
+For the second verse, only the HTML will need to change. Update te next four `<p>` elements so that they show up in rainbow colors!
+
+For each paragraph, add a `class` attribute with a value for either `red`, `yellow`, `green`, or `blue`. After updating the HTML, check out the site and make sure the text changes color properly!
+
+## Final HTML
+
+```html
+<html>
+  <head>
+    <link href="style.css" type="text/css" rel="stylesheet">
+  </head>
+  <body>
+    <h1>My Poem</h1>
+    <img src="https://i.imgur.com/qUIR8Qm.jpg">
+    <p class="red">Now this is a story all about how</p>
+    <p class="yellow">My life got flipped turned upside down</p>
+    <p class="green">And I'd like to take a minute, just sit right there</p>
+    <p class="blue">I'll tell you how I became the prince of a town called Bel-Air</p>
+    
+    <p class="red">In West Philadelphia born and raised</p>
+    <p class="yellow">On the playground is where I spent most of my days</p>
+    <p class="green">Chillin' out, maxin', relaxin' all cool</p>
+    <p class="blue">And all shootin' some b-ball outside of the school</p>
+  </body>
+</html>
+```
+
+## Final CSS
+
+```css
+body {
+  background: black;
+  color: white;
+}
+
+img {
+  height: 150px;
+  border: 5px solid pink;
+}
+
+.red {
+  color: red;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.green {
+  color: lime;
+}
+
+.blue {
+  color: cyan;
+}
+```
