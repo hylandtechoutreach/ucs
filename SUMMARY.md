@@ -17,3 +17,6 @@
   - [Piskel Demo](Session7Piskel/PiskelDemo.md)
   - [Game Animation](Session7Piskel/GameAnimation.md)
   - [Animation Challenges](Session7Piskel/AnimationChallenges.md)
+- [Final Project](FinalProject/StudentDesc.md)
+  - [HTML Cheatsheet](FinalProject/HtmlCheatsheet.md)
+  - [CSS Cheatsheet](FinalProject/CssCheatsheet.md)
