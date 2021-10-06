@@ -8,9 +8,11 @@ This repository contains material for Hyland's partnership with Urban Community 
 1. CSS Intro - coolors, bananas
 1. More CSS - tv theme song w/ classes
 1. Piskel + JavaScript Game
-1. Final Project work (whatever site they would like)
+1. [Final Project work](FinalProject/README.md) (whatever site they would like)
 1. More Final project work
 1. Final project work + presentations
+
+During the final project work, take some time to do [review activities](ReviewActivities/README.md) as well.
 
 #### Original Schedule
 
