@@ -24,7 +24,7 @@ The content can be anything you would like to share. Show us your passion while 
 If you are trying to do something on your site, there are some helpful places to start looking for how to do whatever you want to do!
 
 - [HTML Cheatsheet](HtmlCheatsheet.md)
-- [CSS Cheatseet](CssCheatsheet.md)
+- [CSS Cheathseet](CssCheatsheet.md)
 - [W3 Schools](https://w3schools.com)
 
 ## Additional Topics
