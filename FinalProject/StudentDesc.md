@@ -26,3 +26,9 @@ If you are trying to do something on your site, there are some helpful places to
 - [HTML Cheatsheet](HtmlCheatsheet.md)
 - [CSS Cheatseet](CssCheatsheet.md)
 - [W3 Schools](https://w3schools.com)
+
+## Additional Topics
+If you reach the point where you are "done" with your website, take a look at the [Additional Topics](https://hylandtechoutreach.github.io/coding-activities/HtmlCssJsContinued/AdditionalTopicChallenges.html). Complete some of the challenges on your site.
+
+## Project Submission
+Please submit your projects by filling out [this form](https://forms.gle/rzizmfcCCNbUNkzn9).
