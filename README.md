@@ -12,6 +12,21 @@ This repository contains material for Hyland's partnership with Urban Community 
 1. More Final project work
 1. Final project work + presentations
 
+## Schedule for Trimester 2, 2021-2022
+
+- Hyland Intro
+- HTML Intro
+- HTML Intro pt 2
+- More HTML
+- Hour of Code
+- CSS Intro
+- More CSS
+- Piskel
+- JavaScript
+- Final Project
+- Final Project presentations
+- Making a Game with MakeCode Arcade
+
 During the final project work, take some time to do [review activities](ReviewActivities/README.md) as well.
 
 #### Original Schedule
