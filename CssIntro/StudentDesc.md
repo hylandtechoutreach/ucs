@@ -5,7 +5,7 @@ Learn what CSS is all about, and how to use CSS to change colors and fonts. Star
 Follow the instructions [here](CoolorsWarmUp.md) to create a color scheme!
 
 ## Introduction to CSS PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/ucs/Session5CssIntro/HelloCss.pptx' width='100%' height='450px' frameborder='0'></iframe>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/ucs/CssIntro/HelloCss.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Activities
 - [Bananas Code-Along](BananasCodeAlong.md)
