@@ -2,13 +2,13 @@
 Thank you for participating in this program!
 
 ## Schedule
-1. [Kick-Off: Intro to Hyland](Session1IntroHyland/StudentDesc.md)
-1. [HTML Introduction](Session2HtmlIntro/StudentDesc.md)
-1. [HTML Introduction Part 2](Session3HtmlIntro2/StudentDesc.md)
-1. [Session 4: More HTML](Session4MoreHtml/StudentDesc.md)
-1. [Session 5: CSS Introduction](Session5CssIntro/StudentDesc.md)
-1. [Session 6: More CSS](Session6MoreCss/StudentDesc.md)
-1. [Session 7: Piskel](Session7Piskel/StudentDesc.md)
+1. [Kick-Off: Intro to Hyland](IntroHyland/StudentDesc.md)
+1. [HTML Introduction](HtmlIntro/StudentDesc.md)
+1. [HTML Introduction Part 2](HtmlIntro2/StudentDesc.md)
+1. [More HTML](MoreHtml/StudentDesc.md)
+1. [CSS Introduction](CssIntro/StudentDesc.md)
+1. [More CSS](MoreCss/StudentDesc.md)
+1. [Piskel](Piskel/StudentDesc.md)
 1. [Final Project](FinalProject/StudentDesc.md)
 
 ## Weekly Check-in
