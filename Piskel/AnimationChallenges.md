@@ -3,7 +3,7 @@ After completing the [Game Animation Follow-Along](GameAnimation.md), work on so
 
 Click the links below to scroll to one of the options on this page.
 
-- [Option 1: A Totally New Sprite](#option-1-a-totally-new-sprite-op1)
+- [Option 1: A Totally New Sprite](#option-1-a-totally-new-sprite)
 - [Option 2: Updating the Existing Game Art](#option-2-updating-the-existing-game-art)
 - [Option 3: Updating the Existing Game Code](#option-3-updating-the-existing-game-code)
 
