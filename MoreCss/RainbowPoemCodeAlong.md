@@ -2,7 +2,28 @@
 In this activity, take an existing poem and make it your own!
 
 ## Current Site
-Start by taking a look at the [existing website](https://replit.com/@HylandOutreach/RainbowPoem). Try to figure out what it does! In the HTML, it has a header, a picture, and a few paragraphs with lines from a poem. In the CSS, it sets some of the basic colors, adds a border to the image, and creates a couple classes. The first two lines of the poem are rainbow, but the rest are plain white. In this activity, update the HTML and CSS so that the whole poem is a rainbow!
+Start by taking a look at the [existing website](https://replit.com/@HylandOutreach/RainbowPoem). Try to figure out what it does! In the HTML, it has a header, a picture, and a few paragraphs with lines from a poem. In the CSS, it sets some of the basic colors and creates a couple classes. The first two lines of the poem are rainbow, but the rest are plain white. In this activity, update the HTML and CSS so that the whole poem is a rainbow!
+
+## First - Fixing the Image
+Before updating the text, start by updating the CSS for the image. Set its width and its [border](https://www.w3schools.com/css/css_border.asp).
+
+1. Open the **style.css** file
+1. Create a new ruleset for `img`
+  - Start with `img`
+  - Then add `{` and `}`
+  - Press Enter between them to open up a new line
+1. On the new line, create a declaration setting `width` to `150px`
+1. Make another line under that
+1. Create another declaration setting `border` to `1px solid pink`
+
+The code should look something like this:
+
+```css
+img {
+  height: 150px;
+  border: 5px solid pink;
+}
+```
 
 ## A Green Line
 In the HTML, the first _three_ `<p>` elements for the poem have `class` attributes. Two of these are doing what they are supposed to-- the `class="red"` is setting the color to red, and the `class="yellow"` is setting the color to yellow. Why is the `class="green"` not working? Take a look at the CSS.
@@ -87,17 +108,17 @@ body {
   color: white;
 }
 
-img {
-  height: 150px;
-  border: 5px solid pink;
-}
-
 .red {
   color: red;
 }
 
 .yellow {
   color: yellow;
+}
+
+img {
+  height: 150px;
+  border: 5px solid pink;
 }
 
 .green {

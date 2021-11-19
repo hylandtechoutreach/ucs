@@ -13,7 +13,8 @@ Walk through the [Rainbow Poem Code-Along](RainbowPoemCodeAlong.md) activity. St
 ## Individual Exercise: Rainbow Poem Updates
 Students should follow [these instructions](RainbowPoemIndividual.md) independently to make more updates to the Poem site. They should have a chance to make the site their own.
 
-They can have the opportunity to complete challenges either during class or at home.
+## Group Review Activity
+If there is extra time at the end and the students are having trouble focusing, walk through the [CSS Review Activity PowerPoint Presentation](CssReview.pptx) for more structured practice. Play [Around the World](https://www.greatgroupgames.com/around-the-world), or simply ask the questions to students one by one. Note that this exercise will only be necessary if the students are not focusing on their websites - otherwise, they should be able to continue working on their sites.
 
 ## Suggested Schedule
 
@@ -21,6 +22,7 @@ They can have the opportunity to complete challenges either during class or at h
 |-|-|
 | Lecture | 10m |
 | Kahoot | 10m |
-| Code-Along | 25m |
+| Code-Along | 15m |
 | Individual Exercise | 10m |
+| Group Review Activity (optional) | 10m |
 | Survey | 5m |
