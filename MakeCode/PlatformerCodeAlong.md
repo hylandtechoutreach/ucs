@@ -20,15 +20,14 @@ Click the "Edit Code" button to start working on a new MakeCode Arcade project. 
 For your first block, set the background color.
 
 1. In the **Block Selection** section, click on "Scene" and find the `set background color to` block  
-1. Click on the `set background color to` block, and drag it into the `on start` block  
+1. Click on the `set background color to` block, and drag it into the `on start` block (right under the `set tilemap to` block)
 1. Click on the blank spot in the background color block, and select a color for the background  
 1. The game preview should automatically update, and the background should be the proper color!
 
 ## Creating the Main Character
-The first thing the game needs is a main character for the player to control!
+The next thing the game needs is a main character for the player to control!
 
-1. In the **Block Selection** section, in the "Sprites" category, click and drag the red `set mySprite to` block under the background color block  
-    ![](https://i.imgur.com/TK6AUAx.png)
+1. In the **Block Selection** section, in the "Sprites" category, click and drag the red `set mySprite to` block under the background color block
 1. In the `set mySprite to` block, click the drop-down arrow on `mySprite`, and click "Rename variable..."  
     ![](https://i.imgur.com/DvJnknn.png)
 1. Set the variable name to "Main Character"
@@ -37,9 +36,6 @@ The first thing the game needs is a main character for the player to control!
     ![](https://i.imgur.com/kudM2w5.png)
 1. Draw a sprite image for the main character, and then click the green "Done" button in the bottom right
 1. The game preview should automatically update, and the main character sprite should appear!
-
-### _Side-Note: Variables_
-In computer science, **variables** are containers for data. In MakeCode Arcade, variables can hold things like sprites, images, hit points, the player's score... almost anything!
 
 ## Moving the Main Character
 The main character should be able to move left and right, as in any other platformer.
@@ -53,7 +49,7 @@ The main character should be able to move left and right, as in any other platfo
 1. Test out the game in the game preview again, and verify that the main character only moves left and right!
 
 ## Adding Gravity
-Now that the character can move, it's time to add gravity to the game!
+Now that the character can move left and right, it's time to add gravity to the game!
 
 1. In the "Sprites" category, click and drag a `set mySprite x to 0` block under the existing blocks in `on start`  
   ![](https://i.imgur.com/fo4305C.png)
@@ -136,5 +132,5 @@ At this point, the project should look something like this: https://makecode.com
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/#pub:_aLv4XqPHXPT5" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
-## Challenges
-Once the main activity is complete, feel free to work on some [challenges](Challenges.md). There are also instructions for adding an animation to the game below.
+## Individual Exercises
+Once the main activity is complete, feel free to work on some [individual exercises](PlatformerIndividual.md).  
