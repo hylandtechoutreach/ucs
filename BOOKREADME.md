@@ -9,6 +9,7 @@ Thank you for participating in this program!
 1. [CSS Introduction](CssIntro/StudentDesc.md)
 1. [More CSS](MoreCss/StudentDesc.md)
 1. [Piskel](Piskel/StudentDesc.md)
+1. [JavaScript](JavaScript/StudentDesc.md)
 1. [Final Project](FinalProject/StudentDesc.md)
 
 ## Weekly Check-in
