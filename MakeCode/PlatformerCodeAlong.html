@@ -596,14 +596,14 @@
 <p>For your first block, set the background color.</p>
 <ol>
 <li>In the <strong>Block Selection</strong> section, click on &quot;Scene&quot; and find the <code>set background color to</code> block  </li>
-<li>Click on the <code>set background color to</code> block, and drag it into the <code>on start</code> block  </li>
+<li>Click on the <code>set background color to</code> block, and drag it into the <code>on start</code> block (right under the <code>set tilemap to</code> block)</li>
 <li>Click on the blank spot in the background color block, and select a color for the background  </li>
 <li>The game preview should automatically update, and the background should be the proper color!</li>
 </ol>
 <h2 id="creating-the-main-character">Creating the Main Character</h2>
-<p>The first thing the game needs is a main character for the player to control!</p>
+<p>The next thing the game needs is a main character for the player to control!</p>
 <ol>
-<li>In the <strong>Block Selection</strong> section, in the &quot;Sprites&quot; category, click and drag the red <code>set mySprite to</code> block under the background color block<br> <img src="https://i.imgur.com/TK6AUAx.png" alt=""></li>
+<li>In the <strong>Block Selection</strong> section, in the &quot;Sprites&quot; category, click and drag the red <code>set mySprite to</code> block under the background color block</li>
 <li>In the <code>set mySprite to</code> block, click the drop-down arrow on <code>mySprite</code>, and click &quot;Rename variable...&quot;<br> <img src="https://i.imgur.com/DvJnknn.png" alt=""></li>
 <li>Set the variable name to &quot;Main Character&quot;<ul>
 <li><em>Note: If the main character has a name, this could be their name instead! Just make sure to use the name when referencing the <code>Main Character</code> sprite</em></li>
@@ -613,8 +613,6 @@
 <li>Draw a sprite image for the main character, and then click the green &quot;Done&quot; button in the bottom right</li>
 <li>The game preview should automatically update, and the main character sprite should appear!</li>
 </ol>
-<h3 id="side-note-variables"><em>Side-Note: Variables</em></h3>
-<p>In computer science, <strong>variables</strong> are containers for data. In MakeCode Arcade, variables can hold things like sprites, images, hit points, the player&apos;s score... almost anything!</p>
 <h2 id="moving-the-main-character">Moving the Main Character</h2>
 <p>The main character should be able to move left and right, as in any other platformer.</p>
 <ol>
@@ -628,7 +626,7 @@
 <li>Test out the game in the game preview again, and verify that the main character only moves left and right!</li>
 </ol>
 <h2 id="adding-gravity">Adding Gravity</h2>
-<p>Now that the character can move, it&apos;s time to add gravity to the game!</p>
+<p>Now that the character can move left and right, it&apos;s time to add gravity to the game!</p>
 <ol>
 <li>In the &quot;Sprites&quot; category, click and drag a <code>set mySprite x to 0</code> block under the existing blocks in <code>on start</code><br><img src="https://i.imgur.com/fo4305C.png" alt=""></li>
 <li>Click the drop-down arrow next to <code>mySprite</code> and select <code>Main Character</code></li>
@@ -707,8 +705,8 @@
 <p>At this point, the project should look something like this: <a href="https://makecode.com/_b6V3sP1w5DgL" target="_blank">https://makecode.com/_b6V3sP1w5DgL</a></p>
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/#pub:_aLv4XqPHXPT5" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
-<h2 id="challenges">Challenges</h2>
-<p>Once the main activity is complete, feel free to work on some <a href="Challenges.md">challenges</a>. There are also instructions for adding an animation to the game below.</p>
+<h2 id="individual-exercises">Individual Exercises</h2>
+<p>Once the main activity is complete, feel free to work on some <a href="PlatformerIndividual.html">individual exercises</a>.  </p>
 
                                 
                                 </section>
@@ -752,7 +750,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Platformer Code-Along","level":"1.12.1","depth":2,"next":{"title":"Platformer Individual","level":"1.12.2","depth":2,"path":"MakeCode/PlatformerIndividual.md","ref":"MakeCode/PlatformerIndividual.md","articles":[]},"previous":{"title":"MakeCode","level":"1.12","depth":1,"path":"MakeCode/StudentDesc.md","ref":"MakeCode/StudentDesc.md","articles":[{"title":"Platformer Code-Along","level":"1.12.1","depth":2,"path":"MakeCode/PlatformerCodeAlong.md","ref":"MakeCode/PlatformerCodeAlong.md","articles":[]},{"title":"Platformer Individual","level":"1.12.2","depth":2,"path":"MakeCode/PlatformerIndividual.md","ref":"MakeCode/PlatformerIndividual.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"MakeCode/PlatformerCodeAlong.md","mtime":"2021-11-19T17:26:46.653Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-11-19T17:27:24.957Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Platformer Code-Along","level":"1.12.1","depth":2,"next":{"title":"Platformer Individual","level":"1.12.2","depth":2,"path":"MakeCode/PlatformerIndividual.md","ref":"MakeCode/PlatformerIndividual.md","articles":[]},"previous":{"title":"MakeCode","level":"1.12","depth":1,"path":"MakeCode/StudentDesc.md","ref":"MakeCode/StudentDesc.md","articles":[{"title":"Platformer Code-Along","level":"1.12.1","depth":2,"path":"MakeCode/PlatformerCodeAlong.md","ref":"MakeCode/PlatformerCodeAlong.md","articles":[]},{"title":"Platformer Individual","level":"1.12.2","depth":2,"path":"MakeCode/PlatformerIndividual.md","ref":"MakeCode/PlatformerIndividual.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"MakeCode/PlatformerCodeAlong.md","mtime":"2021-11-19T19:22:07.861Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-11-19T19:22:40.683Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
