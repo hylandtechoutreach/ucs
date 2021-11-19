@@ -24,3 +24,6 @@
 - [Final Project](FinalProject/StudentDesc.md)
   - [HTML Cheatsheet](FinalProject/HtmlCheatsheet.md)
   - [CSS Cheatsheet](FinalProject/CssCheatsheet.md)
+- [MakeCode](MakeCode/StudentDesc.md)
+  - [Platformer Code-Along](MakeCode/PlatformerCodeAlong.md)
+  - [Platformer Individual](MakeCode/PlatformerIndividual.md)

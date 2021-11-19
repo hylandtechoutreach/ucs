@@ -11,6 +11,7 @@ Thank you for participating in this program!
 1. [Piskel](Piskel/StudentDesc.md)
 1. [JavaScript](JavaScript/StudentDesc.md)
 1. [Final Project](FinalProject/StudentDesc.md)
+1. [MakeCode](MakeCode/StudentDesc.md)
 
 ## Weekly Check-in
 Complete the weekly check-in survey [here](https://docs.google.com/forms/d/e/1FAIpQLScSC-ez-fssrtM040_hr_dSNvgcZej59CJRfQNGvFCPaGe9Hw/viewform?usp=sf_link).
