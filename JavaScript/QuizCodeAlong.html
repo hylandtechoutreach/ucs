@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>About Me Code-Along · GitBook</title>
+        <title>Quiz Code-Along · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -63,7 +63,7 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="AboutMeIndividual.html" />
+    <link rel="next" href="QuizIndividual.html" />
     
     
     <link rel="prev" href="StudentDesc.html" />
@@ -147,9 +147,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.5" data-path="StudentDesc.html">
+        <li class="chapter " data-level="1.5" data-path="../HtmlIntro2/StudentDesc.html">
             
-                <a href="StudentDesc.html">
+                <a href="../HtmlIntro2/StudentDesc.html">
             
                     
                     Intro to HTML Part 2
@@ -161,9 +161,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter active" data-level="1.5.1" data-path="AboutMeCodeAlong.html">
+        <li class="chapter " data-level="1.5.1" data-path="../HtmlIntro2/AboutMeCodeAlong.html">
             
-                <a href="AboutMeCodeAlong.html">
+                <a href="../HtmlIntro2/AboutMeCodeAlong.html">
             
                     
                     About Me Code-Along
@@ -174,9 +174,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.5.2" data-path="AboutMeIndividual.html">
+        <li class="chapter " data-level="1.5.2" data-path="../HtmlIntro2/AboutMeIndividual.html">
             
-                <a href="AboutMeIndividual.html">
+                <a href="../HtmlIntro2/AboutMeIndividual.html">
             
                     
                     About Me Individual
@@ -398,9 +398,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.10" data-path="../JavaScript/StudentDesc.html">
+        <li class="chapter " data-level="1.10" data-path="StudentDesc.html">
             
-                <a href="../JavaScript/StudentDesc.html">
+                <a href="StudentDesc.html">
             
                     
                     JavaScript
@@ -412,9 +412,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.10.1" data-path="../JavaScript/QuizCodeAlong.html">
+        <li class="chapter active" data-level="1.10.1" data-path="QuizCodeAlong.html">
             
-                <a href="../JavaScript/QuizCodeAlong.html">
+                <a href="QuizCodeAlong.html">
             
                     
                     Quiz Code-Along
@@ -425,9 +425,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.10.2" data-path="../JavaScript/QuizIndividual.html">
+        <li class="chapter " data-level="1.10.2" data-path="QuizIndividual.html">
             
-                <a href="../JavaScript/QuizIndividual.html">
+                <a href="QuizIndividual.html">
             
                     
                     Quiz Individual
@@ -518,7 +518,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >About Me Code-Along</a>
+        <a href=".." >Quiz Code-Along</a>
     </h1>
 </div>
 
@@ -533,92 +533,144 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="about-me-code-along">About Me: Code-Along</h1>
-<p>With this exercise, you will create a webpage that shows some information about yourself.</p>
-<h2 id="making-a-repl-account">Making a Repl Account</h2>
-<p>Before beginning, make sure you have a Repl account. You can follow <a href="../ReplSetup.html">these instructions</a> to set one up if you do not have one.</p>
-<h2 id="getting-started">Getting Started</h2>
-<p>Start by creating a <strong>fork</strong> of an empty project to get started.</p>
+                                <h1 id="about-me-quiz---javascript-lesson">About Me Quiz - JavaScript Lesson</h1>
+<p>Learn how JavaScript can make websites interactive by building a simple quiz about yourself.</p>
+<h2 id="starting-point">Starting Point</h2>
+<p>Start by forking <a href="https://replit.com/@HylandOutreach/JavaScriptLessonStarter#index.html" target="_blank">this Repl project</a>. It contains some HTML and CSS starter code for the About Me website.</p>
+<h3 id="update-the-starter-html">Update the Starter HTML</h3>
+<p>Wherever the word &quot;blank&quot; appears in the <strong>index.html</strong> file, update it to personalize your website! For example, where it says &quot;I&apos;m blank,&quot; replace the &quot;blank&quot; with your name.</p>
+<h3 id="update-the-starter-css">Update the Starter CSS</h3>
+<p>In the <strong>style.css</strong> file, change the background color, text color, and font!</p>
+<h2 id="interactivity-with-javascript">Interactivity with JavaScript</h2>
+<p>JavaScript is the programming language of the web; it allows webpages to be <em>interactive</em>. Developers use JavaScript to trigger events, create animations, make games, and much more!</p>
+<p>The next step for the site is to add functionality to the &quot;Quiz Me&quot; button. It should pop up a quiz that allows the user to answer some questions and receive a final score. This is possible with JavaScript!</p>
+<h3 id="defining-the-function">Defining the Function</h3>
+<p>Developers use <em>functions</em> in JavaScript to trigger certain actions. In this example, clicking the &quot;Quiz Me&quot; button will <em>call</em> a JavaScript function. That means it triggers some actions! <code>alert</code> is the command that lets developers show messages to the user on a webpage.</p>
 <ol>
-<li>Go to <a href="https://replit.com/@HylandOutreach/AboutMeBegin#index.html" target="_blank">this empty Project</a></li>
-<li>Click the &quot;Fork&quot; button in the upper right<br> <img src="https://i.imgur.com/UuJ0Emr.png" alt=""></li>
+<li>Open the <strong>script.js</strong> file in the Repl project</li>
+<li>Create an empty function definition for the <code>startQuiz</code> function<ul>
+<li>This requires the <code>function</code> keyword, the function name, parentheses, and curly brackets</li>
+</ul>
+</li>
+<li>In the <em>body</em> of the function, add an <code>alert</code> statement that welcomes the user</li>
 </ol>
-<h2 id="html-setup">HTML Setup</h2>
-<p>Now everything should be ready to go. Start by creating a simple HTML document containing a header.</p>
-<ol>
-<li>In the <strong>index.html</strong> file, add the <code>&lt;html&gt;&lt;/html&gt;</code> opening and closing tag</li>
-<li>Inside of the <code>&lt;html&gt;</code> and <code>&lt;/html&gt;</code>, add the <code>&lt;body&gt;&lt;/body&gt;</code> opening and closing tag</li>
-<li>Inside of the <code>&lt;body&gt;</code> and <code>&lt;/body&gt;</code>, add a <code>&lt;h1&gt;&lt;/h1&gt;</code> header tag that says &quot;About Me&quot;</li>
-<li>Click the <strong>Run</strong> button to make sure your page is working!</li>
-</ol>
-<p>At the end of the <strong>Setup</strong>, your code should look like this (try to match the spacing):</p>
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>About Me<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
-    <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
-<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+<p>The code so far should look something like this:</p>
+<pre><code class="lang-js"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">startQuiz</span>(<span class="hljs-params"></span>) </span>{
+    alert(<span class="hljs-string">&quot;Welcome to my quiz :)&quot;</span>);
+}
 </code></pre>
-<h2 id="greeting-and-basic-information">Greeting and Basic Information</h2>
-<p>Next, add some additional information to the webpage.</p>
+<p>Run the program. On the webpage, click the button to make sure it is hooked up properly! Note that this is possible because of the <code>onclick</code> attribute on the HTML button.</p>
+<h3 id="receiving-information-from-the-user">Receiving Information from the User</h3>
+<p><code>prompt</code> is a command that allows us to ask questions to the user. When the user answers, the computer stores that text in a <em>variable</em>. Developers can then reference that information in the future!</p>
 <ol>
-<li>Under the <code>h1</code> header tag, add in a <code>&lt;p&gt;&lt;/p&gt;</code> paragraph tag welcoming the user to your page</li>
-<li>Add another paragraph containing your name</li>
-<li>Add another paragraph containing your grade level</li>
-<li>Add another paragraph containing your favorite thing to do</li>
+<li>Under the <code>alert</code>, above the <code>}</code>, create a couple new lines</li>
+<li>Declare a <code>name</code> <em>variable</em>, and use a <code>prompt</code> to ask for the user&apos;s name</li>
+<li>On the next line, use an <code>alert</code> to say &quot;Good luck&quot; to the user (using their name!)</li>
 </ol>
-<p>At the end of this section, your code should look something like this:</p>
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>About Me<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
-
-        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>Welcome to my page!<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>My name is Arthur Read<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>I am in 3rd grade<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>I like to play with my dog<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
-    <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
-<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+<pre><code class="lang-js"><span class="hljs-keyword">var</span> name = prompt(<span class="hljs-string">&quot;What is your name?&quot;</span>);
+alert(<span class="hljs-string">&quot;Good luck &quot;</span> + name);
 </code></pre>
-<h2 id="favorite-animal">Favorite Animal</h2>
-<p>Add in a picture of your favorite animal.</p>
+<p>Run the program, click the button again, and make sure the prompt appears. The site should say good luck!</p>
+<h3 id="setting-up-the-quiz-variables">Setting up the Quiz Variables</h3>
 <ol>
-<li>Under the last <code>p</code> paragraph tag, add a smaller <code>h3</code> header that says &quot;Favorite Animal&quot;</li>
-<li>Add an image of your favorite animal<ol>
-<li>Find an animal in the Repl project <code>animals</code> folder</li>
-<li>Add an <code>&lt;img&gt;</code> image tag under the <code>h3</code> header</li>
-<li>Set the <code>src</code> of the image to <code>animals/</code> plus the image name, all in quotes</li>
-</ol>
+<li>Under the previous <code>alert</code>, above the <code>}</code>, create a couple new lines</li>
+<li>Declare a <code>points</code> variable<ul>
+<li>This will be used to keep track of how many points the user has earned (i.e., how many questions they have answered correctly)</li>
+<li>How many points should the user have at the beginning? (<code>0</code>)</li>
+</ul>
+</li>
+<li>Declare a <code>numberOfQuestions</code> variable<ul>
+<li>To start, set this value to <code>2</code></li>
+</ul>
 </li>
 </ol>
-<h3 id="using-a-new-picture">Using a New Picture</h3>
-<p>If none of the pictures in the <code>animals</code> folder will work, it is also possible to add another picture!</p>
-<ol>
-<li>Open a new tab, but make sure to keep the Replit project open too</li>
-<li>In the new tab, go to <a href="https://images.google.com/" target="_blank">google images</a></li>
-<li>Search for an animal you would like on your webpage (e.g., a koala)</li>
-<li>Click on the image, and make sure it fully loads on the right side of the page</li>
-<li>When it has loaded, right click it, and select &quot;Save image as...&quot;</li>
-<li>Enter a good name for the image (e.g., &quot;koala.jpg&quot;)</li>
-<li>Switch back to the Replit project tab</li>
-<li>Drag the newly saved image from the bottom of the page into the <code>animals</code> folder</li>
-<li>Now the image can be used in your project!</li>
-</ol>
-<p><img src="addimagetoreplit.gif" alt=""></p>
-<h2 id="final-html">Final HTML</h2>
-<p>The code should look something like this:</p>
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>About Me<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
-
-        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>Welcome to my page!<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>My name is Arthur Read<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>I am in 3rd grade<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>I like to play with my dog<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
-
-        <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Favorite Animal<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;animals/dog.png&quot;</span>&gt;</span>
-    <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
-<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+<pre><code class="lang-js"><span class="hljs-keyword">var</span> points = <span class="hljs-number">0</span>;
+<span class="hljs-keyword">var</span> numberOfQuestions = <span class="hljs-number">2</span>;
 </code></pre>
+<h3 id="asking-a-question">Asking a Question</h3>
+<p><code>if</code> statements allow developers to change the program flow based on certain information. It works just like in English; for example, &quot;if it is raining, I will wear a raincoat.&quot; In code, the program will do different things based on what the user says! For the quiz, the <code>points</code> should go up every time the user answers correctly. So, &quot;if the answer from the user is equal to the correct answer, increase the points!&quot;</p>
+<ol>
+<li>Under the <code>numberOfQuestions</code> variable declaration, above the <code>}</code>, create a couple new lines</li>
+<li>Ask the user a question using <code>prompt</code> (e.g., &quot;What is my name?&quot;)</li>
+<li>Store the user&apos;s answer in a variable called <code>answer1</code></li>
+<li>Under the <code>prompt</code>, create an <code>if</code> statement<ul>
+<li>What should happen based on the user&apos;s answer?</li>
+<li>If the user is correct, they should get a point. Otherwise, they should not.</li>
+</ul>
+</li>
+<li>Use <code>if</code>, parentheses, <code>===</code>, and curly brackets to set up the <code>if</code></li>
+<li>Within the curly brackets, use <code>++</code> to increment the value of the <code>points</code> variable</li>
+</ol>
+<pre><code class="lang-js"><span class="hljs-keyword">var</span> answer1 = prompt(<span class="hljs-string">&quot;What is my name?&quot;</span>);
+<span class="hljs-keyword">if</span> (answer1 === <span class="hljs-string">&quot;Joseph&quot;</span>) {
+    points++;
+}
+</code></pre>
+<p>Run the program and click the button again. It should ask the question, and allow the user to answer!</p>
+<h3 id="asking-another-question">Asking another Question</h3>
+<ol>
+<li>Repeat the steps above to ask another question underneath the first question</li>
+<li>The differences will be:<ul>
+<li><code>answer2</code> instead of <code>answer1</code> for the variable</li>
+<li>Ask a different question</li>
+<li>Check a different answer</li>
+</ul>
+</li>
+</ol>
+<pre><code class="lang-js"><span class="hljs-keyword">var</span> answer2 = prompt(<span class="hljs-string">&quot;Where do I live?&quot;</span>);
+<span class="hljs-keyword">if</span> (answer2 === <span class="hljs-string">&quot;Lakewood&quot;</span>) {
+    points++;
+}
+</code></pre>
+<p>Run the program, click the button, and see the second question!</p>
+<h3 id="calculating-the-final-score">Calculating the Final Score</h3>
+<p>Finally, it is possible to use the <code>points</code> variable to determine an overall score. Do some math to calculate the percentage against the total number of questions!</p>
+<blockquote>
+<p>NOTE: This section can be skipped and replaced with an <code>alert</code> that simply displays the number of points at the end</p>
+</blockquote>
+<ol>
+<li>Consider how to calculate the final score<ul>
+<li>The score will be the number of points the user has, divided by the total number of questions</li>
+<li>Multiply this by 100 to show a percentage</li>
+</ul>
+</li>
+<li>Under the final question, declare a <code>finalScore</code> variable</li>
+<li>Calculate the final score by dividing the <code>points</code> variable by the <code>numberOfQuestions</code> variable<ul>
+<li>Multiply this by 100 to show a percentage</li>
+</ul>
+</li>
+<li>Use an <code>alert</code> to show the final score to the user</li>
+</ol>
+<pre><code class="lang-js"><span class="hljs-keyword">var</span> finalScore = (points / numberOfQuestions) * <span class="hljs-number">100</span>;
+alert(<span class="hljs-string">&quot;Final score: &quot;</span> + finalScore + <span class="hljs-string">&quot;%&quot;</span>);
+</code></pre>
+<p>Run the program, click the button, and take the quiz. The final score should change based on the answers to the questions!</p>
+<h2 id="final-javascript-code">Final JavaScript Code</h2>
+<pre><code class="lang-js"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">startQuiz</span>(<span class="hljs-params"></span>) </span>{
+  alert(<span class="hljs-string">&quot;Welcome to the quiz :)&quot;</span>);
+
+  <span class="hljs-keyword">var</span> name = prompt(<span class="hljs-string">&quot;What is your name?&quot;</span>);
+  alert(<span class="hljs-string">&quot;Good luck &quot;</span> + name);
+
+  <span class="hljs-keyword">var</span> points = <span class="hljs-number">0</span>;
+  <span class="hljs-keyword">var</span> numberOfQuestions = <span class="hljs-number">2</span>;
+
+  <span class="hljs-keyword">var</span> answer1 = prompt(<span class="hljs-string">&quot;What is my name?&quot;</span>);
+  <span class="hljs-keyword">if</span> (answer1 === <span class="hljs-string">&quot;Joseph&quot;</span>) {
+    points++;
+  }
+
+  <span class="hljs-keyword">var</span> answer2 = prompt(<span class="hljs-string">&quot;Where do I live?&quot;</span>);
+  <span class="hljs-keyword">if</span> (answer2 === <span class="hljs-string">&quot;Lakewood&quot;</span>) {
+    points++;
+  }
+
+  <span class="hljs-keyword">var</span> finalScore = (points / numberOfQuestions) * <span class="hljs-number">100</span>;
+  alert(<span class="hljs-string">&quot;Final score: &quot;</span> + finalScore + <span class="hljs-string">&quot;%&quot;</span>);
+}
+</code></pre>
+<h2 id="individual-work">Individual Work</h2>
+<p>If there is time remaining, work on <a href="QuizIndividual.html">these individual exercises</a>.</p>
 
                                 
                                 </section>
@@ -646,12 +698,12 @@
 
             
                 
-                <a href="StudentDesc.html" class="navigation navigation-prev " aria-label="Previous page: Intro to HTML Part 2">
+                <a href="StudentDesc.html" class="navigation navigation-prev " aria-label="Previous page: JavaScript">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="AboutMeIndividual.html" class="navigation navigation-next " aria-label="Next page: About Me Individual">
+                <a href="QuizIndividual.html" class="navigation navigation-next " aria-label="Next page: Quiz Individual">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -662,7 +714,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"About Me Code-Along","level":"1.5.1","depth":2,"next":{"title":"About Me Individual","level":"1.5.2","depth":2,"path":"HtmlIntro2/AboutMeIndividual.md","ref":"HtmlIntro2/AboutMeIndividual.md","articles":[]},"previous":{"title":"Intro to HTML Part 2","level":"1.5","depth":1,"path":"HtmlIntro2/StudentDesc.md","ref":"HtmlIntro2/StudentDesc.md","articles":[{"title":"About Me Code-Along","level":"1.5.1","depth":2,"path":"HtmlIntro2/AboutMeCodeAlong.md","ref":"HtmlIntro2/AboutMeCodeAlong.md","articles":[]},{"title":"About Me Individual","level":"1.5.2","depth":2,"path":"HtmlIntro2/AboutMeIndividual.md","ref":"HtmlIntro2/AboutMeIndividual.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"HtmlIntro2/AboutMeCodeAlong.md","mtime":"2021-11-19T16:26:05.205Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-11-19T16:26:50.661Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Quiz Code-Along","level":"1.10.1","depth":2,"next":{"title":"Quiz Individual","level":"1.10.2","depth":2,"path":"JavaScript/QuizIndividual.md","ref":"JavaScript/QuizIndividual.md","articles":[]},"previous":{"title":"JavaScript","level":"1.10","depth":1,"path":"JavaScript/StudentDesc.md","ref":"JavaScript/StudentDesc.md","articles":[{"title":"Quiz Code-Along","level":"1.10.1","depth":2,"path":"JavaScript/QuizCodeAlong.md","ref":"JavaScript/QuizCodeAlong.md","articles":[]},{"title":"Quiz Individual","level":"1.10.2","depth":2,"path":"JavaScript/QuizIndividual.md","ref":"JavaScript/QuizIndividual.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"JavaScript/QuizCodeAlong.md","mtime":"2021-11-19T16:26:05.777Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-11-19T16:26:50.661Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
