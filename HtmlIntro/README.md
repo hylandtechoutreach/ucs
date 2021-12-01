@@ -22,7 +22,7 @@ With any remaining time, let the students compete in typing races [here](https:/
 |-|-|
 | Lecture | 15m |
 | Typing Practice | 15m |
-| Kahoot | 10m |
 | Repl Setup | 10m |
+| Kahoot | 10m |
 | More typing | 10m |
 | Survey | 5m |
