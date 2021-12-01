@@ -1,15 +1,15 @@
 # Repl Setup for HTML/CSS
 Create a **Replit** account in order to save and share HTML/CSS projects.
 
-1. Go to the [replit.com signup page](https://replit.com/signup)
-1. Fill out a username, email, and password, and click the "Sign up" button  
-    ![](https://i.imgur.com/W7P0elX.png)
-1. If necessary, prove your humanity to verify the account
-1. On the next page, click the "Build from scratch" button  
-    ![](https://i.imgur.com/UQnQ4o9.png)
+1. Go to the [Replit.com signup page](https://replit.com/signup)
+1. Fill out a username, email, and password, and click the "Create account" button  
+    ![](https://i.imgur.com/trXgCdX.png)
+1. If necessary, prove your humanity to verify the account, and close out of any pop-ups
+1. On the homepage, click the "+ Create Repl" button in the upper left  
+    ![](https://i.imgur.com/Kxh2HG2.png)
 1. In the next pop-up, select "HTML, CSS, JS" as the language
-1. Click the "Create repl" button  
-    ![](https://i.imgur.com/wgGFKbZ.png)
+1. Click the "+ Create Repl" button  
+    ![](https://i.imgur.com/JabZ2a2.png)
 
 That's it! Now you have a Replit account and a Repl project. Be sure to remember the username, email, and password you used to sign up.
 
