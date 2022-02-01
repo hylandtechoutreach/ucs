@@ -1,31 +1,21 @@
 # Hyland + UCS
 This repository contains material for Hyland's partnership with Urban Community School. The first iteration of this partnership took place in [Spring 2021](Spring2021/). Currently, the material is for Fall 2021. Here is the schedule:
 
-1. Hyland Intro day
-1. Repl account creation + HTML intro + typing practice
-1. More HTML elements - restaurant website (simplified)
-1. Extra HTML Practice
-1. CSS Intro - coolors, bananas
-1. More CSS - tv theme song w/ classes
-1. Piskel + JavaScript Game
-1. [Final Project work](FinalProject/README.md) (whatever site they would like)
-1. More Final project work
-1. Final project work + presentations
-
 ## Schedule for Trimester 2, 2021-2022
 
-- Hyland Intro
-- HTML Intro
-- HTML Intro pt 2
-- More HTML
-- Hour of Code
-- CSS Intro
-- More CSS
+- Hyland Intro (11/18)
+- HTML Intro (12/2)
+- HTML Intro pt 2 (12/9)
+- Catch-up from previous lessons (1/20)
+- More HTML (1/27)
+- CSS Intro (planned 2/3)
+- More CSS (planned 2/10)
+- Final Project (planned 2/17)
+- Final Project presentations (planned 2/24)
 - Piskel
 - JavaScript
-- Final Project
-- Final Project presentations
 - Making a Game with MakeCode Arcade
+- Hour of Code
 
 During the final project work, take some time to do [review activities](ReviewActivities/README.md) as well.
 
