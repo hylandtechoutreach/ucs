@@ -8,10 +8,10 @@ This repository contains material for Hyland's partnership with Urban Community 
 - HTML Intro pt 2 (12/9)
 - Catch-up from previous lessons (1/20)
 - More HTML (1/27)
-- CSS Intro (planned 2/3)
-- More CSS (planned 2/10)
+- CSS Intro (planned 2/10)
 - Final Project (planned 2/17)
 - Final Project presentations (planned 2/24)
+- More CSS
 - Piskel
 - JavaScript
 - Making a Game with MakeCode Arcade
