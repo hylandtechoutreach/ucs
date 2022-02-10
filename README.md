@@ -65,5 +65,6 @@ In addition to the hardware, students and instructors should all have access to 
 - https://quizizz.com/
 - https://w3schools.com/
 - https://piskelapp.com/
+- https://imgur.com/
 
 There may be additional websites depending on the needs of the program.
