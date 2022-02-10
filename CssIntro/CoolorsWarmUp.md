@@ -1,10 +1,8 @@
 # Warm-up: Color Scheme Creation
 Follow these instructions to create a custom color scheme.
 
-![](coolorswarmup.gif)
-
 1. Go to [coolors.co](https://coolors.co)
-1. Close out of the initial pop-up(s)
+1. Accept cookies and close out of the initial pop-up(s)
 1. Click the "Start the generator!" button
 1. Close out of the pop-up
 1. Press the space bar to randomize the color scheme
