@@ -1,5 +1,5 @@
 # Final Project
-It's time to show off what you've learned! For the final project, create a website about anything you would like. You can work with a group or work by yourself.
+It's time to show off what you've learned! For the final project, create a website about anything you would like.
 
 ## Technical Requirements
 You have a lot of freedom with this project, but you should make sure to meet some basic requirements.
@@ -8,14 +8,7 @@ You have a lot of freedom with this project, but you should make sure to meet so
 - At least three styles
   - e.g., background color, color, font
 - At least one image
-
-### Advanced Requirements
-To go above and beyond with the project, there are some additional requirements.
-
-- Use an `id` to style with CSS
-- Use a `class` to style with CSS
-- Embed a YouTube video on one page
-- Create at least two pages total for the website
+- At least one embedded YouTube video video
 
 ## Content Requirements
 The content can be anything you would like to share. Show us your passion while keeping it professional!
