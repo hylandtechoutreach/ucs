@@ -1,6 +1,8 @@
 # Final Project
 It's time to show off what you've learned! For the final project, create a website about anything you would like.
 
+If desired, start by **forking** this Empty Website: [https://replit.com/@HylandOutreach/EmptyWeb](https://replit.com/@HylandOutreach/EmptyWeb)
+
 ## Technical Requirements
 You have a lot of freedom with this project, but you should make sure to meet some basic requirements.
 
