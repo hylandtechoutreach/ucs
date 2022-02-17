@@ -6,14 +6,14 @@ If desired, start by **forking** this Empty Website: [https://replit.com/@Hyland
 ## Technical Requirements
 You have a lot of freedom with this project, but you should make sure to meet some basic requirements.
 
-- At least one link
 - At least three styles
   - e.g., background color, color, font
 - At least one image
-- At least one embedded YouTube video video
+- At least one embedded YouTube video
+- At least one link
 
 ## Content Requirements
-The content can be anything you would like to share. Show us your passion while keeping it professional!
+The content can be anything you would like to share. Show us your passion while keeping it professional! It could be about your favorite restaurant, sports team/athlete, band/music artist, school club, or anything else.
 
 ## Helpful Resources
 If you are trying to do something on your site, there are some helpful places to start looking for how to do whatever you want to do!
