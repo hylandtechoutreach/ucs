@@ -1,9 +1,14 @@
 # CSS Cheatsheet
 ## HTML Link
+To add CSS styles to a webpage, it will be necessary to link a CSS file from within the **index.html** file. To link a file named **style.css**, use this code:
 
 ```html
-<link href="style.css" type="text/css" rel="stylesheet">
+<head>
+    <link href="style.css" type="text/css" rel="stylesheet">
+</head>
 ```
+
+To link a file with a different name, replace the `"style.css"` value for the `href` attribute. Paste the code within the `<html></html>` element, above the `<body>`.
 
 ## Ruleset
 A **ruleset** is how CSS applies styles to specific elements. To define a ruleset, use:
@@ -14,7 +19,7 @@ A **ruleset** is how CSS applies styles to specific elements. To define a rulese
 
 #### Example
 ```css
-p {
+body {
     color: red;
     font-size: 20px;
 }
