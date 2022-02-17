@@ -1,4 +1,10 @@
 # CSS Cheatsheet
+## HTML Link
+
+```html
+<link href="style.css" type="text/css" rel="stylesheet">
+```
+
 ## Ruleset
 A **ruleset** is how CSS applies styles to specific elements. To define a ruleset, use:
 - A _selector_
