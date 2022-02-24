@@ -1,37 +1,40 @@
 # Hyland + UCS
 This repository contains material for Hyland's partnership with Urban Community School. The first iteration of this partnership took place in [Spring 2021](Spring2021/). Currently, the material is for Fall 2021. Here is the schedule:
 
-## Schedule for Trimester 2, 2021-2022
+## Schedule for 2021-2022 T3
+
+1. Kick-Off: Intro to Hyland (3/3)
+1. HTML Introduction (3/10)
+1. HTML Introduction Part 2 (3/17)
+1. More HTML (3/31)
+1. CSS Introduction (4/7)
+1. More CSS (4/14)
+1. Piskel (4/21)
+1. JavaScript (4/28)
+1. Final Project Work (5/5)
+1. Final Project Presentations (5/12)
+1. MakeCode (5/19)
+
+During the final project work, take some time to do [review activities](ReviewActivities/README.md) as well.
+
+#### Schedule for Trimester 2, 2021-2022
 
 - Hyland Intro (11/18)
 - HTML Intro (12/2)
 - HTML Intro pt 2 (12/9)
 - Catch-up from previous lessons (1/20)
 - More HTML (1/27)
-- CSS Intro (planned 2/10)
-- Final Project (planned 2/17)
-- Final Project presentations (planned 2/24)
-- More CSS
-- Piskel
-- JavaScript
-- Making a Game with MakeCode Arcade
-- Hour of Code
+- CSS Intro (2/10)
+- Final Project (2/17)
+- Final Project presentations (2/24)
 
-During the final project work, take some time to do [review activities](ReviewActivities/README.md) as well.
+## Student Forms
+- During the first session, students will complete the [Intake Questionnaire Form](https://docs.google.com/forms/d/1AUVZy-NmDPOFU89fCCWowKgmD0VPz5PxAOnZLSZ42YA/edit)
+- After each session, students will complete the [Student Weekly Check-in Form](https://docs.google.com/forms/d/1bG2RMFuqB1jzN8Aa_40nSaWoIaOoWC6BmA5OYOD72Nw/edit)
+- Students will submit their final projects via the [Final Projects Form](https://docs.google.com/forms/d/1Y20YL7TE759SGSSdpLyQqPBYCgtZ7IzhA_m7-gsR_RQ/edit)
 
-#### Original Schedule
-
-1. Hyland Intro day
-1. Repl account creation + HTML (re)intro + typing practice
-1. More HTML elements - restaurant website (simplified)
-1. CSS (re)intro - coolors, bananas
-1. More CSS - tv theme song w/ classes
-1. Piskel + JavaScript Game
-1. Intro to JS with buttons
-1. Conditionals
-1. About Me quiz
-1. Final project work (quiz, game, other site)
-1. Final project work + presentations
+## Instructor Forms
+- After each session, instructors will complete the [Instructor Weekly Check-in Form](https://docs.google.com/forms/d/1MJjkXi64yF5g8Xf9AzgvtGJByxP2HuGbb4DCziAfQL0/edit)
 
 ## Overall Note
 The lessons should be flexible based on the students wants and needs, and should draw from existing programs such as [Hy-Tech Club](https://github.com/hytechclub) and Hyland's partnership with the [Boys & Girls Club of Northeast Ohio](https://github.com/hylandtechoutreach/bgcneo).
