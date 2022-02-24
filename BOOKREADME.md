@@ -13,8 +13,8 @@ Thank you for participating in this program!
 1. [Final Project](FinalProject/StudentDesc.md)
 1. [MakeCode](MakeCode/StudentDesc.md)
 
-## Weekly Check-in
-Complete the weekly check-in survey [here](https://forms.gle/5vgzvN9VG8ptwc9aA).
+## First Session - Intake Questionnaire
+Complete the intake questionnaire [here](https://forms.gle/2xdW4539eayj5n5RA).
 
-## Intake Questionnaire
-Complete the intake questionnaire [here](https://docs.google.com/forms/d/e/1FAIpQLSdPtWsZL-8YfJ32BCksefQI0yj0ZDGzHWdfJw78nBG5O750Ow/viewform).
+## Weekly Check-in
+Complete the weekly check-in survey [here](https://forms.gle/dry1PcgpPqN9vJz89).
