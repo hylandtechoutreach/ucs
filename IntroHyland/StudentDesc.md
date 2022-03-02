@@ -17,7 +17,7 @@ For the first session of this program, we will get to know you as you get to kno
 <iframe width="100%" height="450px" src="https://www.youtube.com/embed/HsXaVV6fFDY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Questionnaire
-Please complete [this survey](https://forms.gle/aErAxixc21dv8mpK8) to tell us more about yourself.
+Please complete [this survey](https://forms.gle/Hz8mtJxBDXct4qPs6) to tell us more about yourself.
 
 ## Game
 Play [Little Alchemy](https://littlealchemy.com/) to see one example of what you could build using computer science!
