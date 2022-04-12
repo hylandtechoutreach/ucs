@@ -97,11 +97,5 @@ Click the "Resize" button from the options menu to resize the drawing area. Ther
 
 Click the "Export" button from the options menu to export the piece. There are several ways to export.
 
-## Examples
-Take a look at some of these examples to see what is possible with Piskel!
-
-- [Mega Man](https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgICAyJ2kCQw/edit)
-- [Rainbow pattern](https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgICA_eOjCgw/edit)
-
 ## Create Something
 With the tools and examples above, take some time to create an animation in Piskel!
