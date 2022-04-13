@@ -188,6 +188,3 @@ Even with the spider removed, this level seems too difficult. Change the positio
 
 ### Beyond
 After completing some of the basic level challenges, try to do more! Design a totally new level, and try to make it fun for the player.
-
-## Sharing
-When you've done a decent amount of creating, go to [this page](SharingArt.md) to see how you can share your art.
