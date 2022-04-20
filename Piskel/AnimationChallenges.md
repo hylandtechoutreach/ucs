@@ -8,7 +8,7 @@ Click the links below to scroll to one of the options on this page.
 - [Option 3: Updating the Existing Game Code](#option-3-updating-the-existing-game-code)
 
 ## Option 1: A Totally New Sprite
-Go to [Piskel](https://www.piskelapp.com/p/create) and work on creating a new sprite of any kind. This could be a character, an enemy, a background element, or a completely abstract work of art! Try to add multiple frames to make it into an animation.
+Go to [Piskel](https://www.piskelapp.com/) and work on creating a new sprite of any kind. This could be a character, an enemy, a background element, or a completely abstract work of art! Try to add multiple frames to make it into an animation.
 
 This challenge can be completed in Piskel without doing anything with the existing game.
 
@@ -16,10 +16,10 @@ This challenge can be completed in Piskel without doing anything with the existi
 Similar to how the player was replaced with a new Piskel animation, replace some of the other game assets.
 
 #### Tips
-If you are running into any issues, make sure you are abiding by these rules:
+If you are running into any issues, make sure to abide by these rules:
 
-- Do not change the size of the canvas for one of the existing Piskel projects
-- Do not change the number of frames for an existing Piskel
+- Do not change the size of the canvas for one of the existing Piskel sprites
+- Do not change the number of frames for an existing sprite
 - Export each Piskel as a PNG
 - Export with the appropriate number of columns in the spritesheet
   - The number of columns should be the same as the number of frames
@@ -29,7 +29,30 @@ If you are running into any issues, make sure you are abiding by these rules:
 ### Key
 Replace the key sprite in the game with a new one.
 
-1. Go to the [Existing Key Piskel](https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgODk9qimCQw/edit)
+#### Importing the Existing Key
+Follow the steps below to import the key sprite.
+
+<img src="key.png" style="border: 1px solid black" width="300px">
+
+1. Right click the picture above and select "Save image as..."
+1. Save the image on your computer with **key.png** as the name
+1. Open a new web browser tab, and go to [www.piskelapp.com](https://www.piskelapp.com)
+1. Click the "Create Sprite" button  
+    ![](https://i.imgur.com/EPj1iRr.png)
+1. In the sprite editor, on the right, click the "IMPORT" folder icon  
+    ![](https://i.imgur.com/RLRo3iQ.png)
+1. In the menu that appears, click the "Browse images" button  
+    ![](https://i.imgur.com/q5hAfOl.png)
+1. Find the saved **key.png** file and select it for opening
+1. Click the "import" button  
+    ![](https://i.imgur.com/BXy3sie.png)
+1. If a pop-up appears asking if you want to continue, click the "OK" button
+
+Now the key sprite should be ready for editing!
+
+#### Modifying the Key
+Now, the next step is to update the key sprite a little bit.
+
 1. Make any changes to the sprite
 1. Export the new PNG file for the key  
     ![](https://i.imgur.com/Z6ktgHj.png)
@@ -37,13 +60,38 @@ Replace the key sprite in the game with a new one.
 1. Open the Repl project
 1. Drag the **key.png** file into the "images" folder  
     ![](https://i.imgur.com/JEQ6onR.png)
-1. Click the "Overwrite" button to replace the existing file
+1. Click the "Replace" button to replace the existing file
 1. Run the game, and verify that the new key appears!
 
 ### Coin
 Replace the coin sprite in the game with a new one.
 
-1. Go to the [Existing Coin Piskel](https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgODE9LewCAw/edit)
+#### Importing the Existing Coin
+Follow the steps below to import the coin sprite.
+
+<img src="coin_animated.png" style="border: 1px solid black" width="300px">
+
+1. Right click the picture above and select "Save image as..."
+1. Save the image on your computer with **coin_animated.png** as the name
+1. Open a new web browser tab, and go to [www.piskelapp.com](https://www.piskelapp.com)
+1. Click the "Create Sprite" button  
+    ![](https://i.imgur.com/EPj1iRr.png)
+1. In the sprite editor, on the right, click the "IMPORT" folder icon  
+    ![](https://i.imgur.com/RLRo3iQ.png)
+1. In the menu that appears, click the "Browse images" button  
+    ![](https://i.imgur.com/q5hAfOl.png)
+1. Find the saved **coin_animated.png** file and select it for opening
+1. Select the "Import as spritesheet" option  
+1. Set the Frame size to 22 x 22
+1. Click the "import" button  
+    ![](https://i.imgur.com/AFV5AOX.png)
+1. If a pop-up appears asking if you want to continue, click the "OK" button
+
+Now the four frames of the coin sprite should be ready for editing!
+
+#### Modifying the Coin
+Now, the next step is to update the coin sprite a little bit.
+
 1. Make any changes to the sprite
     - Make sure to update all frames
 1. Export the new PNG file for the coin animation
@@ -53,13 +101,38 @@ Replace the coin sprite in the game with a new one.
 1. Open the Repl project
 1. Drag the **coin_animated.png** file into the "images" folder  
     ![](https://i.imgur.com/YkvuxDh.png)
-1. Overwrite the existing file
+1. Overwrite the existing file by clicking "Replace"
 1. Run the game, and verify that the new coin appears!
 
 ### Spider
 Replace the spider sprite in the game with a new one.
 
-1. Go to the [Existing Spider Piskel](https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgODkx4uSCAw/edit)
+#### Importing the Existing Spider
+Follow the steps below to import the spider sprite.
+
+<img src="spider.png" style="border: 1px solid black" width="300px">
+
+1. Right click the picture above and select "Save image as..."
+1. Save the image on your computer with **spider.png** as the name
+1. Open a new web browser tab, and go to [www.piskelapp.com](https://www.piskelapp.com)
+1. Click the "Create Sprite" button  
+    ![](https://i.imgur.com/EPj1iRr.png)
+1. In the sprite editor, on the right, click the "IMPORT" folder icon  
+    ![](https://i.imgur.com/RLRo3iQ.png)
+1. In the menu that appears, click the "Browse images" button  
+    ![](https://i.imgur.com/q5hAfOl.png)
+1. Find the saved **spider.png** file and select it for opening
+1. Select the "Import as spritesheet" option  
+1. Set the Frame size to 42 x 32
+1. Click the "import" button  
+    ![](https://i.imgur.com/a880xI5.png)
+1. If a pop-up appears asking if you want to continue, click the "OK" button
+
+Now the four frames of the spider sprite should be ready for editing!
+
+#### Modifying the Spider
+Now, the next step is to update the spider sprite a little bit.
+
 1. Make any changes to the sprite
     - Make sure to update all frames
 1. Export the new PNG file for the spider animation
@@ -69,7 +142,7 @@ Replace the spider sprite in the game with a new one.
 1. Open the Repl project
 1. Drag the **spider.png** file into the "images" folder  
     ![](https://i.imgur.com/YzQhsuE.png)
-1. Overwrite the existing file
+1. Overwrite the existing file by clicking "Replace"
 1. Run the game, and verify that the new spider appears!
 
 ## Option 3: Updating the Existing Game Code
