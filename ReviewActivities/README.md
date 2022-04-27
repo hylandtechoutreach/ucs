@@ -6,3 +6,6 @@ Have the students split into two teams and race to answer questions at the board
 
 ## Exterminators Worksheet
 Each student has a chance to work individually on the worksheet. Print out copies of the [ExterminationQuest](ExterminationQuest.docx) Word document on two-sided sheets of paper, and hand them out to the students. They should look at the buggy code and try to write the fixed version underneath it.
+
+## Blooket Quiz
+This [Blooket quiz](https://dashboard.blooket.com/set/626982f5fb8fac3dad76c900) contains 30 questions from the HTML and CSS material covered by this program.
