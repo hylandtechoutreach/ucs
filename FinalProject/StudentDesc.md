@@ -1,7 +1,9 @@
 # Final Project
 It's time to show off what you've learned! For the final project, create a website about anything you would like.
 
-If desired, start by **forking** this Empty Website: [https://replit.com/@HylandOutreach/EmptyWeb](https://replit.com/@HylandOutreach/EmptyWeb)
+If desired, start by **forking** this Empty Website: [https://replit.com/@HylandOutreach/FinalProjectStart](https://replit.com/@HylandOutreach/FinalProjectStart)
+
+You can also start from an existing project if you would like!
 
 ## Technical Requirements
 You have a lot of freedom with this project, but you should make sure to meet some basic requirements.
@@ -10,7 +12,7 @@ You have a lot of freedom with this project, but you should make sure to meet so
   - e.g., background color, color, font
 - At least one image
 - At least one embedded YouTube video
-- At least one link
+- At least two paragraphs
 
 ## Content Requirements
 The content can be anything you would like to share. Show us your passion while keeping it professional! It could be about your favorite restaurant, sports team/athlete, band/music artist, school club, or anything else.
