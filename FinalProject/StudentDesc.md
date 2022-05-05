@@ -3,6 +3,8 @@ It's time to show off what you've learned! For the final project, create a websi
 
 If desired, start by **forking** this Empty Website: [https://replit.com/@HylandOutreach/FinalProjectStart](https://replit.com/@HylandOutreach/FinalProjectStart)
 
+If Repl is having issues, try forking this project: [https://codepen.io/weoijfiowejfi/pen/ZErbGzX](https://codepen.io/weoijfiowejfi/pen/ZErbGzX)
+
 You can also start from an existing project if you would like!
 
 ## Technical Requirements
