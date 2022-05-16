@@ -18,3 +18,6 @@ Complete the intake questionnaire [here](https://forms.gle/Hz8mtJxBDXct4qPs6).
 
 ## Weekly Check-in
 Complete the weekly check-in survey [here](https://forms.gle/dry1PcgpPqN9vJz89).
+
+## Final Session - Survey/Assessment
+Please complete this form on the last day of the academy: [https://forms.gle/iBAdm2iem49JR9vX7](https://forms.gle/iBAdm2iem49JR9vX7). Thank you!
