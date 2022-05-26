@@ -28,10 +28,6 @@ For your first block, set the background color.
 The next thing the game needs is a main character for the player to control!
 
 1. In the **Block Selection** section, in the "Sprites" category, click and drag the red `set mySprite to` block under the background color block
-1. In the `set mySprite to` block, click the drop-down arrow on `mySprite`, and click "Rename variable..."  
-    ![](https://i.imgur.com/DvJnknn.png)
-1. Set the variable name to "Main Character"
-    - _Note: If the main character has a name, this could be their name instead! Just make sure to use the name when referencing the `Main Character` sprite_
 1. Click on the blank space next to "sprite" in the `set sprite` block to open the Sprite Editor  
     ![](https://i.imgur.com/kudM2w5.png)
 1. Draw a sprite image for the main character, and then click the green "Done" button in the bottom right
@@ -42,7 +38,6 @@ The main character should be able to move left and right, as in any other platfo
 
 1. From the "Controller" category, click and drag a red `move mySprite with buttons +` block under the `set sprite` block  
     ![](https://i.imgur.com/97MwAaU.png)
-1. In the `move` block, click the drop-down arrow on `mySprite`, and select `Main Character`
 1. In the game preview, notice that it is possible to move left and right, but also up and down
 1. To prevent the main character from moving up and down, click the `+` in the `move` block, and set the `vy` to `0`
     - This sets the _vertical speed_ of the main character sprite to `0`
@@ -53,13 +48,11 @@ Now that the character can move left and right, it's time to add gravity to the 
 
 1. In the "Sprites" category, click and drag a `set mySprite x to 0` block under the existing blocks in `on start`  
   ![](https://i.imgur.com/fo4305C.png)
-1. Click the drop-down arrow next to `mySprite` and select `Main Character`
 1. Click the drop-down arrow next to `x` and select `ay (acceleration y)`
 1. Change the `0` to `400`
     - This will make the main character accelerate downward (fall)
 1. Notice that in the updated game preview, the main character can move to the right off the screen - the camera does not follow the sprite
 1. In the "Scene" category, scroll down to find a `camera follow sprite` block, and click and drag it under the existing blocks in `on start`
-1. Click the drop-down arrow next to `mySprite` and select `Main Character`
 1. Play the game in the game preview and verify that the main character falls, and the camera follows them!
 
 ## Making the Main Character Jump
@@ -69,7 +62,6 @@ In almost every platformer, the main character has the ability to jump.
 1. Click the drop-down arrow next to `A` and select `up`  
     ![](https://i.imgur.com/mPPXEEM.png)
 1. In the "Sprites" category, click and drag a `set mySprite x to 0` block into the `on up button pressed` block
-1. Click the drop-down arrow next to `mySprite` and select `Main Character`
 1. Click the drop-down arrow next to `x` and select `vy (velocity y)`
 1. Change the `0` to `-200`
     - This will make the main character start moving upward (jump)
@@ -80,9 +72,8 @@ The main character should only be able to jump when they are on the ground.
 
 1. In the "Logic" category, click and drag an `if true then` block into the `on up button pressed` block
 1. In the "Scene" category, scroll down to "Collisions" and click and drag an `is mySprite hitting wall left` into the `true` in the `if` block
-1. Click the drop-down arrow next to `mySprite` and select `Main Character`
 1. Click the drop-down arrow next to `left` and select `bottom`
-1. Click and drag the `set Main Character vy to -200` block into the `if` block
+1. Click and drag the `set mySprite vy to -200` block into the `if` block
 1. Play the game preview and verify that the main character can only jump when they are on the ground!
 
 ![](https://i.imgur.com/gfnc4yS.png)
