@@ -604,11 +604,6 @@
 <p>The next thing the game needs is a main character for the player to control!</p>
 <ol>
 <li>In the <strong>Block Selection</strong> section, in the &quot;Sprites&quot; category, click and drag the red <code>set mySprite to</code> block under the background color block</li>
-<li>In the <code>set mySprite to</code> block, click the drop-down arrow on <code>mySprite</code>, and click &quot;Rename variable...&quot;<br> <img src="https://i.imgur.com/DvJnknn.png" alt=""></li>
-<li>Set the variable name to &quot;Main Character&quot;<ul>
-<li><em>Note: If the main character has a name, this could be their name instead! Just make sure to use the name when referencing the <code>Main Character</code> sprite</em></li>
-</ul>
-</li>
 <li>Click on the blank space next to &quot;sprite&quot; in the <code>set sprite</code> block to open the Sprite Editor<br> <img src="https://i.imgur.com/kudM2w5.png" alt=""></li>
 <li>Draw a sprite image for the main character, and then click the green &quot;Done&quot; button in the bottom right</li>
 <li>The game preview should automatically update, and the main character sprite should appear!</li>
@@ -617,7 +612,6 @@
 <p>The main character should be able to move left and right, as in any other platformer.</p>
 <ol>
 <li>From the &quot;Controller&quot; category, click and drag a red <code>move mySprite with buttons +</code> block under the <code>set sprite</code> block<br> <img src="https://i.imgur.com/97MwAaU.png" alt=""></li>
-<li>In the <code>move</code> block, click the drop-down arrow on <code>mySprite</code>, and select <code>Main Character</code></li>
 <li>In the game preview, notice that it is possible to move left and right, but also up and down</li>
 <li>To prevent the main character from moving up and down, click the <code>+</code> in the <code>move</code> block, and set the <code>vy</code> to <code>0</code><ul>
 <li>This sets the <em>vertical speed</em> of the main character sprite to <code>0</code></li>
@@ -629,7 +623,6 @@
 <p>Now that the character can move left and right, it&apos;s time to add gravity to the game!</p>
 <ol>
 <li>In the &quot;Sprites&quot; category, click and drag a <code>set mySprite x to 0</code> block under the existing blocks in <code>on start</code><br><img src="https://i.imgur.com/fo4305C.png" alt=""></li>
-<li>Click the drop-down arrow next to <code>mySprite</code> and select <code>Main Character</code></li>
 <li>Click the drop-down arrow next to <code>x</code> and select <code>ay (acceleration y)</code></li>
 <li>Change the <code>0</code> to <code>400</code><ul>
 <li>This will make the main character accelerate downward (fall)</li>
@@ -637,7 +630,6 @@
 </li>
 <li>Notice that in the updated game preview, the main character can move to the right off the screen - the camera does not follow the sprite</li>
 <li>In the &quot;Scene&quot; category, scroll down to find a <code>camera follow sprite</code> block, and click and drag it under the existing blocks in <code>on start</code></li>
-<li>Click the drop-down arrow next to <code>mySprite</code> and select <code>Main Character</code></li>
 <li>Play the game in the game preview and verify that the main character falls, and the camera follows them!</li>
 </ol>
 <h2 id="making-the-main-character-jump">Making the Main Character Jump</h2>
@@ -646,7 +638,6 @@
 <li>In the &quot;Controller&quot; category, click and drag an <code>on A button pressed</code> into the <strong>Code</strong> section</li>
 <li>Click the drop-down arrow next to <code>A</code> and select <code>up</code><br> <img src="https://i.imgur.com/mPPXEEM.png" alt=""></li>
 <li>In the &quot;Sprites&quot; category, click and drag a <code>set mySprite x to 0</code> block into the <code>on up button pressed</code> block</li>
-<li>Click the drop-down arrow next to <code>mySprite</code> and select <code>Main Character</code></li>
 <li>Click the drop-down arrow next to <code>x</code> and select <code>vy (velocity y)</code></li>
 <li>Change the <code>0</code> to <code>-200</code><ul>
 <li>This will make the main character start moving upward (jump)</li>
@@ -659,9 +650,8 @@
 <ol>
 <li>In the &quot;Logic&quot; category, click and drag an <code>if true then</code> block into the <code>on up button pressed</code> block</li>
 <li>In the &quot;Scene&quot; category, scroll down to &quot;Collisions&quot; and click and drag an <code>is mySprite hitting wall left</code> into the <code>true</code> in the <code>if</code> block</li>
-<li>Click the drop-down arrow next to <code>mySprite</code> and select <code>Main Character</code></li>
 <li>Click the drop-down arrow next to <code>left</code> and select <code>bottom</code></li>
-<li>Click and drag the <code>set Main Character vy to -200</code> block into the <code>if</code> block</li>
+<li>Click and drag the <code>set mySprite vy to -200</code> block into the <code>if</code> block</li>
 <li>Play the game preview and verify that the main character can only jump when they are on the ground!</li>
 </ol>
 <p><img src="https://i.imgur.com/gfnc4yS.png" alt=""></p>
@@ -750,7 +740,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Platformer Code-Along","level":"1.12.1","depth":2,"next":{"title":"Platformer Individual","level":"1.12.2","depth":2,"path":"MakeCode/PlatformerIndividual.md","ref":"MakeCode/PlatformerIndividual.md","articles":[]},"previous":{"title":"MakeCode","level":"1.12","depth":1,"path":"MakeCode/StudentDesc.md","ref":"MakeCode/StudentDesc.md","articles":[{"title":"Platformer Code-Along","level":"1.12.1","depth":2,"path":"MakeCode/PlatformerCodeAlong.md","ref":"MakeCode/PlatformerCodeAlong.md","articles":[]},{"title":"Platformer Individual","level":"1.12.2","depth":2,"path":"MakeCode/PlatformerIndividual.md","ref":"MakeCode/PlatformerIndividual.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"MakeCode/PlatformerCodeAlong.md","mtime":"2022-05-16T13:17:51.390Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2022-05-16T13:18:34.970Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Platformer Code-Along","level":"1.12.1","depth":2,"next":{"title":"Platformer Individual","level":"1.12.2","depth":2,"path":"MakeCode/PlatformerIndividual.md","ref":"MakeCode/PlatformerIndividual.md","articles":[]},"previous":{"title":"MakeCode","level":"1.12","depth":1,"path":"MakeCode/StudentDesc.md","ref":"MakeCode/StudentDesc.md","articles":[{"title":"Platformer Code-Along","level":"1.12.1","depth":2,"path":"MakeCode/PlatformerCodeAlong.md","ref":"MakeCode/PlatformerCodeAlong.md","articles":[]},{"title":"Platformer Individual","level":"1.12.2","depth":2,"path":"MakeCode/PlatformerIndividual.md","ref":"MakeCode/PlatformerIndividual.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"MakeCode/PlatformerCodeAlong.md","mtime":"2022-05-26T11:40:13.331Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2022-05-26T11:40:47.640Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
