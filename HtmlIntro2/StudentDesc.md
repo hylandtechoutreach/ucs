@@ -1,6 +1,8 @@
-# Hello HTML
-Complete the [About Me Code-Along](AboutMeCodeAlong.md) activity, and work on the [About Me Individual](AboutMeIndividual.md) exercise. Beyond that, there are a couple of challenges to complete as well.
+# Hello HTML Part Two
+The focus of this lesson is to practice building a website using some basic HTML!
 
-## Activities
-- [About Me Code-Along](AboutMeCodeAlong.md)
-- [About Me Individual](AboutMeIndividual.md)
+## Code-Along
+[Click here for the **About Me** code-along instructions.](AboutMeCodeAlong.md)
+
+## Self-Paced Work
+[Click here for the **About Me** individual instructions.](AboutMeIndividual.md)

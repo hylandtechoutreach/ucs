@@ -2,14 +2,14 @@
 With this exercise, you will create a webpage that shows some information about yourself.
 
 ## Making a Repl Account
-Before beginning, make sure you have a Repl account. You can follow [these instructions](../ReplSetup.md) to set one up if you do not have one.
+Before beginning, make sure you have a Repl account. You can follow [these instructions](https://hylandtechclub.com/ReplitSetup) to set one up if you do not have one.
 
 ## Getting Started
-Start by creating a **fork** of an empty project to get started.
+Start by creating a **Remix** of an empty project to get started.
 
 1. Go to [this empty Project](https://replit.com/@HylandOutreach/AboutMeBegin#index.html)
-1. Click the "Fork" button in the upper right  
-    ![](https://i.imgur.com/UuJ0Emr.png)
+1. Click the "Remix Repl" button in the upper right  
+    ![](Assets/RemixRepl.png)
 
 ## HTML Setup
 Now everything should be ready to go. Start by creating a simple HTML document containing a header.
@@ -72,7 +72,7 @@ If none of the pictures in the `animals` folder will work, it is also possible t
 1. Drag the newly saved image from the bottom of the page into the `animals` folder
 1. Now the image can be used in your project!
 
-![](addimagetoreplit.gif)
+![](Assets/AddImageToRepl.gif)
 
 ## Final HTML
 The code should look something like this:

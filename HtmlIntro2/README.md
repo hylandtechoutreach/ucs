@@ -1,8 +1,8 @@
 # Basic HTML Elements - Part 2
 For the second HTML lesson, practice using the basic elements and review the topics from the first lesson.
 
-## Kahoot
-Start with the same [Kahoot quiz](https://create.kahoot.it/details/740e9179-5b3b-426c-a5ef-e770b2bd60c4) from the previous lesson.
+## Blooket
+Start with a [Blooket game](https://dashboard.blooket.com/set/63052a4dd30f31a865ea4da6) that reviews the material from the previous week. Note that a Blooket account is required to facilitate the game.
 
 ## Code-Along Activity: About Me Website
 Walk through the [About Me Code-Along](AboutMeCodeAlong.md) activity. Students should build a simple website about themselves.
@@ -13,11 +13,11 @@ Students should follow [these instructions](AboutMeIndividual.md) independently 
 ## Sharing Sites
 Students should have an opportunity to share their sites with the group at the end.
 
-## Suggested Schedule
+## Agenda
 
 | Activity | Time |
 |-|-|
-| Kahoot | 10m |
+| Blooket | 10m |
 | Code-Along | 25m |
 | Individual Exercise | 10m |
 | Sharing Sites | 10m |

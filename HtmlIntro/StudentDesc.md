@@ -11,4 +11,4 @@ Learn what HTML is all about, and how to use some of the basic HTML elements: he
 [Click here for Replit Setup Instructions.](https://hylandtechclub.com/ReplitSetup)
 
 ## Activities
-- [NitroType](https://www.nitrotype.com/)
+Test your typing skills by racing with [NitroType](https://www.nitrotype.com/)!
