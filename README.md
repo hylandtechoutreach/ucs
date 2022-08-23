@@ -1,43 +1,30 @@
 # Hyland + UCS
-This repository contains material for Hyland's partnership with Urban Community School. The first iteration of this partnership took place in [Spring 2021](Spring2021/). Currently, the material is for Fall 2021. Here is the schedule:
+This repository contains material for Hyland's partnership with Urban Community School.
 
-## Schedule for 2021-2022 T3
+## Schedule
+Here is the schedule for the sessions:
 
-1. Kick-Off: Intro to Hyland (3/3)
-1. HTML Introduction (3/10)
-1. HTML Introduction Part 2 (3/17)
-1. More HTML (3/31)
-1. CSS Introduction (4/7)
-1. More CSS (4/14)
-1. Piskel (4/21)
-1. JavaScript (4/28)
-1. Final Project Work (5/5)
-1. Final Project Presentations (5/12)
-1. MakeCode (5/19)
+1. [Kick-Off: Intro to Hyland](IntroHyland/README.md) (9/1)
+1. [HTML Introduction](HtmlIntro/README.md) (9/8)
+1. [HTML Introduction Part 2](HtmlIntro2/README.md) (9/15)
+1. [More HTML](MoreHtml/README.md) (9/22)
+1. [CSS Introduction](CssIntro/README.md) (9/29)
+1. [CSS Classes](MoreCss/README.md) (10/13)
+1. [More CSS Properties](CssProperties/README.md) (10/20)
+1. [CSS Animations](CssAnimations/README.md) (10/27)
+1. [Final Project Work](FinalProject/README.md) (11/3)
+1. Final Project Presentations (11/10)
+1. [Piskel](Piskel/README.md) (11/17)
 
 During the final project work, take some time to do [review activities](ReviewActivities/README.md) as well.
 
-#### Schedule for Trimester 2, 2021-2022
-
-- Hyland Intro (11/18)
-- HTML Intro (12/2)
-- HTML Intro pt 2 (12/9)
-- Catch-up from previous lessons (1/20)
-- More HTML (1/27)
-- CSS Intro (2/10)
-- Final Project (2/17)
-- Final Project presentations (2/24)
-
 ## Student Forms
-- During the first session, students will complete the [Intake Questionnaire Form](https://docs.google.com/forms/d/1AUVZy-NmDPOFU89fCCWowKgmD0VPz5PxAOnZLSZ42YA/edit)
-- After each session, students will complete the [Student Weekly Check-in Form](https://docs.google.com/forms/d/1bG2RMFuqB1jzN8Aa_40nSaWoIaOoWC6BmA5OYOD72Nw/edit)
-- Students will submit their final projects via the [Final Projects Form](https://docs.google.com/forms/d/1Y20YL7TE759SGSSdpLyQqPBYCgtZ7IzhA_m7-gsR_RQ/edit)
+- During the first session, students should complete the [Intake Questionnaire Form](https://docs.google.com/forms/d/1IDnAxhAtZ58DwRLlnA-SYJPpP-fdTUabzdsPTcaJAlQ/edit)
+- After each subsequent session, students should complete the [Student Weekly Check-in Form](https://docs.google.com/forms/d/1zW8cZPr1J_Y6--aGMy1drG0vsY_Lt8ACWwdtD5InMr8/edit)
+- Students should submit their final projects via the [Final Projects Form](https://docs.google.com/forms/d/11TRh9iiPmRT5dCqXLp66zsWEdjpvrg3TzCPiv3QtJq0/edit)
 
 ## Instructor Forms
-- After each session, instructors will complete the [Instructor Weekly Check-in Form](https://docs.google.com/forms/d/1MJjkXi64yF5g8Xf9AzgvtGJByxP2HuGbb4DCziAfQL0/edit)
-
-## Overall Note
-The lessons should be flexible based on the students wants and needs, and should draw from existing programs such as [Hy-Tech Club](https://github.com/hytechclub) and Hyland's partnership with the [Boys & Girls Club of Northeast Ohio](https://github.com/hylandtechoutreach/bgcneo).
+After each session, instructors should complete the [Instructor Weekly Check-in Form](https://forms.gle/f1LXcyPPohAFKTMX8).
 
 ## Tech Setup
 These lessons can be conducted with a variety of setups, assuming a few key things:
@@ -69,5 +56,11 @@ In addition to the hardware, students and instructors should all have access to 
 - https://w3schools.com/
 - https://piskelapp.com/
 - https://imgur.com/
+- https://blooket.com/
+- https://www.drawasaurus.org/
+- https://drawphone.tannerkrewson.com/
+- https://rocketcrab.com/
+- https://nitrotype.com/
+- https://www.typing.com/
 
 There may be additional websites depending on the needs of the program.
