@@ -29,7 +29,7 @@ Share the [questionnaire](https://forms.gle/Hz8mtJxBDXct4qPs6) for the students 
 ## Remaining Time - Little Alchemy
 If there is any time remaining, show the students [Little Alchemy](https://littlealchemy.com). Explain that somebody used coding to create the game, and that they could create something similar if they continue learning!
 
-## Suggested Schedule
+## Agenda
 
 | Activity | Time |
 |-|-|
