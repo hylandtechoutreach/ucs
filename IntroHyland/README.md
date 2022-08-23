@@ -2,9 +2,9 @@
 For the first week of material, introduce Hyland, and Computer Science. This should give students some context and prepare them for the course as a whole.
 
 ## Icebreaker Activity
-Help students and instructors get to know each other with an icebreaker activity.
+Help students and instructors get to know each other with a [Snowball Fight](../Icebreakers/SnowballFight.md) icebreaker activity.
 
-- Snowball Fight: Each student writes a question on a piece of paper, then crumples it up. Students have a "snowball fight" for one minute, then students pick up the crumpled balls and answer the questions while introducing themselves.
+**Note that paper and pens are required for this icebreaker activity.**
 
 ## Intro to Hyland Presentation
 Present the [Intro to Hyland PowerPoint Presentation](HylandPresentation.pptx) to give students some background on Hyland. Ask students questions throughout. Try to sell Hyland (and software companies in general) as a great place to work.

@@ -2,13 +2,22 @@
 For the first content lesson of the series, go over HTML elements. The purpose of this lesson is to show the students what they can create with some basic elements. Overall, this first lesson should be pretty straightforward. Introduce HTML, show the students some examples and have them get some hands-on experience writing HTML.
 
 ## Icebreaker
-Add an icebreaker here.
+For an icebreaker this week, play a quick game of [Drawasaurus](../Icebreakers/DrawasaurusIcebreaker.md).
+
+### Custom Words
+When setting up the Drawasaurus room, copy and paste these custom words:
+
+```
+coding, hyland, westlake ohio, software, development, computer science, computer, typing, website, 1991, slide, arcade, hy-tech camp, hy-tech club, hackathon, innovation showdown
+```
 
 ## Lecture
 The [PowerPoint Presentation](HelloHtml.pptx) introduces the idea of HTML and shows how some basic elements work.
 
 ## Typing Practice
 Give students some time to practice typing, specifically HTML. The goal is for them to get used to typing HTML symbols (like `<`, `>`, `/`, `=`, and tag names) without having to worry about what any of it means. Use [typing.com](https://www.typing.com/student/lesson/12950/html-the-structure-of-a-webpage) to practice. Note that the interactive walkthrough goes over some HTML concepts that are not covered in this program; students should not worry about understanding this new concepts. Students should see if they can make it through all nine parts, but if they do not complete them within the allotted time, that is okay. The Replit Setup is more important.
+
+_Note: It may be necessary for students to open the typing.com link in an incognito window. If it is not working, [SpeedCoder](https://www.speedcoder.net/lessons/html/1/) is another option._
 
 ## Replit Setup
 Have students create accounts on Replit by following the [Replit Setup instructions](https://hylandtechclub.com/ReplitSetup).
