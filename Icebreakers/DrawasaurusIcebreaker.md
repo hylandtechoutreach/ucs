@@ -20,4 +20,5 @@ Follow these instructions to spin up a game:
 1. Click the "Start Playing!" button
 1. Direct students to the room URL
     - It should be something like `https://www.drawasaurus.org/room/UCS+Hyland`
-1. When all students have joined, play the game!
+1. When all students have joined, start playing the game
+1. Make sure to tell students they should only draw appropriate things!

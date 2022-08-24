@@ -1,5 +1,5 @@
 # Basic HTML Elements
-For the first content lesson of the series, go over HTML elements. The purpose of this lesson is to show the students what they can create with some basic elements. Overall, this first lesson should be pretty straightforward. Introduce HTML, show the students some examples and have them get some hands-on experience writing HTML.
+For the first content lesson of the series, go over HTML elements. The purpose of this lesson is to show the students what they can create with some basic elements.
 
 ## Icebreaker
 For an icebreaker this week, play a quick game of [Drawasaurus](../Icebreakers/DrawasaurusIcebreaker.md).
