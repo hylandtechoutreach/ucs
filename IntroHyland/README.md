@@ -38,3 +38,4 @@ If there is any time remaining, show the students [Little Alchemy](https://littl
 | Classroom Expectations | 10m |
 | YouTube Videos | 10m |
 | Questionnaire | 5m |
+| Little Alchemy | 5m |

@@ -1,24 +1,20 @@
 # More HTML Elements
-For the second content lesson of the series, go over some additional HTML elements, as well as using multiple HTML pages. The purpose of this lesson is to allow the students to do more with HTML.
+This lesson covers attributes, links, and embedded YouTube videos using `iframe` elements.
+
+## Icebreaker
+Facilitate the [Two Truths and a Lie](../Icebreakers/TwoTruthsOneLie.md) icebreaker activity to start off this lesson.
 
 ## Lecture
-The [PowerPoint Presentation](MoreHtmlElements.pptx) introduces the new elements and the concept of multiple HTML files.
+The [PowerPoint Presentation](MoreHtmlElements.pptx) explains attributes, and introduces links and YouTube embeds.
 
 ## Code-Along Activity: Restaurant Website
-Walk through the [Restaurant Website Code-Along](RestaurantCodeAlong.md) activity. Students should build a multi-page website for a restaurant. The website can be adapted for many different types of food, like pizza, tacos, sushi, sandwiches, etc.
-
-## Individual Exercise: Restaurant Website Updates
-Students should follow [these instructions](RestaurantIndividual.md) independently to continue building their restaurant websites. Possibly have students work together on the individual work. There will be some guidance, but they can ultimately decide how they would like to update their restaurant websites.
-
-## Baamboozle Quiz
-To close out the session, play through a [Baamboozle group quiz](https://www.baamboozle.com/game/614321) that covers the material from the lesson.
+Walk through the [Restaurant Website Code-Along](RestaurantCodeAlong.md) activity. Students should build a website for a restaurant. The website can be adapted for many different types of food, like pizza, tacos, sushi, sandwiches, etc.
 
 ## Suggested Schedule
 
 | Activity | Time |
 |-|-|
-| Lecture | 10m |
-| Code-Along | 25m |
-| Individual Exercise | 10m |
-| Baamboozle Quiz | 10m |
+| Icebreaker | 10m |
+| Lecture | 15m |
+| Code-Along | 30m |
 | Survey | 5m |

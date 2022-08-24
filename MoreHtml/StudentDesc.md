@@ -1,9 +1,8 @@
 # More HTML Elements
-Learn how to use HTML links and iframes to build more dynamic websites. Review the PowerPoint presentation, then complete the [Restaurant Website Code-Along](RestaurantCodeAlong.md) activity. After that, work on the [Restaurant Individual](RestaurantIndividual.md) exercises.
+Learn how to use HTML links and iframes to build more dynamic websites!
 
 ## More HTML Elements PowerPoint Presentation
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/ucs/MoreHtml/MoreHtmlElements.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-## Activities
-- [Restaurant Code-Along](RestaurantCodeAlong.md)
-- [Restaurant Individual](RestaurantIndividual.md)
+## Restaurant Website Code-Along
+[Click here for the Restaurant Code-Along instructions.](RestaurantCodeAlong.md)

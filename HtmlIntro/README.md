@@ -36,5 +36,5 @@ With any remaining time, let the students compete in typing races [here](https:/
 | Lecture | 15m |
 | Typing Practice | 15m |
 | Repl Setup | 10m |
-| Kahoot | 10m |
+| Kahoot | 5m |
 | Survey | 5m |

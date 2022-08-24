@@ -1,4 +1,4 @@
-# Restaurant Website: Individual Exercises
+# Restaurant Website: Self-Paced Exercises
 The website for Alfredo's Pizza Cafe (or your own restaurant) is pretty solid, but there are some changes you can make to take it to the next level. Follow the instructions below to add some new features to your website!
 
 ## Adding a New Location

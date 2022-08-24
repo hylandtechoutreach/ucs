@@ -19,5 +19,5 @@ Follow these instructions to spin up a game:
 1. Set the **Word Choices** to 2
 1. Click the "Start Playing!" button
 1. Direct students to the room URL
-  - It should be something like `https://www.drawasaurus.org/room/UCS+Hyland`
+    - It should be something like `https://www.drawasaurus.org/room/UCS+Hyland`
 1. When all students have joined, play the game!
