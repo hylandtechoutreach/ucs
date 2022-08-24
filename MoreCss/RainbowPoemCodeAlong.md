@@ -86,7 +86,7 @@ For each paragraph, add a `class` attribute with a value for either `red`, `yell
   </head>
   <body>
     <h1>My Poem</h1>
-    <img src="https://i.imgur.com/qUIR8Qm.jpg">
+    <img src="fresh.jpg">
     <p class="red">Now this is a story all about how</p>
     <p class="yellow">My life got flipped turned upside down</p>
     <p class="green">And I'd like to take a minute, just sit right there</p>

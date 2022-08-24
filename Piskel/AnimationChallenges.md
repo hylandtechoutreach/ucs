@@ -38,14 +38,14 @@ Follow the steps below to import the key sprite.
 1. Save the image on your computer with **key.png** as the name
 1. Open a new web browser tab, and go to [www.piskelapp.com](https://www.piskelapp.com)
 1. Click the "Create Sprite" button  
-    ![](https://i.imgur.com/EPj1iRr.png)
+    ![](Assets/CreateSprite.png)
 1. In the sprite editor, on the right, click the "IMPORT" folder icon  
-    ![](https://i.imgur.com/RLRo3iQ.png)
+    ![](Assets/Import.png)
 1. In the menu that appears, click the "Browse images" button  
-    ![](https://i.imgur.com/q5hAfOl.png)
+    ![](Assets/BrowseImages.png)
 1. Find the saved **key.png** file and select it for opening
 1. Click the "import" button  
-    ![](https://i.imgur.com/BXy3sie.png)
+    ![](Assets/ImportButton.png)
 1. If a pop-up appears asking if you want to continue, click the "OK" button
 
 Now the key sprite should be ready for editing!
@@ -55,11 +55,11 @@ Now, the next step is to update the key sprite a little bit.
 
 1. Make any changes to the sprite
 1. Export the new PNG file for the key  
-    ![](https://i.imgur.com/Z6ktgHj.png)
+    ![](Assets/DownloadPng.png)
 1. Save the file as **key.png**
 1. Open the Repl project
 1. Drag the **key.png** file into the "images" folder  
-    ![](https://i.imgur.com/JEQ6onR.png)
+    ![](Assets/DragKey.png)
 1. Click the "Replace" button to replace the existing file
 1. Run the game, and verify that the new key appears!
 
@@ -75,16 +75,16 @@ Follow the steps below to import the coin sprite.
 1. Save the image on your computer with **coin_animated.png** as the name
 1. Open a new web browser tab, and go to [www.piskelapp.com](https://www.piskelapp.com)
 1. Click the "Create Sprite" button  
-    ![](https://i.imgur.com/EPj1iRr.png)
+    ![](Assets/CreateSprite.png)
 1. In the sprite editor, on the right, click the "IMPORT" folder icon  
-    ![](https://i.imgur.com/RLRo3iQ.png)
+    ![](Assets/Import.png)
 1. In the menu that appears, click the "Browse images" button  
-    ![](https://i.imgur.com/q5hAfOl.png)
+    ![](Assets/BrowseImages.png)
 1. Find the saved **coin_animated.png** file and select it for opening
 1. Select the "Import as spritesheet" option  
 1. Set the Frame size to 22 x 22
 1. Click the "import" button  
-    ![](https://i.imgur.com/AFV5AOX.png)
+    ![](Assets/ImportButtonCoin.png)
 1. If a pop-up appears asking if you want to continue, click the "OK" button
 
 Now the four frames of the coin sprite should be ready for editing!
@@ -96,11 +96,11 @@ Now, the next step is to update the coin sprite a little bit.
     - Make sure to update all frames
 1. Export the new PNG file for the coin animation
     - Make sure there are **4 columns** for the spritesheet  
-    ![](https://i.imgur.com/5E65hTh.png)
+    ![](Assets/DownloadFourColumns.png)
 1. Save the file as **coin_animated.png**
 1. Open the Repl project
 1. Drag the **coin_animated.png** file into the "images" folder  
-    ![](https://i.imgur.com/YkvuxDh.png)
+    ![](Assets/DragCoin.png)
 1. Overwrite the existing file by clicking "Replace"
 1. Run the game, and verify that the new coin appears!
 
@@ -116,16 +116,16 @@ Follow the steps below to import the spider sprite.
 1. Save the image on your computer with **spider.png** as the name
 1. Open a new web browser tab, and go to [www.piskelapp.com](https://www.piskelapp.com)
 1. Click the "Create Sprite" button  
-    ![](https://i.imgur.com/EPj1iRr.png)
+    ![](Assets/CreateSprite.png)
 1. In the sprite editor, on the right, click the "IMPORT" folder icon  
-    ![](https://i.imgur.com/RLRo3iQ.png)
+    ![](Assets/Import.png)
 1. In the menu that appears, click the "Browse images" button  
-    ![](https://i.imgur.com/q5hAfOl.png)
+    ![](Assets/BrowseImages.png)
 1. Find the saved **spider.png** file and select it for opening
 1. Select the "Import as spritesheet" option  
 1. Set the Frame size to 42 x 32
 1. Click the "import" button  
-    ![](https://i.imgur.com/a880xI5.png)
+    ![](Assets/ImportButtonSpider.png)
 1. If a pop-up appears asking if you want to continue, click the "OK" button
 
 Now the four frames of the spider sprite should be ready for editing!
@@ -137,11 +137,11 @@ Now, the next step is to update the spider sprite a little bit.
     - Make sure to update all frames
 1. Export the new PNG file for the spider animation
     - Make sure there are **5 columns** for the spritesheet  
-    ![](https://i.imgur.com/pW9QDkO.png)
+    ![](Assets/DownloadFiveColumns.png)
 1. Save the file as **spider.png**
 1. Open the Repl project
 1. Drag the **spider.png** file into the "images" folder  
-    ![](https://i.imgur.com/YzQhsuE.png)
+    ![](Assets/DragSpider.png)
 1. Overwrite the existing file by clicking "Replace"
 1. Run the game, and verify that the new spider appears!
 
@@ -158,7 +158,7 @@ First, open the proper file.
 1. In the "Files" area on the left, open the "js" folder
 1. From there, open the **main.js** file  
 
-![](https://i.imgur.com/uEM5xIH.png)
+![](Assets/OpenMainJs.png)
 
 #### Coding
 Take a look at the code at the top of the file, the first 10 lines:
@@ -190,7 +190,7 @@ All of the levels in the game come from code files. These files tell the game wh
 #### Level 0
 Start with the first level in the game, level 0. Open the "data" folder and the **level00.json** file to get started.
 
-![](https://i.imgur.com/Fpo43oQ.png)
+![](Assets/OpenLevelZeroJson.png)
 
 The code in this file is in a format called [JSON](https://en.wikipedia.org/wiki/JSON). It is a way to represent data, but do not worry too much about how it all works for this exercise. Take a look at the code, and try to figure out what it does.
 
@@ -234,7 +234,7 @@ Make sure the commas, curly brackets, double quotes, colons, and values are all 
 ### Level 01
 Next, move onto the second level in the game, level 1. Open the "data" folder and the **level01.json** file to get started.
 
-![](https://i.imgur.com/hmA1ffO.png)
+![](Assets/OpenLevelOneJson.png)
 
 This file has the same format, but it has a few more objects for the game.
 
