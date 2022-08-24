@@ -16,7 +16,7 @@ Here is the schedule for the sessions:
 1. Final Project Presentations (11/10)
 1. [Piskel](Piskel/README.md) (11/17)
 
-During the final project work, take some time to do [review activities](ReviewActivities/README.md) as well.
+During the final project work, take some time to do [review activities](Extras/ReviewActivities/README.md) as well.
 
 ## Student Forms
 - During the first session, students should complete the [Intake Questionnaire Form](https://docs.google.com/forms/d/1IDnAxhAtZ58DwRLlnA-SYJPpP-fdTUabzdsPTcaJAlQ/edit)

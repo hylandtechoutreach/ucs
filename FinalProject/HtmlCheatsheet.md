@@ -48,7 +48,7 @@ Creates a hyperlink to another URL that will navigate when clicked
 Embeds an image into a webpage
 
 ```html
-<img src="https://i.imgur.com/v4GLRqb.jpg">
+<img src="dog.jpg">
 ```
 
 ### Attributes

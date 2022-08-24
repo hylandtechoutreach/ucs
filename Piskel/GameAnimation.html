@@ -481,11 +481,11 @@
 <p>For the purposes of this exercise, there is an existing game within a Repl project to use. Start by creating a fork of the game, and playing it.</p>
 <ol>
 <li>Go to the <a href="https://replit.com/@HylandOutreach/Platformer" target="_blank">Existing Game Repl Project</a></li>
-<li>Click the &quot;Fork&quot; button in the upper right</li>
+<li>Click the &quot;Remix&quot; button in the upper right</li>
 <li>Click the &quot;Run&quot; button to run the game</li>
 <li>Expand the Preview area so there is room to play the game</li>
 </ol>
-<p><img src="https://i.imgur.com/2u6mfas.png" alt=""></p>
+<p><img src="Assets/ExistingGamePreview.png" alt=""></p>
 <p>Play through the game to see how it works!</p>
 <h2 id="modifying-the-player-walk-cycle">Modifying the Player Walk Cycle</h2>
 <p>Next, create your own version of the player walk cycle. At this point, try not to change too much - it will always be possible to come back and further customize the player.</p>
@@ -496,13 +496,13 @@
 <li>Right click the picture above and select &quot;Save image as...&quot;</li>
 <li>Save the image on your computer with <strong>player.png</strong> as the name</li>
 <li>Open a new web browser tab, and go to <a href="https://www.piskelapp.com" target="_blank">www.piskelapp.com</a></li>
-<li>Click the &quot;Create Sprite&quot; button<br> <img src="https://i.imgur.com/EPj1iRr.png" alt=""></li>
-<li>In the sprite editor, on the right, click the &quot;IMPORT&quot; folder icon<br> <img src="https://i.imgur.com/RLRo3iQ.png" alt=""></li>
-<li>In the menu that appears, click the &quot;Browse images&quot; button<br> <img src="https://i.imgur.com/q5hAfOl.png" alt=""></li>
+<li>Click the &quot;Create Sprite&quot; button<br> <img src="Assets/CreateSprite.png" alt=""></li>
+<li>In the sprite editor, on the right, click the &quot;IMPORT&quot; folder icon<br> <img src="Assets/Import.png" alt=""></li>
+<li>In the menu that appears, click the &quot;Browse images&quot; button<br> <img src="Assets/BrowseImages.png" alt=""></li>
 <li>Find the saved <strong>player.png</strong> file and select it for opening</li>
-<li>Select the &quot;Import as spritesheet&quot; option<br> <img src="https://i.imgur.com/wTxaoB7.png" alt=""></li>
+<li>Select the &quot;Import as spritesheet&quot; option<br> <img src="Assets/ImportPlayerAsSpritesheet.png" alt=""></li>
 <li>Set the Frame size to 32 x 32</li>
-<li>Click the &quot;import&quot; button<br> <img src="https://i.imgur.com/Ajb8yRD.png" alt=""></li>
+<li>Click the &quot;import&quot; button<br> <img src="Assets/ImportButtonPlayer.png" alt=""></li>
 <li>If a pop-up appears asking if you want to continue, click the &quot;OK&quot; button</li>
 </ol>
 <p>Now the four frames of the player sprite should be ready for editing!</p>
@@ -516,11 +516,11 @@
 <li>Make sure to change each frame of the animation </li>
 </ul>
 </li>
-<li>Click the &quot;Export&quot; button on the right side of the window<br><img src="https://i.imgur.com/8pW6Lrg.png" alt=""></li>
+<li>Click the &quot;Export&quot; button on the right side of the window<br><img src="Assets/Export.png" alt=""></li>
 <li>Make sure &quot;Scale&quot; is set to <strong>1.0x</strong></li>
-<li>In the EXPORT menu, select the &quot;PNG&quot; tab<br><img src="https://i.imgur.com/B7T4DY9.png" alt=""></li>
-<li>Change the &quot;Spritesheet layout options&quot; so there are <strong>4 columns</strong><br><img src="https://i.imgur.com/zIgoynp.png" alt=""></li>
-<li>In the &quot;Spritesheet file export&quot; part, click the &quot;Download&quot; button<br><img src="https://i.imgur.com/1KhYoV5.png" alt=""></li>
+<li>In the EXPORT menu, select the &quot;PNG&quot; tab<br><img src="Assets/ExportPngTab.png" alt=""></li>
+<li>Change the &quot;Spritesheet layout options&quot; so there are <strong>4 columns</strong><br><img src="Assets/ExportFourColumnLayout.png" alt=""></li>
+<li>In the &quot;Spritesheet file export&quot; part, click the &quot;Download&quot; button<br><img src="Assets/ExportDownloadButton.png" alt=""></li>
 <li>Save the file somewhere with the name <strong>player.png</strong></li>
 </ol>
 <p>Now the updated player should be ready to enter the existing game!</p>
@@ -528,9 +528,9 @@
 <p>It&apos;s time to update the game itself with the new player.</p>
 <ol>
 <li>Go back to the Repl project tab</li>
-<li>On the left, open the &quot;Files&quot; menu<br><img src="https://i.imgur.com/EPqBgcN.png" alt=""></li>
-<li>In the &quot;Files&quot; area, open the &quot;images&quot; folder<br><img src="https://i.imgur.com/lLOjCWp.png" alt=""></li>
-<li>Drag the <strong>player.png</strong> file into the &quot;images&quot; folder<br><img src="https://i.imgur.com/tOOkHNe.png" alt=""></li>
+<li>On the left, open the &quot;Files&quot; menu<br><img src="Assets/FilesMenu.png" alt=""></li>
+<li>In the &quot;Files&quot; area, open the &quot;images&quot; folder<br><img src="Assets/ImagesFolder.png" alt=""></li>
+<li>Drag the <strong>player.png</strong> file into the &quot;images&quot; folder<br><img src="Assets/DragPlayer.png" alt=""></li>
 <li>In the popup that appears, click the &quot;Replace&quot; button<ul>
 <li>This will overwrite the existing <strong>player.png</strong> file</li>
 </ul>
@@ -582,7 +582,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Game Animation","level":"1.9.2","depth":2,"next":{"title":"Animation Challenges","level":"1.9.3","depth":2,"path":"Piskel/AnimationChallenges.md","ref":"Piskel/AnimationChallenges.md","articles":[]},"previous":{"title":"Piskel Demo","level":"1.9.1","depth":2,"path":"Piskel/PiskelDemo.md","ref":"Piskel/PiskelDemo.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Piskel/GameAnimation.md","mtime":"2022-08-23T19:50:13.332Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2022-08-23T19:50:52.317Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Game Animation","level":"1.9.2","depth":2,"next":{"title":"Animation Challenges","level":"1.9.3","depth":2,"path":"Piskel/AnimationChallenges.md","ref":"Piskel/AnimationChallenges.md","articles":[]},"previous":{"title":"Piskel Demo","level":"1.9.1","depth":2,"path":"Piskel/PiskelDemo.md","ref":"Piskel/PiskelDemo.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Piskel/GameAnimation.md","mtime":"2022-08-24T15:19:31.911Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2022-08-24T15:20:05.860Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

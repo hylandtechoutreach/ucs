@@ -4,7 +4,7 @@ Congratulations, you just won $250,000 in a prestigious cooking competition! The
 ## Setup
 Make sure to log into your Repl account before proceeding!
 
-1. Open and fork the [empty Repl project](https://replit.com/@HylandOutreach/EmptyWeb) to begin
+1. Open and remix the [Restaurant Website Repl project](https://replit.com/@HylandOutreach/RestaurantWebsiteStart) to begin
 1. In your new project, open up the **index.html** file
 1. Add the `html` tags (opening and closing)
 1. Add the `body` tags within the `html` tags
@@ -23,7 +23,7 @@ Add a header, image, and paragraph to the site. For this example, we will be mak
 
 1. Add an `h1` header that says "Alfredo's Pizza Cafe" between the `<body>` and `</body>`
 1. Under the `h1`, add an `<img >` of the pizza
-    - Set the `src` attribute to "https://i.imgur.com/v4GLRqb.jpg"
+    - Set the `src` attribute to "pizza.jpg"
     - Feel free to use a different image for a different restaurant
 1. Under the `img`, add a `p` that says "WE'RE NOT FINE DINING; WE'RE JUST FINE FOOD!"
     - Note that this is the actual slogan of the actual Alfredo's Pizza Cafe
@@ -35,7 +35,7 @@ At the end of this section, your code should look like this:
 <html>
     <body>
         <h1>Alfredo's Pizza Cafe</h1>
-        <img src="https://i.imgur.com/v4GLRqb.jpg">
+        <img src="pizza.jpg">
         <p>WE'RE NOT FINE DINING; WE'RE JUST FINE FOOD!</p>
     </body>
 </html>
@@ -58,7 +58,7 @@ It should look something like this:
 <html>
     <body>
         <h1>Alfredo's Pizza Cafe</h1>
-        <img src="https://i.imgur.com/v4GLRqb.jpg">
+        <img src="pizza.jpg">
         <p>WE'RE NOT FINE DINING; WE'RE JUST FINE FOOD!</p>
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/wusGIl3v044" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -81,7 +81,7 @@ At the end of this section, your code should look something like this:
 <html>
     <body>
         <h1>Alfredo's Pizza Cafe</h1>
-        <img src="https://i.imgur.com/v4GLRqb.jpg">
+        <img src="pizza.jpg">
         <p>WE'RE NOT FINE DINING; WE'RE JUST FINE FOOD!</p>
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/wusGIl3v044" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -150,7 +150,7 @@ By the end, the HTML should look something like this:
 <html>
     <body>
         <h1>Alfredo's Pizza Cafe</h1>
-        <img src="https://i.imgur.com/v4GLRqb.jpg">
+        <img src="pizza.jpg">
         <p>WE'RE NOT FINE DINING; WE'RE JUST FINE FOOD!</p>
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/wusGIl3v044" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
