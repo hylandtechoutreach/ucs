@@ -4,6 +4,8 @@ For this session, introduce students to CSS. They can use CSS to make their webs
 ## Warm Up
 Start with a [color scheme creation exercise](CoolorsWarmUp.md).
 
+_Note for future reference: [colormind](http://colormind.io/bootstrap/) might be a cool alternative to coolors_
+
 ## Lecture
 The [PowerPoint Presentation](HelloCss.pptx) introduces the idea of CSS, separate files, links, and some basic syntax - selectors and properties.
 
