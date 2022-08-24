@@ -6,10 +6,10 @@ Thank you for participating in this program!
 1. [HTML Introduction](HtmlIntro/StudentDesc.md)
 1. [HTML Introduction Part 2](HtmlIntro2/StudentDesc.md)
 1. [More HTML](MoreHtml/StudentDesc.md)
+1. [More HTML Part 2](MoreHtml2/StudentDesc.md)
 1. [CSS Introduction](CssIntro/StudentDesc.md)
-1. [CSS Classes](MoreCss/StudentDesc.md)
-1. [More CSS Properties](CssProperties/StudentDesc.md)
-1. [CSS Animations](CssAnimations/StudentDesc.md)
+1. [More CSS](MoreCss/StudentDesc.md)
+1. [More CSS Part 2](MoreCss2/StudentDesc.md)
 1. [Final Project Work](FinalProject/StudentDesc.md)
 1. Final Project Presentations
 1. [Piskel](Piskel/StudentDesc.md)
