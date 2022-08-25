@@ -13,7 +13,7 @@ Students should follow [these instructions](RestaurantSelfPacedExercises.md) to 
 ## Baamboozle Quiz
 To close out the session, play through a [Baamboozle group quiz](https://www.baamboozle.com/game/614321) that covers the material from the lesson.
 
-## Suggested Schedule
+## Agenda
 
 | Activity | Time |
 |-|-|

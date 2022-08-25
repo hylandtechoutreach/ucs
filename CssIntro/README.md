@@ -1,7 +1,7 @@
 # Introduction to CSS
 For this session, introduce students to CSS. They can use CSS to make their websites look a lot more fun and interesting. 
 
-## Warm Up
+## Warm Up / Icebreaker
 Start with a [color scheme creation exercise](CoolorsWarmUp.md).
 
 _Note for future reference: [colormind](http://colormind.io/bootstrap/) might be a cool alternative to coolors_
@@ -20,7 +20,7 @@ Students can have the opportunity to complete challenges either during class or 
 ## Tangential Activity - Name All Colors Sporcle
 If there is enough time, close out the session with an activity where the students work as a group to try and name all colors available on the web. Go to the [Sporcle](https://www.sporcle.com/games/rockgolf/rainbow-coalition), click the "PLAY QUIZ" button, and have students shout out as many answers as they can. It does not need to take the full 15 minutes on the timer - 10 minutes should be long enough.
 
-## Suggested Schedule
+## Agenda
 
 | Activity | Time |
 |-|-|
