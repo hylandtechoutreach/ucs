@@ -1,6 +1,9 @@
 # More CSS - Classes
 For this session, introduce CSS classes to the students. They can use classes to style HTML elements more specifically.
 
+## Icebreaker
+For this week, present a [Mad Libs Icebreaker](../Icebreakers/MadLibsIcebreaker.md).
+
 ## Lecture
 The [PowerPoint Presentation](CssClassSelector.pptx) introduces CSS classes.
 
@@ -16,13 +19,14 @@ Students should follow [these instructions](RainbowPoemIndividual.md) independen
 ## Group Review Activity
 If there is extra time at the end and the students are having trouble focusing, walk through the [CSS Review Activity PowerPoint Presentation](CssReview.pptx) for more structured practice. Play [Around the World](https://www.greatgroupgames.com/around-the-world), or simply ask the questions to students one by one. Note that this exercise will only be necessary if the students are not focusing on their websites - otherwise, they should be able to continue working on their sites.
 
-## Suggested Schedule
+## Agenda
 
 | Activity | Time |
 |-|-|
+| Icebreaker | 10m |
 | Lecture | 10m |
-| Kahoot | 10m |
+| Kahoot | 5m |
 | Code-Along | 15m |
 | Individual Exercise | 10m |
-| Group Review Activity (optional) | 10m |
+| Group Review Activity (optional) | 5m |
 | Survey | 5m |

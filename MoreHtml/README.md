@@ -10,7 +10,7 @@ The [PowerPoint Presentation](MoreHtmlElements.pptx) explains attributes, and in
 ## Code-Along Activity: Restaurant Website
 Walk through the [Restaurant Website Code-Along](RestaurantCodeAlong.md) activity. Students should build a website for a restaurant. The website can be adapted for many different types of food, like pizza, tacos, sushi, sandwiches, etc.
 
-## Suggested Schedule
+## Agenda
 
 | Activity | Time |
 |-|-|
