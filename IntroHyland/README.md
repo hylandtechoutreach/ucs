@@ -9,6 +9,30 @@ Help students and instructors get to know each other with a [Snowball Fight](../
 ## Intro to Hyland Presentation
 Present the [Intro to Hyland PowerPoint Presentation](HylandPresentation.pptx) to give students some background on Hyland. Ask students questions throughout. Try to sell Hyland (and software companies in general) as a great place to work.
 
+### Presentation Questions
+After presenting the PowerPoint, ask the students some questions to check if they were paying attention.
+
+- Q. What type of company is Hyland (e.g., what does Hyland make?)
+    - A. Software
+- Q. In what year was Hyland founded?
+    - A. 1991
+- Q. In which city is Hyland headquartered?
+    - A. Westlake, OH
+- Q. What was Hyland's first customer? (what type of business was it, where was it located?)
+    - A. Necedah Bank in Wisconsin
+- Q. Approximately how many employees does Hyland have?
+    - A. 4,000
+- Q. Approximately how many offices does Hyland have worldwide?
+    - A. 30
+- Q. Approximately how many customers does Hyland support?
+    - A. 16,000
+- Q. Approximately how many partners does Hyland have?
+    - A. 475
+- Q. What are the names of some of Hyland's Tech Outreach programs?
+    - A. Hy-Tech Camps, Hy-Tech Club, High School Innovation Showdown, Hyland Hackathon
+
+Optionally, students can earn candy for answering these questions.
+
 ## Classroom Expectations
 Go over the [Classroom Expectations PowerPoint Presentation](ClassroomExpectations.pptx) to make sure students know how to behave in class.
 
