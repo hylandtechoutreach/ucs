@@ -19,7 +19,3 @@
 - [Final Project](FinalProject/StudentDesc.md)
   - [HTML Cheatsheet](FinalProject/HtmlCheatsheet.md)
   - [CSS Cheatsheet](FinalProject/CssCheatsheet.md)
-- [Piskel](Piskel/StudentDesc.md)
-  - [Piskel Demo](Piskel/PiskelDemo.md)
-  - [Game Animation](Piskel/GameAnimation.md)
-  - [Animation Challenges](Piskel/AnimationChallenges.md)
