@@ -14,8 +14,8 @@ Thank you for participating in this program!
 - [Final Project Work](FinalProject/StudentDesc.md) (11/3)
 - Final Project Presentations (11/10)
 
-## First Session - Intake Questionnaire
-[Click here to complete the intake questionnaire.](https://forms.gle/5wbK8RiocAhayCza8)
-
 ## Weekly Check-in
 [Click here to complete the weekly check-in survey.](https://forms.gle/xYMoZGSDPzLRtR4f8)
+
+## Drawasaurus Room
+[Click here to join the Hyland room on Drawasaurus.](https://drawasaurus.org/room/hyland)
