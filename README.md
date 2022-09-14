@@ -4,18 +4,18 @@ This repository contains material for Hyland's partnership with Urban Community 
 ## Schedule
 Here is the schedule for the sessions:
 
-1. [Kick-Off: Intro to Hyland](IntroHyland/README.md) (9/1)
-1. [HTML Introduction](HtmlIntro/README.md) (9/8)
-1. [HTML Introduction Part 2](HtmlIntro2/README.md) (9/15)
-1. [More HTML](MoreHtml/README.md) (9/22)
-1. [More HTML Part 2](MoreHtml2/README.md) (9/29)
-1. [CSS Introduction](CssIntro/README.md) (10/13)
-1. [More CSS](MoreCss/README.md) (10/20)
-1. [More CSS Part 2](MoreCss2/README.md) (10/27)
-1. [Final Project Work](FinalProject/README.md) (11/3)
+1. [Kick-Off: Intro to Hyland](IntroHyland/) (9/1)
+1. [HTML Introduction](HtmlIntro/) (9/8)
+1. [HTML Introduction Part 2](HtmlIntro2/) (9/15)
+1. [More HTML](MoreHtml/) (9/22)
+1. [More HTML Part 2](MoreHtml2/) (9/29)
+1. [CSS Introduction](CssIntro/) (10/13)
+1. [More CSS](MoreCss/) (10/20)
+1. [More CSS Part 2](MoreCss2/) (10/27)
+1. [Final Project Work](FinalProject/) (11/3)
 1. Final Project Presentations (11/10)
 
-During the final project work, take some time to do [review activities](Extras/ReviewActivities/README.md) as well.
+During the final project work, take some time to do [review activities](Extras/ReviewActivities/) as well.
 
 ## Student Forms
 - During the first session, students should complete the [Intake Questionnaire Form](https://docs.google.com/forms/d/1IDnAxhAtZ58DwRLlnA-SYJPpP-fdTUabzdsPTcaJAlQ/edit)
