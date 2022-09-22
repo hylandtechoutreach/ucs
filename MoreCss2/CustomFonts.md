@@ -2,7 +2,7 @@
 Follow this guide to learn how to add a custom font to a website using [Google Fonts](https://fonts.google.com/)!
 
 ## Setup
-The setup for each new concept will be very similar.
+Follow these steps to set up a new project.
 
 1. [Click here to go to the Starter Repl project](https://replit.com/@HylandOutreach/MoreCssStart)
 1. Fork the project
