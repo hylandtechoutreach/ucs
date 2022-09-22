@@ -2,7 +2,7 @@
 Follow this guide to learn how to add a color gradient to a website using [CSS Gradient](https://cssgradient.io/)!
 
 ## Setup
-The setup for this concept is a little simpler.
+The setup for this concept is fairly simple.
 
 1. [Click here to go to the Starter Repl project](https://replit.com/@HylandOutreach/MoreCssStart)
 1. Fork the project

@@ -1,5 +1,5 @@
 # Challenges
-Check out some of these interactive challenges!
+Check out some of these interactive challenges! Try to complete as many as you can.
 
 ## Challenge 1 - Escape Room
 [Click here to access the Escape Room challenge.](https://codepen.io/takaneichinose/full/YzqreVp) Try to escape the room and beat the game!

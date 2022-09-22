@@ -2,7 +2,7 @@
 Follow this guide to learn how to add a transition to a website using the [`transition`](https://www.w3schools.com/css/css3_transitions.asp) CSS property! This also makes use of the `hover` [pseudo-class](https://www.w3schools.com/css/css_pseudo_classes.asp).
 
 ## Setup
-The setup for this concept will be slightly more involved.
+The setup for this concept will be a little more involved than other concepts.
 
 1. [Click here to go to the Starter Repl project](https://replit.com/@HylandOutreach/MoreCssStart)
 1. Fork the project

@@ -2,7 +2,7 @@
 Learn even more about CSS! This lesson introduces custom fonts, color gradients, text shadow, transitions, transforms, and animations.
 
 ## New Concepts
-There are a ton of things you can do with CSS. Here are just a few of the possibilities!
+There are a ton of things you can do with CSS. Here are just a few of the possibilities! Feel free to work on whatever you'd like.
 
 [Click here to see a website that shows off these new concepts.](https://morecss2.hylandoutreach.repl.co/)
 

@@ -1,5 +1,5 @@
 # More CSS Part 2
-This lesson introduces [custom fonts](CustomFonts.md), [color gradients](ColorGradients.md), [text shadows](TextShadows.md), [transitions](Transitions.md), [transforms](Transforms.md), and [animations](Animations.md).
+This lesson introduces a variety of things: [custom fonts](CustomFonts.md), [color gradients](ColorGradients.md), [text shadows](TextShadows.md), [transitions](Transitions.md), [transforms](Transforms.md), and [animations](Animations.md).
 
 ## Icebreaker: Drawphone
 For this session, kick things off with a game of [Drawphone](../Icebreakers/DrawphoneIcebreaker.md).
