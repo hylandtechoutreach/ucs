@@ -5,7 +5,7 @@ Follow these instructions to see how to create multiple website pages by creatin
 Start by creating the new HTML file.
 
 1. Open the full Restaurant Website Repl project  
-    - If necessary, remix [this project](https://replit.com/@HylandOutreach/RestaurantWebsiteFull#index.html)
+    - If necessary, fork [this project](https://replit.com/@HylandOutreach/RestaurantWebsiteFull#index.html)
 1. In the Repl project, create a new file by clicking the "Add File" button  
     ![](Assets/AddFile.png)
 1. Name the file **page2.html**  
