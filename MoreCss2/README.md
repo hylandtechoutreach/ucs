@@ -16,7 +16,7 @@ The plan for this session is to give students free reign to create whatever they
 Students are welcome to go through any and all of the guides in a self-paced way. However, if enough students show an interest, feel free to walk through any of the guides in a code-along fashion. This may help students grasp the concepts a little better, and apply them to their sites.
 
 ## Formative Assessment: Blooket
-At the end of the session, facilitate the [comprehensive review Blooket](https://dashboard.blooket.com/set/626982f5fb8fac3dad76c900). Note that a Blooket account is required.
+At the end of the session, facilitate the [comprehensive review Blooket](https://dashboard.blooket.com/set/633f2c2e7322dbfa304b717c). Note that a Blooket account is required.
 
 ## Agenda
 
