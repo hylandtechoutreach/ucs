@@ -2,9 +2,7 @@
 Play a quick game of online mad libs with the students.
 
 ## Stories
-There is currently one story that is relevant to computer science: [Alan Turing](https://madlibs.hylandoutreach.repl.co/turing.html).
-
-If another topic is desired, a new story can be created. A simple way to do this is currently in progress. For the story itself, one method is to copy the Wikipedia page for a concept or person, and then replace some of the words in it.
+There is a short [list of stories](https://madlibs2.hylandoutreach.repl.co/) from which to choose. Allow the students to vote for their favorite option.
 
 ## Instructions
 Follow these instructions for the icebreaker.
