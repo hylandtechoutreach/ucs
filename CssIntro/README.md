@@ -12,7 +12,7 @@ The [PowerPoint Presentation](HelloCss.pptx) introduces the idea of CSS, and som
 ## Code-Along Activity: Bananas
 Walk through the [Bananas Code-Along](BananasCodeAlong.md) activity. Students should take an existing HTML website, and add some CSS to it.
 
-## Individual Exercise: Bananas Website Updates
+## Self-Paced Work: Bananas Website Updates
 Students should follow [these instructions](SelfPacedWork.md) independently to make more updates to the Banana site. They can theoretically make any CSS changes they would like, and they can also go back and apply CSS to their previous work.
 
 Students can have the opportunity to complete challenges either during class or at home.
@@ -27,6 +27,6 @@ If there is enough time, close out the session with an activity where the studen
 | Warm-up | 10m |
 | Lecture | 15m |
 | Code-Along | 20m |
-| Individual Exercise | 10m |
+| Self-Paced Work | 10m |
 | Sporcle | 5m |
 | Survey | 5m |

@@ -1,4 +1,4 @@
-# Rainbow Poem Individual Work
+# Rainbow Poem Updates: Self-Paced Work
 After completing the code-along, work on these exercises.
 
 ## Updating the Poem

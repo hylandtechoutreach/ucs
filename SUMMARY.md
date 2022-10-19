@@ -14,7 +14,7 @@
   - [Self-Paced Work](CssIntro/SelfPacedWork.md)
 - [More CSS](MoreCss/StudentDesc.md)
   - [Rainbow Poem Code-Along](MoreCss/RainbowPoemCodeAlong.md)
-  - [Rainbow Poem Individual](MoreCss/RainbowPoemIndividual.md)
+  - [Self-Paced Work](MoreCss/SelfPacedWork.md)
 - [More CSS Part 2](MoreCss2/StudentDesc.md)
   - [Custom Fonts](MoreCss2/CustomFonts.md)
   - [Color Gradients](MoreCss2/ColorGradients.md)
