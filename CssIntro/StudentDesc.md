@@ -7,8 +7,6 @@ Follow the instructions [here](CoolorsWarmUp.md) to create a color scheme!
 ## Introduction to CSS PowerPoint Presentation
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/ucs/CssIntro/HelloCss.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-## Go Bananas Code-Along
-[Click here for the code-along instructions.](BananasCodeAlong.md)
-
-## Self-Paced Work: Bananas Updates
-[Click here for the self-paced work instructions.](SelfPacedWork.md)
+## Activities
+- [Bananas Code-Along](BananasCodeAlong.md)
+- [Bananas Individual](BananasIndividual.md)

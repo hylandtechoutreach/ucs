@@ -2,26 +2,26 @@
 Add some styling to a website advertising bananas.
 
 ## Current Webpage
-So far, there is a [simple website](https://gobananas.hylandoutreach.repl.co/) that has a lot of information about a banana. All of the information is there, but the page doesn't really pop in the right way.
+So far, there is a [simple website](https://Bananas.hylandoutreach.repl.co) that has a lot of information about a banana. All of the information is there, but the page doesn't really pop.
 
-1. Go to the [existing Replit project](https://replit.com/@HylandOutreach/GoBananas#index.html)
+1. Go to the [existing Replit project](https://replit.com/@HylandOutreach/Bananas#index.html)
 1. Fork the project by clicking the fork button
     - Make sure to log into your account!
 1. Take a look at the code so far
 
-There is an **index.html** file that includes a `<style></style>` element. There is already some CSS there, but not much!
+There is an **index.html** file, and a **style.css** file. The CSS file is already properly linked, but there is nothing in it yet! The page could use a little CSS to make it pop.
 
-## Updating the First Style
+## Adding the First Style
 Bananas are often yellow, so it would make sense to make the background of the page a nice yellow-ish color. This is possible with the `background` property.
 
-1. Open the **index.html** file for editing, and find the `<style>` element
-1. Notice the `body` selector - this will style the whole page!
-1. Notice the curly brackets (`{}`): these open the new block, also called a **ruleset**
-1. Within the curly brackets, update the **declaration** so that sets the background color to yellow-ish
-    - Notice where it says `background`
-    - That is followed by a colon (`:`)
-    - After that, provide the name of the yellow-ish color (`lightgoldenrodyellow`)
-    - Make sure the line still ends with a semi-colon (`;`)
+1. Open the **style.css** file for editing
+1. In the CSS file, to select the entire page, use the body selector (`body`)
+1. Use curly brackets (`{}`) to open the new block, also called a **ruleset**
+1. Within the curly brackets, create a new **declaration** that sets the background color to yellow-ish
+    - Start on a new line with the background property (`background`)
+    - Insert a colon (`:`)
+    - Provide the name of the yellow-ish color (`lightgoldenrodyellow`)
+    - End it with a semi-colon (`;`)
 1. Run the code, and verify that the background changes color!
 
 The CSS should look something like this:
@@ -29,17 +29,18 @@ The CSS should look something like this:
 ```css
 body {
     background: lightgoldenrodyellow;
-    color: purple;
 }
 ```
 
 ## Adding More `body` Styles
 Any **declaration** within the `body` **ruleset** will apply by default to any element on the webpage.
 
-1. Make the text color for the page a deep blue - update the text color property that exists already
+1. Make the text color for the page a deep blue
+	- Create a new declaration on its own line in the `body` ruleset
 	- Property: `color`
 	- Value: `darkblue`
-1. Make the font for the page a nice sans-serif font - create a new declaration on its own line in the `body` ruleset
+1. Make the font for the page a nice sans-serif font
+	- Create a new declaration on its own line in the `body` ruleset
 	- Property: `font-family`
 	- Value: `Tahoma`
 
@@ -56,7 +57,7 @@ body {
 ## Styling the Images
 The images on the page are good, but they are a little too big. Use CSS to update their size.
 
-1. Within the `<style></style>` element, create a new ruleset for images
+1. In the CSS file, create a new ruleset for images
 	- Start on a new line under the `body` ruleset (outside of the `{}`)
 	- Create an image ruleset with `img` and opening/closing curly brackets (`{}`)
 1. Within the `img` ruleset, add a declaration for height
@@ -74,7 +75,7 @@ img {
 ## Styling the Main Header
 The top `h1` should have some special styling as the header for the whole page.
 
-1. Within the `<style></style>` element, create a new ruleset for `h1`
+1. In the CSS file, create a new ruleset for `h1`
 1. In the `h1` ruleset, create a declaration setting the color to goldenrod
 	- Property: `color`
 	- Value: `goldenrod`
@@ -96,7 +97,7 @@ h1 {
 ```
 
 ## Final CSS
-By the end of the activity, the code within the `<style></style>` element should look something like this:
+By the end of the activity, the **style.css** file should look something like this:
 
 ```css
 body {
