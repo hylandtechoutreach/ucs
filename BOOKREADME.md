@@ -17,5 +17,8 @@ Thank you for participating in this program!
 ## Weekly Check-in
 [Click here to complete the weekly check-in survey.](https://forms.gle/xYMoZGSDPzLRtR4f8)
 
+## End-of-Semester Survey/Assessment
+[Click here for the form.](https://forms.gle/v7RrUste1ah3nxz16)
+
 ## Drawasaurus Room
 [Click here to join the Hyland room on Drawasaurus.](https://drawasaurus.org/room/hyland)

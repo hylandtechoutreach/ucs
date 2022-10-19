@@ -21,6 +21,7 @@ During the final project work, take some time to do [review activities](Extras/R
 - During the first session, students should complete the [Intake Questionnaire Form](https://docs.google.com/forms/d/1IDnAxhAtZ58DwRLlnA-SYJPpP-fdTUabzdsPTcaJAlQ/edit)
 - After each subsequent session, students should complete the [Student Weekly Check-in Form](https://docs.google.com/forms/d/1zW8cZPr1J_Y6--aGMy1drG0vsY_Lt8ACWwdtD5InMr8/edit)
 - Students should submit their final projects via the [Final Projects Form](https://docs.google.com/forms/d/11TRh9iiPmRT5dCqXLp66zsWEdjpvrg3TzCPiv3QtJq0/edit)
+- Students should complete the [End-of-Semester Survey/Assessment Form](https://forms.gle/GQzUPR3Rhp46hEj67)
 
 ## Instructor Forms
 After each session, instructors should complete the [Instructor Weekly Check-in Form](https://forms.gle/f1LXcyPPohAFKTMX8).
