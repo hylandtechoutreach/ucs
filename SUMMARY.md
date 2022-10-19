@@ -11,7 +11,7 @@
 - [Intro to CSS](CssIntro/StudentDesc.md)
   - [Coolors Warm-up](CssIntro/CoolorsWarmUp.md)
   - [Bananas Code-Along](CssIntro/BananasCodeAlong.md)
-  - [Bananas Individual](CssIntro/BananasIndividual.md)
+  - [Self-Paced Work](CssIntro/SelfPacedWork.md)
 - [More CSS](MoreCss/StudentDesc.md)
   - [Rainbow Poem Code-Along](MoreCss/RainbowPoemCodeAlong.md)
   - [Rainbow Poem Individual](MoreCss/RainbowPoemIndividual.md)

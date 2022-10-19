@@ -7,13 +7,13 @@ Start with a [color scheme creation exercise](CoolorsWarmUp.md).
 _Note for future reference: [colormind](http://colormind.io/bootstrap/) might be a cool alternative to coolors_
 
 ## Lecture
-The [PowerPoint Presentation](HelloCss.pptx) introduces the idea of CSS, separate files, links, and some basic syntax - selectors and properties.
+The [PowerPoint Presentation](HelloCss.pptx) introduces the idea of CSS, and some basic syntax - selectors and properties.
 
 ## Code-Along Activity: Bananas
 Walk through the [Bananas Code-Along](BananasCodeAlong.md) activity. Students should take an existing HTML website, and add some CSS to it.
 
 ## Individual Exercise: Bananas Website Updates
-Students should follow [these instructions](BananasIndividual.md) independently to make more updates to the Banana site. They can theoretically make any CSS changes they would like, and they can also go back and apply CSS to their previous work.
+Students should follow [these instructions](SelfPacedWork.md) independently to make more updates to the Banana site. They can theoretically make any CSS changes they would like, and they can also go back and apply CSS to their previous work.
 
 Students can have the opportunity to complete challenges either during class or at home.
 
