@@ -4,25 +4,25 @@ Follow this guide to learn how to add a custom font to a website using [Google F
 ## Setup
 Follow these steps to set up a new project.
 
-1. [Click here to go to the Starter Repl project](https://replit.com/@HylandOutreach/MoreCssStart)
+1. [Click here to go to the Starter Repl project](https://replit.com/@HylandOutreach/MoreCssStartStyle)
 1. Fork the project
 1. Open the **index.html** file for editing
 1. Add a `class` attribute to the second `<p>` element that says "Style this paragraph..."
 1. Set the `class` to be `update`
-1. Open the **style.css** file for editing
-1. Create a new ruleset to style the paragraph by its class
+1. Find the `<style></style>` element
+1. There, create a new ruleset to style the paragraph by its class
     - Use `.update` as the selector
     - After the selector, add curly brackets (`{` and `}`)
 
 At this point, the added code should look something like this:
 
-**index.html**
+**HTML**
 
 ```html
 <p class="update">Style this paragraph...</p>
 ```
 
-**style.css**
+**CSS**
 
 ```css
 .update {
@@ -51,11 +51,11 @@ First, copy the `@import` code for a selected font.
     ![](Assets/AtImport.png)
 1. Highlight the code within the `<style></style>` tags (starting with `@import`) and copy it  
     ![](Assets/CopyImport.png)
-1. Go back to the Repl project, and open the **style.css** file for editing
-1. Make space at the very top of the file, and paste the code (starting with `@import`)
+1. Go back to the Repl project, and open the **index.html** file for editing
+1. Make space at the very top of the `<style></style>` element, and paste the code (starting with `@import`)
     - This should be above any ruleset, outside of any `{` and `}`
 
-The code at the top of the **style.css** file should end up looking something like this:
+The code at the top of the `<style></style>` element should end up looking something like this:
 
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
@@ -68,7 +68,7 @@ Now that the font has been imported, it will be possible to use it in the CSS!
 1. Back in the "Selected family" pane, find the "CSS rules to specify families" section
 1. In there, highlight and copy the code starting with `font-family:`  
     ![](Assets/CopyFontFamily.png)
-1. Go back to the Repl project, and open the **style.css** file for editing
+1. Go back to the Repl project, and open the **index.html** file for editing
 1. Within the `.update` ruleset, (between `{` and `}`), paste the code (starting with `font-family`)
 
 That should be it! Try running the project and viewing the page. The `<p>` element should be styled with the new font!

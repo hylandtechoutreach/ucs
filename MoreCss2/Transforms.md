@@ -4,25 +4,25 @@ Follow this guide to learn how to add a transform to a website using the [`trans
 ## Setup
 Follow these steps to set up a new project for transforms.
 
-1. [Click here to go to the Starter Repl project](https://replit.com/@HylandOutreach/MoreCssStart)
+1. [Click here to go to the Starter Repl project](https://replit.com/@HylandOutreach/MoreCssStartStyle)
 1. Fork the project
 1. Open the **index.html** file for editing
 1. Add a `class` attribute to the second `<p>` element that says "Style this paragraph..."
 1. Set the `class` to be `update`
-1. Open the **style.css** file for editing
+1. Find the `<style></style>` element
 1. Create a new ruleset to style the paragraph by its class
     - Use `.update` as the selector
     - After the selector, add curly brackets (`{` and `}`)
 
 At this point, the added code should look something like this:
 
-**index.html**
+**HTML**
 
 ```html
 <p class="update">Style this paragraph...</p>
 ```
 
-**style.css**
+**CSS**
 
 ```css
 .update {
@@ -35,11 +35,11 @@ The project should be ready for styling.
 ## Adding a Transform
 The cool thing about the `transform` property is that there are a ton of different possibilities. You can do things like rotate, scale, move, and skew! This guide will only show one of the functions - the `skewY` function.
 
-1. Open the **style.css** file for editing
+1. Open the **index.html** file for editing, and find the `<style></style>` element
 1. In the `.update` ruleset (between `{` and `}`), create a new property declaration with `transform`
 1. Set the value for the `transform` property to be `skewY(-20deg)`
 
-Load up the page, and see the text skew The code in the **style.css** file should look something like this:
+Load up the page, and see the text skew The code in the `<style></style>` element should look something like this:
 
 ```css
 .update {
