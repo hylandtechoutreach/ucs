@@ -1,4 +1,6 @@
-# HTML Elements Cheatsheet
+# HTML Elements Cheat Sheet
+Read through this guide if you need to remember how to do anything in HTML.
+
 ## HTML - `html`
 Surrounds the entire HTML document
 
@@ -60,23 +62,3 @@ Embeds an image into a webpage
 
 ## Embedding YouTube Videos
 HTML uses an `iframe` element to embed content like YouTube videos onto a website. Follow these instructions to copy the embed code and paste it into your page: [https://support.google.com/youtube/answer/171780?hl=en](https://support.google.com/youtube/answer/171780?hl=en)
-
-## Lists - `ul`, `ol`, `li`
-Represents a list of items, rendered as a bulleted or numbered list
-
-```html
-<p>Shopping List</p>
-<ul>
-    <li>Milk</li>
-    <li>Eggs</li>
-    <li>Cheese</li>
-</ul>
-
-<p>Recipe</p>
-<ol>
-    <li>Scramble Eggs</li>
-    <li>Add Milk</li>
-    <li>Add Cheese</li>
-    <li>Fry</li>
-</ol>
-```
