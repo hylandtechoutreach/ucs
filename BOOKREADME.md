@@ -1,6 +1,12 @@
 # Hyland Academy @ UCS
 Thank you for participating in this program!
 
+## SUBMIT YOUR PROJECT
+Click this link for the project submission form: [https://forms.gle/n4H2zMgnVqx9QF3E8](https://forms.gle/n4H2zMgnVqx9QF3E8)
+
+## COMPLETE THE END-OF-SEMESTER SURVEY
+Click this link for the survey form: [https://forms.gle/v7RrUste1ah3nxz16](https://forms.gle/v7RrUste1ah3nxz16)
+
 ## Schedule
 - [Kick-Off: Intro to Hyland](IntroHyland/StudentDesc.md) (9/1)
 - [HTML Introduction](HtmlIntro/StudentDesc.md) (9/8)
