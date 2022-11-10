@@ -1,14 +1,8 @@
 {
+    "title": "Hyland Academy @ UCS",
     "structure": {
         "readme": "BOOKREADME.md",
         "summary": "SUMMARY.md"
     },
-    "plugins": ["toggle-chapters", "scripts"],
-    "pluginsConfig": {
-        "scripts": {
-            "files": [
-                "./setTitle.js"
-            ]
-        }
-    }
+    "plugins": ["toggle-chapters"]
 }
