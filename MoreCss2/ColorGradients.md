@@ -4,14 +4,14 @@ Follow this guide to learn how to add a color gradient to a website using [CSS G
 ## Setup
 The setup for this concept is fairly simple.
 
-1. [Click here to go to the Starter Repl project](https://replit.com/@HylandOutreach/MoreCssStart)
+1. [Click here to go to the Starter Repl project](https://replit.com/@HylandOutreach/MoreCssStartStyle)
 1. Fork the project
-1. Open the **style.css** file for editing
+1. Open the **index.html** file, and find the `<style></style>` element
 1. Create a new ruleset to style the whole page
     - Use `body` as the selector
     - After the selector, add curly brackets (`{` and `}`)
 
-At this point, the **style.css** file should look something like this:
+At this point, the CSS code within the `<style></style>` element should look something like this:
 
 ```css
 body {
@@ -33,10 +33,10 @@ The cool thing about CSS Gradient is that it will provide all the code needed to
 1. Once a good gradient is found, scroll down a bit to the **CSS** section
 1. Click the "Copy to Clipboard" button at the bottom of the **CSS** box  
     ![](Assets/CopyGradientCss.png)
-1. Go back to the Repl project, and open the **style.css** file for editing
+1. Go back to the Repl project, and open the **index.html** file for editing
 1. Within the `body` ruleset, (between `{` and `}`), paste the code (starting with `background`)
 
-That should be it! The code in the **style.css** file should end up looking something like this:
+That should be it! The code within the `<style></style>` element should end up looking something like this:
 
 ```css
 body {

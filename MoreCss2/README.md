@@ -7,10 +7,12 @@ For this session, kick things off with a game of [Drawphone](../Icebreakers/Draw
 ## Instructor-Led: New Concepts Introduction
 Briefly introduce some new concepts that the students can explore. Each concept has its own brief walkthrough (all listed on the [session page](StudentDesc.md)); students can pick and choose those concepts about which they would like to learn more.
 
-[Here](https://morecss2.hylandoutreach.repl.co/) is a Repl website that showcases each new tool. Take a couple minutes to show it to the students and demonstrate these possibilities.
+[Here](https://morecssmore.hylandoutreach.repl.co/) is a Repl website that showcases each new tool. Take a couple minutes to show it to the students and demonstrate these possibilities.
 
 ## Self-Paced: Free Reign
 The plan for this session is to give students free reign to create whatever they desire using the new tools. If a student shows no particular interest, they should go through each of the guides listed on the [session page](StudentDesc.md). If they complete that and still have no interest in learning more, they can work on the [interactive challenges](Challenges.md).
+
+It may also be a good idea to introduce the [final project](../FinalProject/README.md) at this point.
 
 ### Instructor-Led: Walkthroughs
 Students are welcome to go through any and all of the guides in a self-paced way. However, if enough students show an interest, feel free to walk through any of the guides in a code-along fashion. This may help students grasp the concepts a little better, and apply them to their sites.
