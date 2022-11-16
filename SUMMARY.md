@@ -30,3 +30,6 @@
   - [CSS Cheat Sheet](FinalProject/CssCheatsheet.md)
 - [2/16: Final Project Presentations](FinalProject/Presentations.md)
 - [2/23: Piskel](Piskel/StudentDesc.md)
+  - [Piskel Demo](Piskel/PiskelDemo.md)
+  - [Game Animation Follow-Along](Piskel/GameAnimation.md)
+  - [Challenges](Piskel/AnimationChallenges.md)
