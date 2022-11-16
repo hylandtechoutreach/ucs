@@ -7,12 +7,6 @@ Thank you for participating in this program! Please bookmark this page 😁
 ## Replit
 [Click here to go to Replit - this is where you can write code for your websites!](https://replit.com/)
 
-## SUBMIT YOUR PROJECT
-Click this link for the project submission form: [https://forms.gle/n4H2zMgnVqx9QF3E8](https://forms.gle/n4H2zMgnVqx9QF3E8)
-
-## COMPLETE THE END-OF-SEMESTER SURVEY
-Click this link for the survey form: [https://forms.gle/v7RrUste1ah3nxz16](https://forms.gle/v7RrUste1ah3nxz16)
-
 ## Schedule
 Material for each lesson is linked below.
 
