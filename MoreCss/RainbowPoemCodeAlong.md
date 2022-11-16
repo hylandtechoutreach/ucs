@@ -2,14 +2,14 @@
 In this activity, take an existing poem and make it your own!
 
 ## Current Site
-Start by taking a look at the [existing website](https://replit.com/@HylandOutreach/RainbowPoem). Try to figure out what it does! In the HTML, it has a header, a picture, and a few paragraphs with lines from a poem. In the CSS, it sets some of the basic colors and creates a couple classes. The first two lines of the poem are rainbow, but the rest are plain white. In this activity, update the HTML and CSS so that the whole poem is a rainbow!
+Start by taking a look at the [existing website](https://freshprince.hylandoutreach.repl.co/). Try to figure out what it does! In the HTML, it has a header, a picture, and a few paragraphs with lines from a poem. In the CSS, it sets some of the basic colors and creates a couple classes. The first two lines of the poem are rainbow, but the rest are plain white. In this activity, update the HTML and CSS so that the whole poem is a rainbow!
 
-[Click here to fork the starter website project.](https://replit.com/@HylandOutreach/RainbowPoem)
+[Click here to fork the starter website project.](https://replit.com/@HylandOutreach/FreshPrince#index.html)
 
 ## First - Fixing the Image
 Before updating the text, start by updating the CSS for the image. Set its width and its [border](https://www.w3schools.com/css/css_border.asp).
 
-1. Open the **style.css** file
+1. Find the `<style></style>` element
 1. Create a new ruleset for `img`
   - Start with `img`
   - Then add `{` and `}`
@@ -63,8 +63,7 @@ After adding that CSS, nothing should happen - the HTML still needs to be update
 ### HTML
 Now that a ruleset has been created, it can be used to style HTML elements.
 
-1. Open the HTML file for editing
-1. Find the `<p>` element with the fourth line of the poem
+1. In the HTML file, find the `<p>` element with the fourth line of the poem
 1. Add a `class` attribute to the paragraph
 1. Set the value of the `class` attribute to `blue`
 
@@ -79,12 +78,39 @@ For the second verse, only the HTML will need to change. Update te next four `<p
 
 For each paragraph, add a `class` attribute with a value for either `red`, `yellow`, `green`, or `blue`. After updating the HTML, check out the site and make sure the text changes color properly!
 
-## Final HTML
+## Final Code
+By the end of the activity, the code should look something like this!
 
 ```html
 <html>
   <head>
-    <link href="style.css" type="text/css" rel="stylesheet">
+    <style>
+      body {
+        background: black;
+        color: white;
+      }
+
+      .red {
+        color: red;
+      }
+
+      .yellow {
+        color: yellow;
+      }
+
+      img {
+        height: 150px;
+        border: 5px solid pink;
+      }
+
+      .green {
+        color: lime;
+      }
+
+      .blue {
+        color: cyan;
+      }
+    </style>
   </head>
   <body>
     <h1>My Poem</h1>
@@ -100,34 +126,4 @@ For each paragraph, add a `class` attribute with a value for either `red`, `yell
     <p class="blue">And all shootin' some b-ball outside of the school</p>
   </body>
 </html>
-```
-
-## Final CSS
-
-```css
-body {
-  background: black;
-  color: white;
-}
-
-.red {
-  color: red;
-}
-
-.yellow {
-  color: yellow;
-}
-
-img {
-  height: 150px;
-  border: 5px solid pink;
-}
-
-.green {
-  color: lime;
-}
-
-.blue {
-  color: cyan;
-}
 ```

@@ -296,12 +296,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.7.3" data-path="../CssIntro/BananasIndividual.html">
+        <li class="chapter " data-level="1.7.3" data-path="../CssIntro/SelfPacedWork.html">
             
-                <a href="../CssIntro/BananasIndividual.html">
+                <a href="../CssIntro/SelfPacedWork.html">
             
                     
-                    Bananas Individual
+                    Self-Paced Work
             
                 </a>
             
@@ -341,12 +341,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.8.2" data-path="../MoreCss/RainbowPoemIndividual.html">
+        <li class="chapter " data-level="1.8.2" data-path="../MoreCss/SelfPacedWork.html">
             
-                <a href="../MoreCss/RainbowPoemIndividual.html">
+                <a href="../MoreCss/SelfPacedWork.html">
             
                     
-                    Rainbow Poem Individual
+                    Self-Paced Work
             
                 </a>
             
@@ -598,14 +598,17 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="css-cheatsheet">CSS Cheatsheet</h1>
-<h2 id="html-link">HTML Link</h2>
-<p>To add CSS styles to a webpage, it will be necessary to link a CSS file from within the <strong>index.html</strong> file. To link a file named <strong>style.css</strong>, use this code:</p>
+                                <h1 id="css-cheat-sheet">CSS Cheat Sheet</h1>
+<p>Read through this guide if you need to remember how to do anything in CSS.</p>
+<h2 id="html-style-element">HTML Style Element</h2>
+<p>To add CSS styles to a webpage, it will be necessary to create a <code>style</code> element in the <strong>index.html</strong> file. To create the <code>style</code> element, use this code:</p>
 <pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">head</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">link</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;style.css&quot;</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;text/css&quot;</span> <span class="hljs-attr">rel</span>=<span class="hljs-string">&quot;stylesheet&quot;</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">style</span>&gt;</span><span class="undefined">
+
+    </span><span class="hljs-tag">&lt;/<span class="hljs-name">style</span>&gt;</span>
 <span class="hljs-tag">&lt;/<span class="hljs-name">head</span>&gt;</span>
 </code></pre>
-<p>To link a file with a different name, replace the <code>&quot;style.css&quot;</code> value for the <code>href</code> attribute. Paste the code within the <code>&lt;html&gt;&lt;/html&gt;</code> element, above the <code>&lt;body&gt;</code>.</p>
+<p>Paste the code within the <code>&lt;html&gt;&lt;/html&gt;</code> element, above the <code>&lt;body&gt;</code>.</p>
 <h2 id="ruleset">Ruleset</h2>
 <p>A <strong>ruleset</strong> is how CSS applies styles to specific elements. To define a ruleset, use:</p>
 <ul>
@@ -644,16 +647,6 @@
     <span class="hljs-comment">/* styles all hyperlinks */</span>
 }
 </code></pre>
-<h3 id="id-selector">ID selector</h3>
-<p>The <strong>ID selector</strong> selects one specific HTML element based on its <code>id</code> attribute value. Use the hashtag (<code>#</code>) followed by the value of the <code>id</code> attribute for the element.</p>
-<h4 id="html">HTML</h4>
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">h1</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&quot;header1&quot;</span>&gt;</span>Header1<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
-</code></pre>
-<h4 id="css">CSS</h4>
-<pre><code class="lang-css"><span class="hljs-selector-id">#header1</span> {
-    <span class="hljs-comment">/* styles the specific h1 */</span>
-}
-</code></pre>
 <h3 id="class-selector">Class selector</h3>
 <p>The <strong>class selector</strong> selects HTML elements based on the value of their <code>class</code> attribute. Use the dot (<code>.</code>) followed by the value of the <code>class</code> attribute.</p>
 <h4 id="html">HTML</h4>
@@ -666,7 +659,7 @@
 }
 </code></pre>
 <h2 id="propertyvalue">Property/Value</h2>
-<p>A <strong>property</strong> is an identifier that defines which feature to style. A <strong>value</strong> describes the specific style for the property. Refer to <a href="https://htmldog.com/references/css/properties/" target="_blank">https://htmldog.com/references/css/properties/</a> to see a complete list of available properties.</p>
+<p>A <strong>property</strong> is an identifier that defines which feature to style. A <strong>value</strong> describes the specific style for the property. Refer to <a href="https://htmldog.com/references/css/properties/" target="_blank">this page</a> to see a complete list of available properties.</p>
 <h3 id="examples">Examples</h3>
 <pre><code class="lang-css"><span class="hljs-selector-tag">body</span> {
     <span class="hljs-attribute">background</span>: black; <span class="hljs-comment">/* changes the background color */</span>
@@ -722,7 +715,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"CSS Cheat Sheet","level":"1.11.2","depth":2,"next":{"title":"2/16: Final Project Presentations","level":"1.12","depth":1,"path":"FinalProject/Presentations.md","ref":"FinalProject/Presentations.md","articles":[]},"previous":{"title":"HTML Cheat Sheet","level":"1.11.1","depth":2,"path":"FinalProject/HtmlCheatsheet.md","ref":"FinalProject/HtmlCheatsheet.md","articles":[]},"dir":"ltr"},"config":{"plugins":["toggle-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Hyland Academy @ UCS","gitbook":"*"},"file":{"path":"FinalProject/CssCheatsheet.md","mtime":"2022-11-16T15:56:52.052Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2022-11-16T15:57:24.429Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"CSS Cheat Sheet","level":"1.11.2","depth":2,"next":{"title":"2/16: Final Project Presentations","level":"1.12","depth":1,"path":"FinalProject/Presentations.md","ref":"FinalProject/Presentations.md","articles":[]},"previous":{"title":"HTML Cheat Sheet","level":"1.11.1","depth":2,"path":"FinalProject/HtmlCheatsheet.md","ref":"FinalProject/HtmlCheatsheet.md","articles":[]},"dir":"ltr"},"config":{"plugins":["toggle-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Hyland Academy @ UCS","gitbook":"*"},"file":{"path":"FinalProject/CssCheatsheet.md","mtime":"2022-11-16T16:13:20.481Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2022-11-16T16:13:51.732Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

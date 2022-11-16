@@ -296,12 +296,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.7.3" data-path="../CssIntro/BananasIndividual.html">
+        <li class="chapter " data-level="1.7.3" data-path="../CssIntro/SelfPacedWork.html">
             
-                <a href="../CssIntro/BananasIndividual.html">
+                <a href="../CssIntro/SelfPacedWork.html">
             
                     
-                    Bananas Individual
+                    Self-Paced Work
             
                 </a>
             
@@ -341,12 +341,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.8.2" data-path="../MoreCss/RainbowPoemIndividual.html">
+        <li class="chapter " data-level="1.8.2" data-path="../MoreCss/SelfPacedWork.html">
             
-                <a href="../MoreCss/RainbowPoemIndividual.html">
+                <a href="../MoreCss/SelfPacedWork.html">
             
                     
-                    Rainbow Poem Individual
+                    Self-Paced Work
             
                 </a>
             
@@ -603,23 +603,23 @@
 <h2 id="setup">Setup</h2>
 <p>Follow these steps to set up a new project.</p>
 <ol>
-<li><a href="https://replit.com/@HylandOutreach/MoreCssStart" target="_blank">Click here to go to the Starter Repl project</a></li>
+<li><a href="https://replit.com/@HylandOutreach/MoreCssStartStyle" target="_blank">Click here to go to the Starter Repl project</a></li>
 <li>Fork the project</li>
 <li>Open the <strong>index.html</strong> file for editing</li>
 <li>Add a <code>class</code> attribute to the second <code>&lt;p&gt;</code> element that says &quot;Style this paragraph...&quot;</li>
 <li>Set the <code>class</code> to be <code>update</code></li>
-<li>Open the <strong>style.css</strong> file for editing</li>
-<li>Create a new ruleset to style the paragraph by its class<ul>
+<li>Find the <code>&lt;style&gt;&lt;/style&gt;</code> element</li>
+<li>There, create a new ruleset to style the paragraph by its class<ul>
 <li>Use <code>.update</code> as the selector</li>
 <li>After the selector, add curly brackets (<code>{</code> and <code>}</code>)</li>
 </ul>
 </li>
 </ol>
 <p>At this point, the added code should look something like this:</p>
-<p><strong>index.html</strong></p>
+<p><strong>HTML</strong></p>
 <pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;update&quot;</span>&gt;</span>Style this paragraph...<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
 </code></pre>
-<p><strong>style.css</strong></p>
+<p><strong>CSS</strong></p>
 <pre><code class="lang-css"><span class="hljs-selector-class">.update</span> {
 
 }
@@ -640,13 +640,13 @@
 <li>The &quot;Selected family&quot; pane should appear on the right<br> <img src="Assets/SelectedFamily.png" alt=""></li>
 <li>In that pane, under the &quot;Use on the web&quot; section, click the &quot;@import&quot; selector<br> <img src="Assets/AtImport.png" alt=""></li>
 <li>Highlight the code within the <code>&lt;style&gt;&lt;/style&gt;</code> tags (starting with <code>@import</code>) and copy it<br> <img src="Assets/CopyImport.png" alt=""></li>
-<li>Go back to the Repl project, and open the <strong>style.css</strong> file for editing</li>
-<li>Make space at the very top of the file, and paste the code (starting with <code>@import</code>)<ul>
+<li>Go back to the Repl project, and open the <strong>index.html</strong> file for editing</li>
+<li>Make space at the very top of the <code>&lt;style&gt;&lt;/style&gt;</code> element, and paste the code (starting with <code>@import</code>)<ul>
 <li>This should be above any ruleset, outside of any <code>{</code> and <code>}</code></li>
 </ul>
 </li>
 </ol>
-<p>The code at the top of the <strong>style.css</strong> file should end up looking something like this:</p>
+<p>The code at the top of the <code>&lt;style&gt;&lt;/style&gt;</code> element should end up looking something like this:</p>
 <pre><code class="lang-css">@<span class="hljs-keyword">import</span> url(<span class="hljs-string">&apos;https://fonts.googleapis.com/css2?family=Ms+Madi&amp;display=swap&apos;</span>);
 </code></pre>
 <h3 id="copying-the-font-family-property">Copying the <code>font-family</code> Property</h3>
@@ -655,7 +655,7 @@
 <li>Go back to <a href="https://fonts.google.com/" target="_blank">Google Fonts</a></li>
 <li>Back in the &quot;Selected family&quot; pane, find the &quot;CSS rules to specify families&quot; section</li>
 <li>In there, highlight and copy the code starting with <code>font-family:</code><br> <img src="Assets/CopyFontFamily.png" alt=""></li>
-<li>Go back to the Repl project, and open the <strong>style.css</strong> file for editing</li>
+<li>Go back to the Repl project, and open the <strong>index.html</strong> file for editing</li>
 <li>Within the <code>.update</code> ruleset, (between <code>{</code> and <code>}</code>), paste the code (starting with <code>font-family</code>)</li>
 </ol>
 <p>That should be it! Try running the project and viewing the page. The <code>&lt;p&gt;</code> element should be styled with the new font!</p>
@@ -709,7 +709,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Custom Fonts","level":"1.9.1","depth":2,"next":{"title":"Color Gradients","level":"1.9.2","depth":2,"path":"MoreCss2/ColorGradients.md","ref":"MoreCss2/ColorGradients.md","articles":[]},"previous":{"title":"1/26: More CSS Part 2","level":"1.9","depth":1,"path":"MoreCss2/StudentDesc.md","ref":"MoreCss2/StudentDesc.md","articles":[{"title":"Custom Fonts","level":"1.9.1","depth":2,"path":"MoreCss2/CustomFonts.md","ref":"MoreCss2/CustomFonts.md","articles":[]},{"title":"Color Gradients","level":"1.9.2","depth":2,"path":"MoreCss2/ColorGradients.md","ref":"MoreCss2/ColorGradients.md","articles":[]},{"title":"Text Shadows","level":"1.9.3","depth":2,"path":"MoreCss2/TextShadows.md","ref":"MoreCss2/TextShadows.md","articles":[]},{"title":"Transitions","level":"1.9.4","depth":2,"path":"MoreCss2/Transitions.md","ref":"MoreCss2/Transitions.md","articles":[]},{"title":"Transforms","level":"1.9.5","depth":2,"path":"MoreCss2/Transforms.md","ref":"MoreCss2/Transforms.md","articles":[]},{"title":"Animations","level":"1.9.6","depth":2,"path":"MoreCss2/Animations.md","ref":"MoreCss2/Animations.md","articles":[]},{"title":"Challenges","level":"1.9.7","depth":2,"path":"MoreCss2/Challenges.md","ref":"MoreCss2/Challenges.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["toggle-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Hyland Academy @ UCS","gitbook":"*"},"file":{"path":"MoreCss2/CustomFonts.md","mtime":"2022-11-16T15:56:52.640Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2022-11-16T15:57:24.429Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Custom Fonts","level":"1.9.1","depth":2,"next":{"title":"Color Gradients","level":"1.9.2","depth":2,"path":"MoreCss2/ColorGradients.md","ref":"MoreCss2/ColorGradients.md","articles":[]},"previous":{"title":"1/26: More CSS Part 2","level":"1.9","depth":1,"path":"MoreCss2/StudentDesc.md","ref":"MoreCss2/StudentDesc.md","articles":[{"title":"Custom Fonts","level":"1.9.1","depth":2,"path":"MoreCss2/CustomFonts.md","ref":"MoreCss2/CustomFonts.md","articles":[]},{"title":"Color Gradients","level":"1.9.2","depth":2,"path":"MoreCss2/ColorGradients.md","ref":"MoreCss2/ColorGradients.md","articles":[]},{"title":"Text Shadows","level":"1.9.3","depth":2,"path":"MoreCss2/TextShadows.md","ref":"MoreCss2/TextShadows.md","articles":[]},{"title":"Transitions","level":"1.9.4","depth":2,"path":"MoreCss2/Transitions.md","ref":"MoreCss2/Transitions.md","articles":[]},{"title":"Transforms","level":"1.9.5","depth":2,"path":"MoreCss2/Transforms.md","ref":"MoreCss2/Transforms.md","articles":[]},{"title":"Animations","level":"1.9.6","depth":2,"path":"MoreCss2/Animations.md","ref":"MoreCss2/Animations.md","articles":[]},{"title":"Challenges","level":"1.9.7","depth":2,"path":"MoreCss2/Challenges.md","ref":"MoreCss2/Challenges.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["toggle-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Hyland Academy @ UCS","gitbook":"*"},"file":{"path":"MoreCss2/CustomFonts.md","mtime":"2022-11-16T16:13:21.081Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2022-11-16T16:13:51.732Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

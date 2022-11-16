@@ -1,14 +1,18 @@
-# CSS Cheatsheet
-## HTML Link
-To add CSS styles to a webpage, it will be necessary to link a CSS file from within the **index.html** file. To link a file named **style.css**, use this code:
+# CSS Cheat Sheet
+Read through this guide if you need to remember how to do anything in CSS.
+
+## HTML Style Element
+To add CSS styles to a webpage, it will be necessary to create a `style` element in the **index.html** file. To create the `style` element, use this code:
 
 ```html
 <head>
-    <link href="style.css" type="text/css" rel="stylesheet">
+    <style>
+
+    </style>
 </head>
 ```
 
-To link a file with a different name, replace the `"style.css"` value for the `href` attribute. Paste the code within the `<html></html>` element, above the `<body>`.
+Paste the code within the `<html></html>` element, above the `<body>`.
 
 ## Ruleset
 A **ruleset** is how CSS applies styles to specific elements. To define a ruleset, use:
@@ -54,21 +58,6 @@ a {
 }
 ```
 
-### ID selector
-The **ID selector** selects one specific HTML element based on its `id` attribute value. Use the hashtag (`#`) followed by the value of the `id` attribute for the element.
-
-#### HTML
-```html
-<h1 id="header1">Header1</h1>
-```
-
-#### CSS
-```css
-#header1 {
-    /* styles the specific h1 */
-}
-```
-
 ### Class selector
 The **class selector** selects HTML elements based on the value of their `class` attribute. Use the dot (`.`) followed by the value of the `class` attribute.
 
@@ -86,7 +75,7 @@ The **class selector** selects HTML elements based on the value of their `class`
 ```
 
 ## Property/Value
-A **property** is an identifier that defines which feature to style. A **value** describes the specific style for the property. Refer to https://htmldog.com/references/css/properties/ to see a complete list of available properties.
+A **property** is an identifier that defines which feature to style. A **value** describes the specific style for the property. Refer to [this page](https://htmldog.com/references/css/properties/) to see a complete list of available properties.
 
 ### Examples
 ```css
