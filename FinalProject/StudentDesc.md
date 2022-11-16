@@ -1,9 +1,7 @@
 # Final Project
 It's time to show off what you've learned! For the final project, create a website about anything you would like.
 
-If desired, start by **forking** this Empty Website: [https://replit.com/@HylandOutreach/FinalProjectStart](https://replit.com/@HylandOutreach/FinalProjectStart2)
-
-If Repl is having issues, try forking this project: [https://codepen.io/weoijfiowejfi/pen/ZErbGzX](https://codepen.io/weoijfiowejfi/pen/ZErbGzX)
+If desired, start by **forking** this Empty Website: [https://replit.com/@HylandOutreach/FinalProjectStart](https://replit.com/@HylandOutreach/FinalProjectStart)
 
 You can also start from an existing project if you would like!
 
@@ -29,5 +27,10 @@ If you are trying to do something on your site, there are some helpful places to
 ## Additional Topics
 If you reach the point where you are "done" with your website, take a look at the [Additional Topics](https://hylandtechoutreach.github.io/coding-activities/HtmlCssJsContinued/AdditionalTopicChallenges.html). Complete some of the challenges on your site.
 
+You can also try to incorporate some of the [additional CSS styles](../MoreCss2/StudentDesc.md) like custom fonts or animations!
+
 ## Project Submission
-Please submit your projects by filling out [this form](https://forms.gle/TiMpuoVYQn16ob2R6).
+Please submit your projects by filling out [this form](https://forms.gle/GHCsT3U2bgzrjQxh9).
+
+## Presentations
+We will ask you to [present](Presentations.md) your projects when you're done!
