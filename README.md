@@ -11,10 +11,11 @@ Here is the schedule for the sessions:
 1. [More HTML Part 2](MoreHtml2/) (1/5)
 1. [CSS Introduction](CssIntro/) (1/12)
 1. [More CSS](MoreCss/) (1/19)
-1. [Final Project Work](FinalProject/) (1/26)
-1. Final Project Presentations (2/3)
-
-During the final project work, if desired, take some time to do [review activities](Extras/ReviewActivities/) as well.
+1. [More CSS Part 2](MoreCss2/) (1/26)
+1. [Review](Extras/ReviewActivities/) (2/2)
+1. [Final Project Work](FinalProject/) (2/9)
+1. Final Project Presentations (2/16)
+1. [Piskel](Piskel/) (2/23)
 
 ## Student Forms
 Student forms are available in a [Google Drive folder](https://drive.google.com/drive/folders/1r1zP91VdcZ5yHcCay0UFXokxaWZRGBO_?ths=true).

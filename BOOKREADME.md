@@ -19,11 +19,14 @@ Material for each lesson is linked below.
 - [**1/5**: More HTML Part 2](MoreHtml2/StudentDesc.md)
 - [**1/12**: CSS Introduction](CssIntro/StudentDesc.md)
 - [**1/19**: More CSS](MoreCss/StudentDesc.md)
-- [**1/26**: Final Project Work](FinalProject/StudentDesc.md)
-- **2/3**: Final Project Presentations
+- [**1/26**: More CSS Part 2](MoreCss2/StudentDesc.md)
+- [**2/2**: Review](Extras/ReviewActivities/StudentDesc.md)
+- [**2/9**: Final Project Work](FinalProject/StudentDesc.md)
+- [**2/16**: Final Project Presentations](FinalProject/Presentations.md)
+- [**2/23**: Pixel Art with Piskel](Piskel/StudentDesc.md)
 
 ## Weekly Check-in
 [Click here to complete the weekly check-in survey.](https://forms.gle/7MzJBrf2W385tAvW6)
 
-## End-of-Semester Survey/Assessment
+## End-of-Trimester Survey/Assessment
 [Click here for the form.](https://forms.gle/NdJsPaDBwKruSb6VA)
