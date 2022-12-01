@@ -1,9 +1,6 @@
 # Hyland Academy @ UCS
 Thank you for participating in this program! Please bookmark this page 😁
 
-## COMPLETE THE INTAKE QUESTIONNAIRE
-[Click here for the intake questionnaire form 🚀🚀🚀](https://forms.gle/HG7f5KbC6KbxQkLb6)
-
 ## Replit
 [Click here to go to Replit - this is where you can write code for your websites!](https://replit.com/)
 
