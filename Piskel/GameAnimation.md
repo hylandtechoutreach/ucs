@@ -5,7 +5,7 @@ Artists often create pixel art animations to be used in retro-style games. Follo
 For the purposes of this exercise, there is an existing game within a Repl project to use. Start by creating a fork of the game, and playing it.
 
 1. Go to the [Existing Game Repl Project](https://replit.com/@HylandOutreach/Platformer)
-1. Click the "Remix" button in the upper right
+1. Click the "Fork" button in the upper right
 1. Click the "Run" button to run the game
 1. Expand the Preview area so there is room to play the game
 

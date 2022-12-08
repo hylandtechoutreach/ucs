@@ -4,7 +4,7 @@ Congratulations, you just won $250,000 in a prestigious cooking competition! The
 ## Setup
 Make sure to log into your Repl account before proceeding!
 
-1. Open and remix the [Restaurant Website Repl project](https://replit.com/@HylandOutreach/RestaurantWebsiteStart) to begin
+1. Open and fork the [Restaurant Website Repl project](https://replit.com/@HylandOutreach/RestaurantWebsiteStart) to begin
 1. In your new project, open up the **index.html** file
 1. Add the `html` tags (opening and closing)
 1. Add the `body` tags within the `html` tags
