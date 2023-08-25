@@ -4,21 +4,19 @@ This repository contains material for Hyland's partnership with Urban Community 
 ## Schedule
 Here is the schedule for the sessions:
 
-1. [Kick-Off: Intro to Hyland](IntroHyland/) (11/17)
-1. [HTML Introduction](HtmlIntro/) (12/1)
-1. [HTML Introduction Part 2](HtmlIntro2/) (12/8)
-1. [More HTML](MoreHtml/) (12/15)
-1. [More HTML Part 2](MoreHtml2/) (1/5)
-1. [CSS Introduction](CssIntro/) (1/12)
-1. [More CSS](MoreCss/) (1/19)
-1. [More CSS Part 2](MoreCss2/) (1/26)
-1. [Review](Extras/ReviewActivities/) (2/2)
-1. [Final Project Work](FinalProject/) (2/9)
-1. Final Project Presentations (2/16)
-1. [Piskel](Piskel/) (2/23)
+1. [Kick-Off: Intro to Hyland](IntroHyland/) (8/31)
+1. [HTML Introduction](HtmlIntro/) (9/7)
+1. [HTML Introduction Part 2](HtmlIntro2/) (9/14)
+1. [More HTML](MoreHtml/) (9/21)
+1. [More HTML Part 2](MoreHtml2/) (9/28)
+1. [CSS Introduction](CssIntro/) (10/12)
+1. [More CSS](MoreCss/) (10/19)
+1. [More CSS Part 2](MoreCss2/) (10/26)
+1. [Final Project Work](FinalProject/) (11/2)
+1. Final Project Presentations (11/9)
 
 ## Student Forms
-Student forms are available in a [Google Drive folder](https://drive.google.com/drive/folders/1r1zP91VdcZ5yHcCay0UFXokxaWZRGBO_?ths=true).
+Student forms are available in a [Google Drive folder](https://drive.google.com/drive/folders/1_voKX2YIte7eXgDOqL4oV0pZFFS8DD9l).
 
 - During the first session, students should complete the Intake Questionnaire form
 - After each subsequent session, students should complete the Student Weekly Check-in Form
@@ -61,5 +59,7 @@ In addition to the hardware, students and instructors should all have access to 
 - https://rocketcrab.com/
 - https://nitrotype.com/
 - https://www.typing.com/
+- https://friendivia.com/
+- https://garticphone.com/
 
 There may be additional websites depending on the needs of the program.
