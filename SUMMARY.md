@@ -28,7 +28,6 @@
   - [HTML Cheat Sheet](FinalProject/HtmlCheatsheet.md)
   - [CSS Cheat Sheet](FinalProject/CssCheatsheet.md)
 - [11/9: Final Project Presentations](FinalProject/Presentations.md)
-- [EXTRA: Review](Extras/ReviewActivities/StudentDesc.md)
 - [EXTRA: Piskel](Piskel/StudentDesc.md)
   - [Piskel Demo](Piskel/PiskelDemo.md)
   - [Game Animation Follow-Along](Piskel/GameAnimation.md)
