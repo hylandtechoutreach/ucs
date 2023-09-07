@@ -2,7 +2,7 @@
 For the first content lesson of the series, go over HTML elements. The purpose of this lesson is to show the students what they can create with some basic elements.
 
 ## Icebreaker
-For an icebreaker this week, play a quick game of [Drawasaurus](../Icebreakers/DrawasaurusIcebreaker.md).
+For an icebreaker this week, play a quick game of [Drawasaurus](../Icebreakers/DrawasaurusIcebreaker.md). In the event that Drawasaurus is blocked, give the students a chance to play an old [Google Doodle game](https://www.google.com/doodles/gerald-jerry-lawsons-82nd-birthday).
 
 ### Custom Words
 When setting up the Drawasaurus room, copy and paste these custom words:
