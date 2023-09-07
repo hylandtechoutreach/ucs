@@ -1,6 +1,11 @@
 # Hello HTML
 Learn what HTML is all about, and how to use some of the basic HTML elements: headers, paragraphs, and images.
 
+## Old Google Doodle
+Click below to play the game!
+
+[![Click here to play the game!](Assets/Jerry.gif)](https://www.google.com/doodles/gerald-jerry-lawsons-82nd-birthday)
+
 ## Basic HTML Elements PowerPoint Presentation
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/ucs/HtmlIntro/HelloHtml.pptx' width='100%' height='450px' frameborder='0'></iframe>
 

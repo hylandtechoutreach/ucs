@@ -1,9 +1,6 @@
 # Hyland Academy @ UCS
 Thank you for participating in this program! Please bookmark this page 😁
 
-## TELL US ABOUT YOURSELF
-[Click here and complete the form please!!!](https://forms.gle/e1MFVZCBN4PrBXgJ6)
-
 ## Replit
 [Click here to go to Replit - this is where you can write code for your websites!](https://replit.com/)
 
