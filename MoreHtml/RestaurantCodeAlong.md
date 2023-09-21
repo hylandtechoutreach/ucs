@@ -1,6 +1,8 @@
 # Restaurant Website: Code-Along Activity
 Congratulations, you just won $250,000 in a prestigious cooking competition! The only catch is that all of that money has to go toward starting a restaurant. You can serve any type of food you'd like, but you _also_ have to make a website for your new endeavor. Follow the instructions below!
 
+[**Click here to open the Restaurant Website Repl project.**](https://replit.com/@HylandOutreach/RestaurantWebsiteStart) Fork the project to begin!
+
 ## Setup
 Make sure to log into your Repl account before proceeding!
 
