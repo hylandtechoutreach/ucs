@@ -4,6 +4,8 @@ This continuation of the More HTML Lesson allows the students to practice the co
 ## Icebreaker
 For this session, play a game of [Drawphone](../Icebreakers/DrawphoneIcebreaker.md).
 
+Alternatively, break the students into groups and have them compete in [web design project](./Web%20Design%20Requirements/).
+
 ## Multiple Pages Demonstration
 Present [this demonstration](MultiplePagesDemo.md) to show the students how they can create multiple pages for their websites. Students should each create at least one additional page.
 
