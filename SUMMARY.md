@@ -7,6 +7,7 @@
 - [9/21: More HTML Elements](MoreHtml/StudentDesc.md)
   - [Restaurant Code-Along](MoreHtml/RestaurantCodeAlong.md)
 - [9/28: More HTML Part 2](MoreHtml2/StudentDesc.md)
+  - [Halloween Web Design](MoreHtml2/WebDesignRequirements/halloween.md)
   - [Multiple Pages Demo](MoreHtml2/MultiplePagesDemo.md)
   - [Restaurant Self-Paced Exercises](MoreHtml2/RestaurantSelfPacedExercises.md)
 - [10/12: Intro to CSS](CssIntro/StudentDesc.md)
