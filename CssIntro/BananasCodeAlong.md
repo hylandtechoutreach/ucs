@@ -1,13 +1,10 @@
 # Go Bananas: Code-Along Activity
 Add some styling to a website advertising bananas.
 
-## Current Webpage
-So far, there is a [simple website](https://gobananas.hylandoutreach.repl.co/) that has a lot of information about a banana. All of the information is there, but the page doesn't really pop in the right way.
+**[Click here for the Starter Project.](https://replit.com/@HylandOutreach/GoBananas#index.html)** Fork the project to begin.
 
-1. Go to the [existing Replit project](https://replit.com/@HylandOutreach/GoBananas#index.html)
-1. Fork the project by clicking the fork button
-    - Make sure to log into your account!
-1. Take a look at the code so far
+## Current Webpage
+So far, there is a simple website that has a lot of information about a banana. All of the information is there, but the page doesn't really pop in the right way.
 
 There is an **index.html** file that includes a `<style></style>` element. There is already some CSS there, but not much!
 
