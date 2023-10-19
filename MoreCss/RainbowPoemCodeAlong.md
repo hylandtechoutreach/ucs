@@ -1,10 +1,10 @@
 # Rainbow Poem Code-Along
 In this activity, take an existing poem and make it your own!
 
-## Current Site
-Start by taking a look at the [existing website](https://freshprince.hylandoutreach.repl.co/). Try to figure out what it does! In the HTML, it has a header, a picture, and a few paragraphs with lines from a poem. In the CSS, it sets some of the basic colors and creates a couple classes. The first two lines of the poem are rainbow, but the rest are plain white. In this activity, update the HTML and CSS so that the whole poem is a rainbow!
+**[Click here for the starter website project.](https://replit.com/@HylandOutreach/FreshPrince#index.html)** Fork the project to begin.
 
-[Click here to fork the starter website project.](https://replit.com/@HylandOutreach/FreshPrince#index.html)
+## Current Site
+Start by taking a look at the existing website. Try to figure out what it does! In the HTML, it has a header, a picture, and a few paragraphs with lines from a poem. In the CSS, it sets some of the basic colors and creates a couple classes. The first two lines of the poem are rainbow, but the rest are plain white. In this activity, update the HTML and CSS so that the whole poem is a rainbow!
 
 ## First - Fixing the Image
 Before updating the text, start by updating the CSS for the image. Set its width and its [border](https://www.w3schools.com/css/css_border.asp).
