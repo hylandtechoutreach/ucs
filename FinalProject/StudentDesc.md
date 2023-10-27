@@ -30,7 +30,7 @@ If you reach the point where you are "done" with your website, take a look at th
 You can also try to incorporate some of the [additional CSS styles](../MoreCss2/StudentDesc.md) like custom fonts or animations!
 
 ## Project Submission
-Please submit your projects by filling out [this form](https://forms.gle/GHCsT3U2bgzrjQxh9).
+Please submit your projects by filling out [this form](https://forms.gle/P7x1jgvzyH4BsiQSA).
 
 ## Presentations
 We will ask you to [present](Presentations.md) your projects when you're done!
