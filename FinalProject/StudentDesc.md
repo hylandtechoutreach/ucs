@@ -1,5 +1,8 @@
 # Final Project
-It's time to show off what you've learned! For the final project, create a website about anything you would like.
+It's time to show off what you've learned! For the final project, create a website about anything you want.
+
+## Do Now: Form
+[**Click here to submit your project idea.**](https://forms.office.com/r/avdGADtyrL)
 
 If desired, start by **forking** this Empty Website: [https://replit.com/@HylandOutreach/FinalProjectStart](https://replit.com/@HylandOutreach/FinalProjectStart)
 
