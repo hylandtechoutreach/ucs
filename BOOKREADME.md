@@ -1,6 +1,9 @@
 # Hyland Academy @ UCS
 Thank you for participating in this program! Please bookmark this page 😁
 
+## ✔ END-OF-TRIMESTER SURVEY ✔
+[**Click here to fill out the survey.**](https://forms.gle/3hKgukW616rBijRz6)
+
 ## 👁 PROJECT SUBMISSION 👁
 [**Click here to submit your final project.**](https://forms.gle/P7x1jgvzyH4BsiQSA)
 
