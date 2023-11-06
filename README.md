@@ -1,5 +1,5 @@
 # Hyland Academy @ UCS
-This repository contains material for Hyland's partnership with Urban Community School.
+In this academy, students will make their own websites with HTML and CSS coding. They will learn how to add text, images, links, and videos to their sites, and will be able to change things like colors, backgrounds, fonts, and more. By the end of the trimester, each student will have created a complete website of their own design, about whatever topic they would like.
 
 ## Schedule
 Here is the schedule for the sessions:
