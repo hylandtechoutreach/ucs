@@ -1,11 +1,8 @@
 # Hyland Academy @ UCS
 Thank you for participating in this program! Please bookmark this page 😁
 
-## ✔ END-OF-TRIMESTER SURVEY ✔
-[**Click here to fill out the survey.**](https://forms.gle/3hKgukW616rBijRz6)
-
-## 👁 PROJECT SUBMISSION 👁
-[**Click here to submit your final project.**](https://forms.gle/P7x1jgvzyH4BsiQSA)
+## 👀 INTAKE QUESTIONNAIRE 👀
+[Click here to complete the form.](https://forms.office.com/r/QJmpp9dYTz)
 
 ## Replit
 [Click here to go to Replit - this is where you can write code for your websites!](https://replit.com/)
@@ -13,19 +10,20 @@ Thank you for participating in this program! Please bookmark this page 😁
 ## Schedule
 Material for each lesson is linked below.
 
-- [**8/31**: Kick-Off: Intro to Hyland](IntroHyland/StudentDesc.md)
-- [**9/7**: HTML Introduction](HtmlIntro/StudentDesc.md)
-- [**9/14**: HTML Introduction Part 2](HtmlIntro2/StudentDesc.md)
-- [**9/21**: More HTML](MoreHtml/StudentDesc.md)
-- [**9/28**: More HTML Part 2](MoreHtml2/StudentDesc.md)
-- **NO ACADEMIES 10/5**
-- [**10/12**: CSS Introduction](CssIntro/StudentDesc.md)
-- [**10/19**: More CSS](MoreCss/StudentDesc.md)
-- [**10/26**: More CSS Part 2](MoreCss2/StudentDesc.md)
-- [**11/2**: Final Project Work](FinalProject/StudentDesc.md)
-- [**11/9**: Final Project Presentations](FinalProject/Presentations.md)
+- [**11/16**: Kick-Off: Intro to Hyland](IntroHyland/StudentDesc.md)
+- **NO ACADEMIES 11/23**
+- [**11/30**: HTML Introduction](HtmlIntro/StudentDesc.md)
+- [**12/7**: HTML Introduction Part 2](HtmlIntro2/StudentDesc.md)
+- [**12/14**: More HTML](MoreHtml/StudentDesc.md)
+- **NO ACADEMIES 12/21 & 12/28**
+- [**1/4**: More HTML Part 2](MoreHtml2/StudentDesc.md)
+- [**1/11**: CSS Introduction](CssIntro/StudentDesc.md)
+- [**1/18**: More CSS](MoreCss/StudentDesc.md)
+- [**1/25**: More CSS Part 2](MoreCss2/StudentDesc.md)
+- [**2/1**: Final Project Work](FinalProject/StudentDesc.md)
+- [**2/8**: Final Project Presentations](FinalProject/Presentations.md)
+- **NO ACADEMIES 2/15**
+- [**2/22**: Pixel Art](Piskel/StudentDesc.md)
 
 ## Weekly Check-in
-[Click here to complete the weekly check-in survey.](https://forms.gle/dmtJnfjPgWGMtfpK7)
-
-
+[Click here to complete the weekly check-in survey.]()
