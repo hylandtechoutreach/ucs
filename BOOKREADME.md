@@ -1,9 +1,6 @@
 # Hyland Academy @ UCS
 Thank you for participating in this program! Please bookmark this page 😁
 
-## 👀 INTAKE QUESTIONNAIRE 👀
-[Click here to complete the form.](https://forms.office.com/r/QJmpp9dYTz)
-
 ## Replit
 [Click here to go to Replit - this is where you can write code for your websites!](https://replit.com/)
 
@@ -13,7 +10,7 @@ Material for each lesson is linked below.
 - [**11/16**: Kick-Off: Intro to Hyland](IntroHyland/StudentDesc.md)
 - **NO ACADEMIES 11/23**
 - [**11/30**: HTML Introduction](HtmlIntro/StudentDesc.md)
-- [**12/7**: HTML Introduction Part 2](HtmlIntro2/StudentDesc.md)
+- [**🌟 12/7 🌟**: HTML Introduction Part 2](HtmlIntro2/StudentDesc.md)
 - [**12/14**: More HTML](MoreHtml/StudentDesc.md)
 - **NO ACADEMIES 12/21 & 12/28**
 - [**1/4**: More HTML Part 2](MoreHtml2/StudentDesc.md)
@@ -24,6 +21,3 @@ Material for each lesson is linked below.
 - [**2/8**: Final Project Presentations](FinalProject/Presentations.md)
 - **NO ACADEMIES 2/15**
 - [**2/22**: Pixel Art](Piskel/StudentDesc.md)
-
-## Weekly Check-in
-[Click here to complete the weekly check-in survey.]()
