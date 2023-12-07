@@ -2,7 +2,7 @@
 The focus of this lesson is to practice building a website using some basic HTML!
 
 ## STARTER PROJECT
-**[Click here for the starter project.](https://replit.com/@HylandOutreach/AboutMeBegin?v=1)**. Fork the project to begin.
+**[Click here for the starter project.](https://replit.com/@HylandOutreach/AboutMeBegin?v=1)** Fork the project to begin.
 
 ## PROJECT SUBMISSION
 [Click here for the submission form.](https://forms.office.com/r/744Ywm7Q93)
