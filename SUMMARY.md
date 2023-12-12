@@ -4,7 +4,7 @@
 - [12/7: Intro to HTML Part 2](HtmlIntro2/StudentDesc.md)
   - [About Me Code-Along](HtmlIntro2/AboutMeCodeAlong.md)
   - [About Me Self-Paced Exercises](HtmlIntro2/AboutMeSelfPaced.md)
-- [12/14: More HTML Elements](MoreHtml/StudentDesc.md)
+- [🌟 12/14: More HTML Elements](MoreHtml/StudentDesc.md)
   - [Restaurant Code-Along](MoreHtml/RestaurantCodeAlong.md)
 - [1/4: More HTML Part 2](MoreHtml2/StudentDesc.md)
   - [Halloween Web Design](MoreHtml2/WebDesignRequirements/halloween.md)

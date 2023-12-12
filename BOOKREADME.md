@@ -10,8 +10,8 @@ Material for each lesson is linked below.
 - [**11/16**: Kick-Off: Intro to Hyland](IntroHyland/StudentDesc.md)
 - **NO ACADEMIES 11/23**
 - [**11/30**: HTML Introduction](HtmlIntro/StudentDesc.md)
-- [**🌟 12/7 🌟**: HTML Introduction Part 2](HtmlIntro2/StudentDesc.md)
-- [**12/14**: More HTML](MoreHtml/StudentDesc.md)
+- [**12/7**: HTML Introduction Part 2](HtmlIntro2/StudentDesc.md)
+- [🌟 **12/14**: More HTML](MoreHtml/StudentDesc.md)
 - **NO ACADEMIES 12/21 & 12/28**
 - [**1/4**: More HTML Part 2](MoreHtml2/StudentDesc.md)
 - [**1/11**: CSS Introduction](CssIntro/StudentDesc.md)
