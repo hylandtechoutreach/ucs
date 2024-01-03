@@ -1,8 +1,8 @@
 # More HTML Part 2
 Practice using more advanced HTML concepts!
 
-## 🎃 Halloween Web Design Requirements
-[Click here for the Halloween Web Design Requirements.](WebDesignRequirements/halloween.md)
+## Do Now: New Year, New Website!
+[Click here for the New Year Web Design Requirements.](NewYearWebDesign.md)
 
 ## Multiple Pages
 [Click here for the Multiple Pages demo.](MultiplePagesDemo.md)
