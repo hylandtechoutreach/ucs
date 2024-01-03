@@ -11,9 +11,9 @@ Material for each lesson is linked below.
 - **NO ACADEMIES 11/23**
 - [**11/30**: HTML Introduction](HtmlIntro/StudentDesc.md)
 - [**12/7**: HTML Introduction Part 2](HtmlIntro2/StudentDesc.md)
-- [🌟 **12/14**: More HTML](MoreHtml/StudentDesc.md)
+- [**12/14**: More HTML](MoreHtml/StudentDesc.md)
 - **NO ACADEMIES 12/21 & 12/28**
-- [**1/4**: More HTML Part 2](MoreHtml2/StudentDesc.md)
+- [🌟 **1/4**: More HTML Part 2](MoreHtml2/StudentDesc.md)
 - [**1/11**: CSS Introduction](CssIntro/StudentDesc.md)
 - [**1/18**: More CSS](MoreCss/StudentDesc.md)
 - [**1/25**: More CSS Part 2](MoreCss2/StudentDesc.md)
