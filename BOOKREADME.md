@@ -14,8 +14,8 @@ Material for each lesson is linked below.
 - [**12/14**: More HTML](MoreHtml/StudentDesc.md)
 - **NO ACADEMIES 12/21 & 12/28**
 - [**1/4**: More HTML Part 2](MoreHtml2/StudentDesc.md)
-- [🌟 **1/11**: CSS Introduction](CssIntro/StudentDesc.md)
-- [**1/18**: More CSS](MoreCss/StudentDesc.md)
+- [**1/11**: CSS Introduction](CssIntro/StudentDesc.md)
+- [🌟 **1/18**: More CSS](MoreCss/StudentDesc.md)
 - [**1/25**: More CSS Part 2](MoreCss2/StudentDesc.md)
 - [**2/1**: Final Project Work](FinalProject/StudentDesc.md)
 - [**2/8**: Final Project Presentations](FinalProject/Presentations.md)
