@@ -1,5 +1,5 @@
 # More CSS
-Learn how to style elements more specifically with CSS classes. Start by reviewing the PowerPoint presentation. After that, complete the [Rainbow Poem Code-Along](RainbowPoemCodeAlong.md) activity, and work on the [Self-Paced Work](SelfPacedWork.md).
+Learn how to style elements more specifically with CSS classes.
 
 ## Do Now: Form
 [Click here to fill out the form.](https://forms.office.com/r/Qccjb4ZFkK)
