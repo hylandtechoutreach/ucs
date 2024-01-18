@@ -39,6 +39,7 @@ In addition to the hardware, students and instructors should all have access to 
 
 - https://replit.com/
 - https://repl.co/
+- https://replit.dev/
 - https://hylandtechoutreach.github.io/
 - https://github.com/
 - https://images.google.com/

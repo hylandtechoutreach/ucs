@@ -3,4 +3,4 @@ The main goal of the final project is for the students to have fun building some
 
 Instructors should encourage students to keep adding more to their sites. If they say they are "done," tell them to try adding another page, or more text content, or another image, or more styles. There is always more to add.
 
-Project submissions should land in this spreadsheet: [https://docs.google.com/spreadsheets/d/1c3eg6IA3HwHOlt1pqK5I-z7k1OCUSLlcFPSiogG8wug/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1c3eg6IA3HwHOlt1pqK5I-z7k1OCUSLlcFPSiogG8wug/edit?usp=sharing)
+Project submissions should land here: [https://forms.office.com/Pages/DesignPage.aspx?fragment=FormId%3DiNuljKul90il4EzlCTX4B33juYEmlJlJpIkctSGCv9RUMlA4S1daMEdGMDU4OEpVQkE0MkVCUjJFTy4u%26Token%3D3717ddfc247f4ca0ab5a74d05b60751b](https://forms.office.com/Pages/DesignPage.aspx?fragment=FormId%3DiNuljKul90il4EzlCTX4B33juYEmlJlJpIkctSGCv9RUMlA4S1daMEdGMDU4OEpVQkE0MkVCUjJFTy4u%26Token%3D3717ddfc247f4ca0ab5a74d05b60751b)
