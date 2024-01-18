@@ -8,6 +8,8 @@ Learn how to style elements more specifically with CSS classes.
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/ucs/MoreCss/CssClassSelector.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Rainbow Poem Code-Along
+[Starter Code](https://stackblitz.com/edit/web-platform-3t8tvf?file=index.html)
+
 [Click here for the code-along instructions.](RainbowPoemCodeAlong.md)
 
 ## Self-Paced Work: Rainbow Poem Updates
