@@ -1,0 +1,182 @@
+<html>
+  <head>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+      body {
+        background: #ffcce5;
+        color: #6b0b6b;
+        font-family: helvetica;
+        font-size: 1.5em;
+        padding: 10px;
+      }
+
+      .container {
+        margin: 0 auto;
+        width: 100%;
+      }
+
+      .code {
+        font-family: monospace;
+        font-size: 1.1em;
+      }
+
+      @media (min-width: 900px) {
+        .container {
+          width: 80%;
+        }
+      }
+
+      @media (min-width: 1200px) {
+        .container {
+          width: 60%;
+        }
+      }
+
+      h2 {
+        border-bottom: 1px solid rgba(0, 0, 0, .4);
+      }
+
+      .custom-font, .gradient, .shadow, .transition {
+        color: black;
+        font-size: 1.5em;
+      }
+
+      .custom-font {
+        font-family: "Dancing Script", cursive;
+      }
+
+      .gradient {
+        height: 100px;
+        width: 100%;
+        border: 2px solid black;
+        background: rgb(145,16,16);
+        background: linear-gradient(90deg, rgba(145,16,16,1) 0%, rgba(108,9,121,1) 49%, rgba(0,99,255,1) 100%);
+      }
+
+      .shadow {
+        text-shadow: 2px 2px 4px #000000;
+      }
+
+      .transition {
+        transition: 500ms;
+        cursor: pointer;
+        border: 2px solid black;
+        width: 80%;
+        padding: 20px;
+        background: black;
+        color: white;
+      }
+
+      .transition:hover {
+        color: blue;
+        background: white;
+      }
+
+      .transform {
+        background: red;
+        border: 2px solid black;
+        height: 200px;
+        width: 200px;
+        margin: 50px;
+        transform: rotate(20deg);
+      }
+
+      .animate-basic {
+        background: orange;
+        color: black;
+        border: 2px solid black;
+        padding: 20px;
+        width: 100px;
+        text-align: center;
+
+        animation: 2s infinite linear alternate move;
+      }
+
+      @keyframes move {
+        from {
+          margin-left: 0px;
+        }
+
+        to {
+          margin-left: 200px;
+        }
+      }
+
+      .animate {
+        background: purple;
+        border: 2px solid black;
+        height: 400px;
+        width: 100px;
+        color: white;
+        font-size: 3em;
+        text-align: center;
+        padding: 10px;
+        
+        animation: 4s infinite linear normal rotate-gradient;
+      }
+
+      @keyframes rotate-gradient {
+        0% {
+          transform: rotate3d(0, 0, 0, 0deg);
+          background: black;
+          margin-left: 200px;
+        }
+
+        25% {
+          background: green;
+        }
+
+        50% {
+          background: purple;
+          margin-left: 400px;
+        }
+
+        75% {
+          background: orange;
+        }
+
+        100% {
+          transform: rotate3d(1, 1, 1, 360deg);
+          background: black;
+          margin-left: 200px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>More CSS Possibilities</h1>
+      <p>This site showcases some additional CSS capabilities. Check out the <a href="https://replit.com/@HylandOutreach/MoreCss2#style.css">source code</a> to see how it all works!</p>
+  
+      <h2>Custom Fonts</h2>
+      <p>It is possible to import custom fonts from <a href="https://fonts.google.com/">Google Fonts</a>, and use them in your websites! It will look something like this:</p>
+      <p class="custom-font">Check out this text with the custom font!</p>
+  
+      <h2>Color Gradients</h2>
+      <p>Add a color gradient somewhere on your page using <a href="https://cssgradient.io/">CSS Gradient</a>! It will look something like this:</p>
+      <div class="gradient"></div>
+  
+      <h2>Text Shadow</h2>
+      <p>You can use the <a href="https://www.w3schools.com/cssref/css3_pr_text-shadow.asp" class="code">text-shadow</a> property to add a shadow behind your text! It will look something like this:</p>
+      <p class="shadow">This text has a shadow!</p>
+  
+      <h2>Transition</h2>
+      <p>You can use the <a href="https://www.w3schools.com/cssref/css3_pr_transition.asp" class="code">transition</a> property to change your styles based on certain events! It will look something like this:</p>
+      <p class="transition">Hover over this to see how it changes!</p>
+  
+      <h2>Transform</h2>
+      <p>You can use the <a href="https://www.w3schools.com/cssref/css3_pr_transform.asp" class="code">transform</a> property to change a variety of things about your HTML elements, including rotation, scale, and skew. A transformed element will look something like this:</p>
+      <div class="transform"></div>
+  
+      <h2>Animation</h2>
+      <p>You can use <a href="https://hylandtechclub.com/web-101/Week10/AnimationFollowAlong.html">CSS Animations</a> to create dynamic transitions that run automatically! You can animate any CSS property. An animated element could look something like this:</p>
+      <div class="animate-basic">ANIMATE</div>
+  
+      <p>And here's a more elaborate example:</p>
+      <div class="animate">
+        AN IM AT E
+      </div>
+    </div>
+  </body>
+</html>

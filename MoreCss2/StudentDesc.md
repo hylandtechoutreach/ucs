@@ -4,10 +4,15 @@ Learn even more about CSS! This lesson introduces custom fonts, color gradients,
 ## Do Now: Form
 [Click here to fill out the form.](https://forms.office.com/r/rRsp3RHEgt)
 
+## Update Your Official Page
+We are keeping a collection of pages for all the students we teach. They will all be available for anyone to access [here](https://josephmaxwellhyland.github.io/live/).
+
+**[Click here to edit your page!!](https://replit.com/join/rzxnjpachs-josephmaxwell)**
+
 ## New Concepts
 There are a ton of things you can do with CSS. Here are just a few of the possibilities! Feel free to work on whatever you'd like.
 
-[Click here to see a website that shows off these new concepts.](https://morecssmore.hylandoutreach.repl.co/)
+[Click here to see a website that shows off these new concepts.](Showcase.html)
 
 ### Custom Fonts
 [Click here to learn how to add a **custom font** to a website.](CustomFonts.md)
@@ -41,6 +46,8 @@ _For reference, [here](https://replit.com/@HylandOutreach/AnimationsStyle) is a 
 
 ## Free Reign
 The goal for this session is for you to create whatever you'd like! Try to use some of the new concepts to make something cool. Feel free to go back to old projects and update them, or start creating a totally new project!
+
+
 
 ## Challenges
 If you get bored of making things on your own, [click here to check out some interactive challenges.](Challenges.md)
