@@ -12,7 +12,7 @@ We are keeping a collection of pages for all the students we teach. They will al
 ## New Concepts
 There are a ton of things you can do with CSS. Here are just a few of the possibilities! Feel free to work on whatever you'd like.
 
-[Click here to see a website that shows off these new concepts.](Showcase.html)
+[Click here to see a website that shows off these new concepts.](https://hylandtechoutreach.github.io/ucs/MoreCss2/Assets/Showcase.html)
 
 ### Custom Fonts
 [Click here to learn how to add a **custom font** to a website.](CustomFonts.md)
