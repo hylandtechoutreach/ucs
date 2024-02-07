@@ -1,6 +1,9 @@
 # Hyland Academy @ UCS
 Thank you for participating in this program! Please bookmark this page 😁
 
+## 👀 SUBMIT YOUR FINAL PROJECTS!!!
+[Click here for the submission form.](https://forms.office.com/r/68tU7mcN6P)
+
 ## Replit
 [Click here to go to Replit - this is where you can write code for your websites!](https://replit.com/)
 
@@ -17,8 +20,8 @@ Material for each lesson is linked below.
 - [**1/11**: CSS Introduction](CssIntro/StudentDesc.md)
 - [**1/18**: More CSS](MoreCss/StudentDesc.md)
 - [**1/25**: More CSS Part 2](MoreCss2/StudentDesc.md)
-- [🌟 **2/1**: Final Project Work](FinalProject/StudentDesc.md)
-- [**2/8**: Final Project Presentations](FinalProject/Presentations.md)
+- [**2/1**: Final Project Work](FinalProject/StudentDesc.md)
+- [🌟 **2/8**: Final Project Presentations](FinalProject/Presentations.md)
 - **NO ACADEMIES 2/15**
 - [**2/22**: Pixel Art](Piskel/StudentDesc.md)
 
