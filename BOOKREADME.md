@@ -21,9 +21,9 @@ Material for each lesson is linked below.
 - [**1/18**: More CSS](MoreCss/StudentDesc.md)
 - [**1/25**: More CSS Part 2](MoreCss2/StudentDesc.md)
 - [**2/1**: Final Project Work](FinalProject/StudentDesc.md)
-- [🌟 **2/8**: Final Project Presentations](FinalProject/Presentations.md)
+- [**2/8**: Final Project Presentations](FinalProject/Presentations.md)
 - **NO ACADEMIES 2/15**
-- [**2/22**: Pixel Art](Piskel/StudentDesc.md)
+- [🌟 **2/22**: Pixel Art](Piskel/StudentDesc.md)
 
 ## End-of-Trimester Survey/Assessment
 [Click here for the form.](https://forms.office.com/r/CG5LBGeJBB)
