@@ -4,17 +4,17 @@ In this academy, students will make their own websites with HTML and CSS coding.
 ## Schedule
 Here is the schedule for the sessions:
 
-1. [Kick-Off: Intro to Hyland](IntroHyland/) (11/16)
-1. [HTML Introduction](HtmlIntro/) (11/30)
-1. [HTML Introduction Part 2](HtmlIntro2/) (12/7)
-1. [More HTML](MoreHtml/) (12/14)
-1. [More HTML Part 2](MoreHtml2/) (1/4)
-1. [CSS Introduction](CssIntro/) (1/11)
-1. [More CSS](MoreCss/) (1/18)
-1. [More CSS Part 2](MoreCss2/) (1/25)
-1. [Final Project Work](FinalProject/) (2/1)
-1. Final Project Presentations (2/8)
-1. [Pixel Art](Piskel/) (2/22)
+1. [Kick-Off: Intro to Hyland](IntroHyland/)
+1. [HTML Introduction](HtmlIntro/)
+1. [HTML Introduction Part 2](HtmlIntro2/)
+1. [More HTML](MoreHtml/)
+1. [More HTML Part 2](MoreHtml2/)
+1. [CSS Introduction](CssIntro/)
+1. [More CSS](MoreCss/)
+1. [More CSS Part 2](MoreCss2/)
+1. [Final Project Work](FinalProject/)
+1. Final Project Presentations
+1. [Pixel Art](Piskel/)
 
 ## Student Forms
 Student forms are available through Microsoft Forms.
@@ -39,8 +39,11 @@ In addition to the hardware, students and instructors should all have access to 
 
 - https://replit.com/
 - https://repl.co/
+- https://glitch.com
+- https://stackblitz.com/
 - https://replit.dev/
 - https://hylandtechoutreach.github.io/
+- https://hylandtechoutreach.github.io/ucs
 - https://github.com/
 - https://images.google.com/
 - https://docs.google.com/
