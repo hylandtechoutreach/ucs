@@ -20,7 +20,7 @@ Give students some time to practice typing, specifically HTML. The goal is for t
 _Note: It may be necessary for students to open the typing.com link in an incognito window. If it is not working, [SpeedCoder](https://www.speedcoder.net/lessons/html/1/) is another option._
 
 ## Replit Setup
-Have students create accounts on Replit by following the [Replit Setup instructions](https://hylandtechclub.com/ReplitSetup).
+Have students create accounts on Replit by following the [Replit Setup instructions](https://hylandtechclub.com/ReplitSetup). Students should start building a website that will end up becoming their final project. It should have at least a subject of some kind. This can be changed throughout the trimester, but 
 
 ## Kahoot
 There is a [Kahoot quiz](https://create.kahoot.it/details/740e9179-5b3b-426c-a5ef-e770b2bd60c4) covering the content from the lecture.

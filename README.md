@@ -20,9 +20,11 @@ Here is the schedule for the sessions:
 Student forms are available through Microsoft Forms.
 
 - During the first session, students should complete the Intake Questionnaire form
-- After each subsequent session, students should complete the Student Weekly Check-in Form
+  - [View Responses](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=iNuljKul90il4EzlCTX4B33juYEmlJlJpIkctSGCv9RUMjFYUUo4TVFCQjhJR1FCT1BCSjZaSlE3Mi4u&Token=b23469a31d7b40849c75e13e9b1d47ab)
 - Students should submit their final projects via the Final Projects Form
+  - [View Responses](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=iNuljKul90il4EzlCTX4B33juYEmlJlJpIkctSGCv9RURFFCODhKUFZZV0pMQjIzUlRGOENISkE4MS4u&Token=6e81b208a51746fea7d8ce6534c15c5a)
 - Students should complete the End-of-Trimester Survey/Assessment
+  - [View Responses](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=iNuljKul90il4EzlCTX4B33juYEmlJlJpIkctSGCv9RURE5QQTY2VUdDRjk3RjhUMEZMRzVIOU9VRC4u&Token=45b9066ff70042f1a93dcda9c15ffcde)
 
 ## Tech Setup
 These lessons can be conducted with a variety of setups, assuming a few key things:

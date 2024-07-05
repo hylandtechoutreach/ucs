@@ -7,14 +7,22 @@ Thank you for participating in this program! Please bookmark this page 😁
 ## Schedule
 Material for each lesson is linked below.
 
-- [Kick-Off: Intro to Hyland](IntroHyland/StudentDesc.md)
-- [HTML Introduction](HtmlIntro/StudentDesc.md)
-- [HTML Introduction Part 2](HtmlIntro2/StudentDesc.md)
-- [More HTML](MoreHtml/StudentDesc.md)
-- [More HTML Part 2](MoreHtml2/StudentDesc.md)
-- [CSS Introduction](CssIntro/StudentDesc.md)
-- [More CSS](MoreCss/StudentDesc.md)
-- [More CSS Part 2](MoreCss2/StudentDesc.md)
-- [Final Project Work](FinalProject/StudentDesc.md)
-- [Final Project Presentations](FinalProject/Presentations.md)
-- [Pixel Art](Piskel/StudentDesc.md)
+| Date | Lesson |
+|-|-|
+| ✨ **August 29** | [Kick-Off: Intro to Hyland](IntroHyland/StudentDesc.md) |
+| **September 5** | [HTML Introduction](HtmlIntro/StudentDesc.md) |
+| **September 12** | [HTML Introduction Part 2](HtmlIntro2/StudentDesc.md) |
+| **September 19** | [More HTML](MoreHtml/StudentDesc.md) |
+| **September 26** | [More HTML Part 2](MoreHtml2/StudentDesc.md) |
+| **October 3** | [CSS Introduction](CssIntro/StudentDesc.md) |
+| **October 10** | 🍂 FALL BREAK 🍂 |
+| **October 17** | [More CSS](MoreCss/StudentDesc.md) |
+| **October 24** | [More CSS Part 2](MoreCss2/StudentDesc.md) |
+| **October 31** | [Project Presentations](FinalProject/Presentations.md) |
+| **November 7** | [Pixel Art](Piskel/StudentDesc.md) |
+
+## Project Submission
+[Click here to submit your projects.](https://forms.office.com/r/tUNcme4hXs)
+
+## End-of-Trimester Survey/Assessment
+[Click here to access the form.](https://forms.office.com/r/q0Q8dQ3Axr)
