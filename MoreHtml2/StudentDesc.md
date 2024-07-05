@@ -1,11 +1,8 @@
 # More HTML Part 2
 Practice using more advanced HTML concepts!
 
-## Do Now: New Year, New Website!
-[Click here for the New Year Web Design Requirements.](NewYearWebDesign.md)
-
 ## Multiple Pages
 [Click here for the Multiple Pages demo.](MultiplePagesDemo.md)
 
-## Restaurant Website: Self-Paced Exercise
-[Click here for the Restaurant Website update exercise.](RestaurantSelfPacedExercises.md)
+## Project Work
+Use the new skills you've learned to add to your site!
