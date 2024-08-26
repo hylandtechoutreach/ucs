@@ -6,8 +6,7 @@ Follow this guide to learn how to add an animation to a website using the [CSS A
 ## Setup
 The setup for this concept will be fairly similar to the other concepts.
 
-1. [Click here to go to the Starter Repl project](https://replit.com/@HylandOutreach/MoreCssStartStyle)
-1. Fork the project
+1. [Click here to go to the Starter project](https://glitch.com/edit/#!/remix/more-css-start-style)
 1. Open the **index.html** file for editing
 1. Add a `class` attribute to the second `<p>` element that says "Style this paragraph..."
 1. Set the `class` to be `update`

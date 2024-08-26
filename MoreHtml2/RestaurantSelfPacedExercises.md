@@ -2,7 +2,7 @@
 The website for Alfredo's Pizza Cafe (or your own restaurant) is pretty solid, but there are some changes you can make to take it to the next level. Follow the instructions below to add some new features to your website!
 
 ### Starter Code
-If desired, [click here for a "full" version of the Restaurant website](https://replit.com/@HylandOutreach/RestaurantWebsiteFull#index.html). Fork that project to build off of it!
+If desired, [click here for a "full" version of the Restaurant website](https://glitch.com/edit/#!/full-pizza-site). Remix that project to build off of it!
 
 ## Adding a New Location
 Find the other locations for the restaurant, and add a new one! It could be any new location, such as "Cleveland, OH" or anywhere else. It should be a new `<p></p>` element under the existing ones.

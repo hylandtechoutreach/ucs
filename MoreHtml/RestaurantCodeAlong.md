@@ -1,12 +1,11 @@
 # Restaurant Website: Code-Along Activity
 Congratulations, you just won $250,000 in a prestigious cooking competition! The only catch is that all of that money has to go toward starting a restaurant. You can serve any type of food you'd like, but you _also_ have to make a website for your new endeavor. Follow the instructions below!
 
-[**Click here to open the Restaurant Website Repl project.**](https://replit.com/@HylandOutreach/RestaurantWebsiteStart) Fork the project to begin!
+[**Click here to open the Restaurant Website project.**](https://glitch.com/edit/#!/remix/restaurant-starter)
 
 ## Setup
-Make sure to log into your Repl account before proceeding!
+Make sure to log into your Glitch account before proceeding!
 
-1. Open and fork the [Restaurant Website Repl project](https://replit.com/@HylandOutreach/RestaurantWebsiteStart) to begin
 1. In your new project, open up the **index.html** file
 1. Add the `html` tags (opening and closing)
 1. Add the `body` tags within the `html` tags
@@ -25,7 +24,8 @@ Add a header, image, and paragraph to the site. For this example, we will be mak
 
 1. Add an `h1` header that says "Alfredo's Pizza Cafe" between the `<body>` and `</body>`
 1. Under the `h1`, add an `<img >` of the pizza
-    - Set the `src` attribute to "pizza.jpg"
+1. Open the **Assets** on the right to copy the URL for the pizza image
+    - Set the `src` attribute to the copied URL
     - Feel free to use a different image for a different restaurant
 1. Under the `img`, add a `p` that says "WE'RE NOT FINE DINING; WE'RE JUST FINE FOOD!"
     - Note that this is the actual slogan of the actual Alfredo's Pizza Cafe
@@ -37,7 +37,7 @@ At the end of this section, your code should look like this:
 <html>
     <body>
         <h1>Alfredo's Pizza Cafe</h1>
-        <img src="pizza.jpg">
+        <img src="https://cdn.glitch.global/bb0e13bb-1865-4d75-abcd-970933c1c253/pizza.jfif?v=1724684191328">
         <p>WE'RE NOT FINE DINING; WE'RE JUST FINE FOOD!</p>
     </body>
 </html>
@@ -51,7 +51,7 @@ One fun way to attract customers is to add a video to the site! This is possible
 1. From the YouTube video, click on the "SHARE" button
 1. In the pop-up, click on the "Embed" button
 1. In the lower right corner, click "COPY" to copy the code
-1. Go back into Replit, and paste the code into the **index.html** file, under the `<p></p>` element
+1. Go back into Glitch, and paste the code into the **index.html** file, under the `<p></p>` element
 1. Run the program, and verify that the video appears on the page!
 
 It should look something like this:
