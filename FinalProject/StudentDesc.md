@@ -5,7 +5,7 @@ It's time to show off what you've learned! For the final project, create a websi
 [**Click here to submit your project idea.**](https://forms.office.com/r/avdGADtyrL)
 
 ## Project Start
-[**Click here for a starter project.**](https://replit.com/@HylandOutreach/FinalProjectStart)
+[**Click here for a starter project.**](https://glitch.com/edit/#!/remix/final-project-ucs)
 
 You can also start from an existing project if you would like!
 

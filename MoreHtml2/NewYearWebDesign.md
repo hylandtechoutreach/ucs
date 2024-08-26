@@ -1,9 +1,7 @@
-# Do Now: New Year, New Website!
+# DEPRECATED Do Now: New Year, New Website!
 So this is the new year. We currently have a very sad, depressing website - but it should be fun instead! Sadness is so 2023. Happiness is IN for 2024.
 
 Work with a partner or a team to fix some issues with the site, and add some new stuff too. Whoever finishes first wins!
-
-**[Click here for the starter project.](https://replit.com/@HylandOutreach/NewYearSite)** Fork the project to begin.
 
 ## Fixing Issues
 There are so many issues with this website:

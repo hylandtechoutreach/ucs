@@ -4,8 +4,7 @@ Follow this guide to learn how to add a text shadow to a website using the [`tex
 ## Setup
 Follow these steps to set up a new project for text shadows.
 
-1. [Click here to go to the Starter Repl project](https://replit.com/@HylandOutreach/MoreCssStartStyle)
-1. Fork the project
+1. [Click here to go to the Starter project](https://glitch.com/edit/#!/remix/more-css-start-style)
 1. Open the **index.html** file for editing
 1. Add a `class` attribute to the second `<p>` element that says "Style this paragraph..."
 1. Set the `class` to be `update`
@@ -54,7 +53,7 @@ Adding the property example above to a piece of text would make it look like thi
 ![](Assets/BlueShadow.png)
 
 ### Updating the Project
-Now, put some of that code in the Repl project.
+Now, put some of that code in the Glitch project.
 
 1. Open the **index.html** file for editing, and find the `<style></style>` element
 1. In the `.update` ruleset (between `{` and `}`), create a new property declaration with `text-shadow`

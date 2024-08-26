@@ -1,8 +1,8 @@
 # Hyland Academy @ UCS
 Thank you for participating in this program! Please bookmark this page 😁
 
-## Replit
-[Click here to go to Replit - this is where you can write code for your websites!](https://replit.com/)
+## Glitch
+[Click here to go to Glitch - this is where you can write code for your websites!](https://glitch.com/)
 
 ## Schedule
 Material for each lesson is linked below.

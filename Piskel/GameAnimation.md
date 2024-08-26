@@ -2,14 +2,12 @@
 Artists often create pixel art animations to be used in retro-style games. Follow the instructions to modify an existing game with new custom art! Google Chrome is recommended for this activity.
 
 ## The Existing Game
-For the purposes of this exercise, there is an existing game within a Repl project to use. Start by creating a fork of the game, and playing it.
+For the purposes of this exercise, there is an existing game within a Glitch project to use. Start by creating a remix of the game, and playing it.
 
-1. Go to the [Existing Game Repl Project](https://replit.com/@HylandOutreach/Platformer)
-1. Click the "Fork" button in the upper right
+1. Go to the [Existing Game Project](https://glitch.com/edit/#!/platformer-hacke)
+1. Click the "Remix" button in the upper right
 1. Click the "Run" button to run the game
 1. Expand the Preview area so there is room to play the game
-
-![](Assets/ExistingGamePreview.png)
 
 Play through the game to see how it works!
 
@@ -62,17 +60,7 @@ Now, the next step is to update the player sprite a little bit.
 Now the updated player should be ready to enter the existing game!
 
 ## Putting the New Player in the Game
-It's time to update the game itself with the new player.
-
-1. Go back to the Repl project tab
-1. On the left, open the "Files" menu  
-   ![](Assets/FilesMenu.png)
-1. In the "Files" area, open the "images" folder  
-   ![](Assets/ImagesFolder.png)
-1. Drag the **player.png** file into the "images" folder  
-   ![](Assets/DragPlayer.png)
-1. In the popup that appears, click the "Replace" button
-   - This will overwrite the existing **player.png** file
+It's time to update the game itself with the new player. You will have to drag your saved file into the **Assets** area and make sure it has the proper name to match the old name!
 
 Run the program again, and at this point, the new player should appear!
 

@@ -57,10 +57,9 @@ Now, the next step is to update the key sprite a little bit.
 1. Export the new PNG file for the key  
     ![](Assets/DownloadPng.png)
 1. Save the file as **key.png**
-1. Open the Repl project
-1. Drag the **key.png** file into the "images" folder  
-    ![](Assets/DragKey.png)
-1. Click the "Replace" button to replace the existing file
+1. Open the Glitch project
+1. Drag the **key.png** file into the **Assets**
+1. Make sure to update the filenames properly
 1. Run the game, and verify that the new key appears!
 
 ### Coin
@@ -98,10 +97,9 @@ Now, the next step is to update the coin sprite a little bit.
     - Make sure there are **4 columns** for the spritesheet  
     ![](Assets/DownloadFourColumns.png)
 1. Save the file as **coin_animated.png**
-1. Open the Repl project
-1. Drag the **coin_animated.png** file into the "images" folder  
-    ![](Assets/DragCoin.png)
-1. Overwrite the existing file by clicking "Replace"
+1. Open the Glitch project
+1. Drag the **coin_animated.png** file into the **Assets** area  
+1. Make sure to update the filenames properly
 1. Run the game, and verify that the new coin appears!
 
 ### Spider
@@ -139,41 +137,25 @@ Now, the next step is to update the spider sprite a little bit.
     - Make sure there are **5 columns** for the spritesheet  
     ![](Assets/DownloadFiveColumns.png)
 1. Save the file as **spider.png**
-1. Open the Repl project
-1. Drag the **spider.png** file into the "images" folder  
-    ![](Assets/DragSpider.png)
-1. Overwrite the existing file by clicking "Replace"
+1. Open the Glitch project
+1. Drag the **spider.png** file into the **Assets** area  
+1. Make sure to update the filenames properly
 1. Run the game, and verify that the new spider appears!
 
 ## Option 3: Updating the Existing Game Code
 Hack some of the code to change the actual gameplay for the game.
 
 ### Gameplay Settings
-There are some _variables_ in the game code that control how the game works. In computer science, variables are containers for data that can change. Play around with them for some interesting results.
-
-#### Setup
-First, open the proper file.
-
-1. Open the Repl project with the game
-1. In the "Files" area on the left, open the "js" folder
-1. From there, open the **main.js** file  
-
-![](Assets/OpenMainJs.png)
-
-#### Coding
-Take a look at the code at the top of the file, the first 10 lines:
+There are some _variables_ in the game code that control how the game works. In computer science, variables are containers for data that can change. Play around with them for some interesting results. You can find them all in the **variables.js** file!
 
 ```js
-// =============================================================================
-// Gameplay Settings
-// =============================================================================
-
 const JUMP_SPEED = 400;
 const SPEED = 200;
 const RUN_FPS = 8;
 Spider.SPEED = 100;
 const COIN_FPS = 5;
 const GRAVITY = 1200;
+let BOUNCE_SPEED = 200;
 ```
 
 This code may be readable even if you have never seen code before! It sets some values that update the gameplay.
@@ -188,9 +170,7 @@ This code may be readable even if you have never seen code before! It sets some 
 All of the levels in the game come from code files. These files tell the game where to place different objects, like the main character, the coins, the key, etc.
 
 #### Level 0
-Start with the first level in the game, level 0. Open the "data" folder and the **level00.json** file to get started.
-
-![](Assets/OpenLevelZeroJson.png)
+Start with the first level in the game, level 0. Open the **level00.json** file to get started.
 
 The code in this file is in a format called [JSON](https://en.wikipedia.org/wiki/JSON). It is a way to represent data, but do not worry too much about how it all works for this exercise. Take a look at the code, and try to figure out what it does.
 
@@ -232,11 +212,7 @@ Try to add an additional coin. Add a comma at the end of the last coin added, an
 Make sure the commas, curly brackets, double quotes, colons, and values are all in the proper place.
 
 ### Level 01
-Next, move onto the second level in the game, level 1. Open the "data" folder and the **level01.json** file to get started.
-
-![](Assets/OpenLevelOneJson.png)
-
-This file has the same format, but it has a few more objects for the game.
+Next, move onto the second level in the game, level 1. Open the **level01.json** file to get started. This file has the same format, but it has a few more objects for the game.
 
 #### Removing a Spider
 As it stands, this level is a little too difficult. Make it easier by removing one of the spiders.

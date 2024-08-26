@@ -634,9 +634,9 @@
 <li>Make any changes to the sprite</li>
 <li>Export the new PNG file for the key<br> <img src="Assets/DownloadPng.png" alt=""></li>
 <li>Save the file as <strong>key.png</strong></li>
-<li>Open the Repl project</li>
-<li>Drag the <strong>key.png</strong> file into the &quot;images&quot; folder<br> <img src="Assets/DragKey.png" alt=""></li>
-<li>Click the &quot;Replace&quot; button to replace the existing file</li>
+<li>Open the Glitch project</li>
+<li>Drag the <strong>key.png</strong> file into the <strong>Assets</strong></li>
+<li>Make sure to update the filenames properly</li>
 <li>Run the game, and verify that the new key appears!</li>
 </ol>
 <h3 id="coin">Coin</h3>
@@ -670,9 +670,9 @@
 </ul>
 </li>
 <li>Save the file as <strong>coin_animated.png</strong></li>
-<li>Open the Repl project</li>
-<li>Drag the <strong>coin_animated.png</strong> file into the &quot;images&quot; folder<br> <img src="Assets/DragCoin.png" alt=""></li>
-<li>Overwrite the existing file by clicking &quot;Replace&quot;</li>
+<li>Open the Glitch project</li>
+<li>Drag the <strong>coin_animated.png</strong> file into the <strong>Assets</strong> area  </li>
+<li>Make sure to update the filenames properly</li>
 <li>Run the game, and verify that the new coin appears!</li>
 </ol>
 <h3 id="spider">Spider</h3>
@@ -706,35 +706,22 @@
 </ul>
 </li>
 <li>Save the file as <strong>spider.png</strong></li>
-<li>Open the Repl project</li>
-<li>Drag the <strong>spider.png</strong> file into the &quot;images&quot; folder<br> <img src="Assets/DragSpider.png" alt=""></li>
-<li>Overwrite the existing file by clicking &quot;Replace&quot;</li>
+<li>Open the Glitch project</li>
+<li>Drag the <strong>spider.png</strong> file into the <strong>Assets</strong> area  </li>
+<li>Make sure to update the filenames properly</li>
 <li>Run the game, and verify that the new spider appears!</li>
 </ol>
 <h2 id="option-3-updating-the-existing-game-code">Option 3: Updating the Existing Game Code</h2>
 <p>Hack some of the code to change the actual gameplay for the game.</p>
 <h3 id="gameplay-settings">Gameplay Settings</h3>
-<p>There are some <em>variables</em> in the game code that control how the game works. In computer science, variables are containers for data that can change. Play around with them for some interesting results.</p>
-<h4 id="setup">Setup</h4>
-<p>First, open the proper file.</p>
-<ol>
-<li>Open the Repl project with the game</li>
-<li>In the &quot;Files&quot; area on the left, open the &quot;js&quot; folder</li>
-<li>From there, open the <strong>main.js</strong> file  </li>
-</ol>
-<p><img src="Assets/OpenMainJs.png" alt=""></p>
-<h4 id="coding">Coding</h4>
-<p>Take a look at the code at the top of the file, the first 10 lines:</p>
-<pre><code class="lang-js"><span class="hljs-comment">// =============================================================================</span>
-<span class="hljs-comment">// Gameplay Settings</span>
-<span class="hljs-comment">// =============================================================================</span>
-
-<span class="hljs-keyword">const</span> JUMP_SPEED = <span class="hljs-number">400</span>;
+<p>There are some <em>variables</em> in the game code that control how the game works. In computer science, variables are containers for data that can change. Play around with them for some interesting results. You can find them all in the <strong>variables.js</strong> file!</p>
+<pre><code class="lang-js"><span class="hljs-keyword">const</span> JUMP_SPEED = <span class="hljs-number">400</span>;
 <span class="hljs-keyword">const</span> SPEED = <span class="hljs-number">200</span>;
 <span class="hljs-keyword">const</span> RUN_FPS = <span class="hljs-number">8</span>;
 Spider.SPEED = <span class="hljs-number">100</span>;
 <span class="hljs-keyword">const</span> COIN_FPS = <span class="hljs-number">5</span>;
 <span class="hljs-keyword">const</span> GRAVITY = <span class="hljs-number">1200</span>;
+<span class="hljs-keyword">let</span> BOUNCE_SPEED = <span class="hljs-number">200</span>;
 </code></pre>
 <p>This code may be readable even if you have never seen code before! It sets some values that update the gameplay.</p>
 <ol>
@@ -747,8 +734,7 @@ Spider.SPEED = <span class="hljs-number">100</span>;
 <h3 id="level-creation">Level Creation</h3>
 <p>All of the levels in the game come from code files. These files tell the game where to place different objects, like the main character, the coins, the key, etc.</p>
 <h4 id="level-0">Level 0</h4>
-<p>Start with the first level in the game, level 0. Open the &quot;data&quot; folder and the <strong>level00.json</strong> file to get started.</p>
-<p><img src="Assets/OpenLevelZeroJson.png" alt=""></p>
+<p>Start with the first level in the game, level 0. Open the <strong>level00.json</strong> file to get started.</p>
 <p>The code in this file is in a format called <a href="https://en.wikipedia.org/wiki/JSON" target="_blank">JSON</a>. It is a way to represent data, but do not worry too much about how it all works for this exercise. Take a look at the code, and try to figure out what it does.</p>
 <p>Each sprite in the game is being placed on the map using <code>x</code> and <code>y</code> values. This is similar to the <a href="https://en.wikipedia.org/wiki/Cartesian_coordinate_system" target="_blank">cartesian plane</a> from mathematics. The <code>x</code> value represents the horizontal position, and the <code>y</code> value represents the vertical position.</p>
 <h4 id="updating-the-player-starting-position">Updating the Player Starting Position</h4>
@@ -773,9 +759,7 @@ Spider.SPEED = <span class="hljs-number">100</span>;
 <p>Try to add an additional coin. Add a comma at the end of the last coin added, and then add the new coin location. Make sure the last coin location in the list does not end with a comma, otherwise it will not work!</p>
 <p>Make sure the commas, curly brackets, double quotes, colons, and values are all in the proper place.</p>
 <h3 id="level-01">Level 01</h3>
-<p>Next, move onto the second level in the game, level 1. Open the &quot;data&quot; folder and the <strong>level01.json</strong> file to get started.</p>
-<p><img src="Assets/OpenLevelOneJson.png" alt=""></p>
-<p>This file has the same format, but it has a few more objects for the game.</p>
+<p>Next, move onto the second level in the game, level 1. Open the <strong>level01.json</strong> file to get started. This file has the same format, but it has a few more objects for the game.</p>
 <h4 id="removing-a-spider">Removing a Spider</h4>
 <p>As it stands, this level is a little too difficult. Make it easier by removing one of the spiders.</p>
 <p>First, locate the code in the file where the <code>&quot;spiders&quot;</code> are generated. It looks like this:</p>
@@ -837,7 +821,7 @@ Spider.SPEED = <span class="hljs-number">100</span>;
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Challenges","level":"1.11.3","depth":2,"next":{"title":"Extra Challenges","level":"1.12","depth":1,"path":"ExtraChallenges.md","ref":"ExtraChallenges.md","articles":[]},"previous":{"title":"Game Animation Follow-Along","level":"1.11.2","depth":2,"path":"Piskel/GameAnimation.md","ref":"Piskel/GameAnimation.md","articles":[]},"dir":"ltr"},"config":{"plugins":["toggle-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Hyland Academy @ UCS","gitbook":"*"},"file":{"path":"Piskel/AnimationChallenges.md","mtime":"2024-07-05T18:20:53.849Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2024-07-05T18:21:22.783Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Challenges","level":"1.11.3","depth":2,"next":{"title":"Extra Challenges","level":"1.12","depth":1,"path":"ExtraChallenges.md","ref":"ExtraChallenges.md","articles":[]},"previous":{"title":"Game Animation Follow-Along","level":"1.11.2","depth":2,"path":"Piskel/GameAnimation.md","ref":"Piskel/GameAnimation.md","articles":[]},"dir":"ltr"},"config":{"plugins":["toggle-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Hyland Academy @ UCS","gitbook":"*"},"file":{"path":"Piskel/AnimationChallenges.md","mtime":"2024-08-26T15:21:09.967Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2024-08-26T15:21:39.359Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
