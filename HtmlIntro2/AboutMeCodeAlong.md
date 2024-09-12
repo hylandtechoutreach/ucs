@@ -5,7 +5,7 @@ With this exercise, you will create a webpage that shows some information about 
 Before beginning, make sure you have a Glitch account. You go to [glitch.com/signup](https://glitch.com/signup) to set one up if you do not have one.
 
 ## Getting Started
-Start by creating a **Remix** of an empty project to get started! [Click here for a starter project.](https://glitch.com/edit/#!/remix/empty-web-starter)
+Start by creating a **Remix** of an empty project to get started! [Click here for a starter project.](https://glitch.com/edit/#!/remix/orange-lavender-soccer)
 
 ## HTML Setup
 Now everything should be ready to go. Start by creating a simple HTML document containing a header.
@@ -49,6 +49,8 @@ At the end of this section, your code should look something like this:
 ## Favorite Animal
 Add in a picture of your favorite animal.
 
+_Note: this will be different using Glitch. The **Assets** can be used to get a link to an animal._ 
+
 1. Under the last `p` paragraph tag, add a smaller `h3` header that says "Favorite Animal"
 1. Add an image of your favorite animal
     1. Find a picture of an animal
@@ -56,7 +58,7 @@ Add in a picture of your favorite animal.
     1. Set the `src` of the image to `animals/` plus the image name, all in quotes
 
 ### Using a New Picture
-If none of the pictures in the `animals` folder will work, it is also possible to add another picture!
+If none of the built-in animals will work, it is also possible to add another picture!
 
 1. Open a new tab, but make sure to keep the Glitch project open too
 1. In the new tab, go to [google images](https://images.google.com/)
@@ -65,7 +67,7 @@ If none of the pictures in the `animals` folder will work, it is also possible t
 1. When it has loaded, right click it, and select "Save image as..."
 1. Enter a good name for the image (e.g., "koala.jpg")
 1. Switch back to the Glitch project tab
-1. Open the **Assets**
+1. Open the **Assets** (VS Code - drag file into the `animals` folder)
 1. Drag the newly saved image from the bottom of the page into the **Assets** area
 1. Now the image can be used in your project!
 
@@ -86,6 +88,7 @@ The code should look something like this:
 
         <h3>Favorite Animal</h3>
         <img src="https://cdn.glitch.global/c3dc6b7b-2471-4c6a-b242-b1ce7ef3f924/axolotl.jpg?v=1724683073124">
+        <img src="animals/dog.png">
     </body>
 </html>
 ```

@@ -10,8 +10,8 @@ Material for each lesson is linked below.
 | Date | Lesson |
 |-|-|
 | **August 29** | [Kick-Off: Intro to Hyland](IntroHyland/StudentDesc.md) |
-| ✨ **September 5** | [HTML Introduction](HtmlIntro/StudentDesc.md) |
-| **September 12** | [HTML Introduction Part 2](HtmlIntro2/StudentDesc.md) |
+| **September 5** | [HTML Introduction](HtmlIntro/StudentDesc.md) |
+| ✨ **September 12** | [HTML Introduction Part 2](HtmlIntro2/StudentDesc.md) |
 | **September 19** | [More HTML](MoreHtml/StudentDesc.md) |
 | **September 26** | [More HTML Part 2](MoreHtml2/StudentDesc.md) |
 | **October 3** | [CSS Introduction](CssIntro/StudentDesc.md) |
