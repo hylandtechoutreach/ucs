@@ -626,6 +626,87 @@
 <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>This is another line, because it&apos;s in its own paragraph element.<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
 <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>This is the third line.<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
 </code></pre>
+<h2 id="create-a-gradient-background-or-a-background-image">Create a Gradient Background or a Background Image</h2>
+<p>Currently, the background of the website is just a solid color. But it can be a gradient color, or even an image!</p>
+<h3 id="background-gradient">Background Gradient</h3>
+<p>Luckily, there is a website that generates CSS code for gradients.</p>
+<ol>
+<li>Open a new tab and go to <a href="https://cssgradient.io" target="_blank">cssgradient.io</a></li>
+<li>Play around with the color selection tools to find a nice gradient to use<ul>
+<li>Select different colors for each point on the line</li>
+<li>Change angles or gradient type</li>
+<li>Add new color points</li>
+<li>Do whatever makes it look the best!</li>
+</ul>
+</li>
+<li>Once a good gradient is found, scroll down a bit to the <strong>CSS</strong> section</li>
+<li>Click the &quot;Copy to Clipboard&quot; button at the bottom of the <strong>CSS</strong> box</li>
+<li>Go back to the code, and open the <strong>style.css</strong> file for editing</li>
+<li>Within the <code>body</code> rule, (between <code>{</code> and <code>}</code>), paste the code (starting with <code>background</code>)</li>
+<li>Save the project to see the background change!</li>
+</ol>
+<pre><code class="lang-css"><span class="hljs-selector-tag">body</span> {
+  <span class="hljs-attribute">background</span>: <span class="hljs-built_in">rgb</span>(34,193,195);
+  <span class="hljs-attribute">background</span>: <span class="hljs-built_in">linear-gradient</span>(163deg, rgba(34,193,195,1) <span class="hljs-number">0%</span>, <span class="hljs-built_in">rgba</span>(104,191,147,1) <span class="hljs-number">10%</span>, <span class="hljs-built_in">rgba</span>(101,175,65,1) <span class="hljs-number">40%</span>, <span class="hljs-built_in">rgba</span>(253,240,45,1) <span class="hljs-number">100%</span>);
+}
+</code></pre>
+<h3 id="background-image">Background Image</h3>
+<p>It is also possible to give the page a background image. </p>
+<ol>
+<li>Find an image online</li>
+<li>Copy the image address</li>
+<li>Open the <strong>style.css</strong> file</li>
+<li>Remove the value for the <code>background</code> property</li>
+<li>Replace the value with <code>url(&quot;&quot;)</code></li>
+<li>Inside the quotes, paste the image address</li>
+<li>Save the project to see the background change!</li>
+</ol>
+<pre><code class="lang-css"><span class="hljs-selector-tag">body</span> {
+    <span class="hljs-attribute">background</span>: <span class="hljs-built_in">url</span>(<span class="hljs-string">&quot;https://cdn.wallpaperhub.app/cloudcache/6/9/0/e/e/f/690eefe3ba1f553e0ea527f51ee407b604b681b4.jpg&quot;</span>);
+}
+</code></pre>
+<h2 id="css-header-text-shadow">CSS: Header Text Shadow</h2>
+<p>Another neat CSS trick is to add text shadow. For this example, add text shadow <em>only</em> to the <code>h1</code> header.</p>
+<ol>
+<li>In the <strong>style.css</strong> file, make a new line at the very bottom under everything</li>
+<li>Create a new rule for the top header by adding <code>h1</code> and <code>{</code><ul>
+<li>This will mean that all styles apply to each <code>h1</code> HTML element</li>
+</ul>
+</li>
+<li>Make a new line, and press space a couple times</li>
+<li>There, add a new property: <code>text-shadow: red -1px 1px</code></li>
+<li>Make another new line, and add the closing <code>}</code> curly bracket</li>
+<li>Save the project to see the shadow!</li>
+<li>Update the numbers and the color to see how it changes the effect</li>
+</ol>
+<pre><code class="lang-css"><span class="hljs-selector-tag">h1</span> {
+    <span class="hljs-attribute">text-shadow</span>: red -<span class="hljs-number">1px</span> <span class="hljs-number">1px</span>;
+}
+</code></pre>
+<h2 id="css-change-text-color-on-hover">CSS: Change Text Color on Hover</h2>
+<p>To make the website feel a bit more <strong>&#x1F31F; i n t e r a c t i v e &#x1F31F;</strong>, update the styles when hovering over certain elements on the page!</p>
+<ol>
+<li>In the <strong>style.css</strong> file, create a new rule for <code>p</code> at the bottom of the file<ul>
+<li>The styles in this rule will only affect <code>p</code> elements</li>
+</ul>
+</li>
+<li>Add the <code>color</code> property with a value of <code>orange</code><ul>
+<li>Notice that the text color changed</li>
+</ul>
+</li>
+<li>Update the beginning part so that instead of <code>p</code>, it is <code>p:hover</code><ul>
+<li>This means the styles will only apply when the user hovers over the <code>p</code> elements</li>
+</ul>
+</li>
+<li>Save the project, and hover over the list items to see them change!</li>
+<li>Update the values to change the effect</li>
+</ol>
+<pre><code class="lang-css"><span class="hljs-selector-tag">p</span><span class="hljs-selector-pseudo">:hover</span> {
+  <span class="hljs-attribute">color</span>: orange;
+}
+</code></pre>
+<h2 id="css-animations">CSS: Animations</h2>
+<p><a href="https://www.w3schools.com/css/css3_animations.asp" target="_blank">Click here for a guide to CSS animations.</a></p>
 
                                 
                                 </section>
@@ -669,7 +750,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Ideas","level":"1.6.1","depth":2,"next":{"title":"Font List","level":"1.6.2","depth":2,"path":"MoreHtmlSub/FontList.md","ref":"MoreHtmlSub/FontList.md","articles":[]},"previous":{"title":"✨ 9/26: More HTML Part 2","level":"1.6","depth":1,"path":"MoreHtmlSub/StudentDesc.md","ref":"MoreHtmlSub/StudentDesc.md","articles":[{"title":"Ideas","level":"1.6.1","depth":2,"path":"MoreHtmlSub/Ideas.md","ref":"MoreHtmlSub/Ideas.md","articles":[]},{"title":"Font List","level":"1.6.2","depth":2,"path":"MoreHtmlSub/FontList.md","ref":"MoreHtmlSub/FontList.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["toggle-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Hyland Academy @ UCS","gitbook":"*"},"file":{"path":"MoreHtmlSub/Ideas.md","mtime":"2024-09-19T18:36:35.369Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2024-09-19T18:37:06.050Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Ideas","level":"1.6.1","depth":2,"next":{"title":"Font List","level":"1.6.2","depth":2,"path":"MoreHtmlSub/FontList.md","ref":"MoreHtmlSub/FontList.md","articles":[]},"previous":{"title":"✨ 9/26: More HTML Part 2","level":"1.6","depth":1,"path":"MoreHtmlSub/StudentDesc.md","ref":"MoreHtmlSub/StudentDesc.md","articles":[{"title":"Ideas","level":"1.6.1","depth":2,"path":"MoreHtmlSub/Ideas.md","ref":"MoreHtmlSub/Ideas.md","articles":[]},{"title":"Font List","level":"1.6.2","depth":2,"path":"MoreHtmlSub/FontList.md","ref":"MoreHtmlSub/FontList.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["toggle-chapters"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Hyland Academy @ UCS","gitbook":"*"},"file":{"path":"MoreHtmlSub/Ideas.md","mtime":"2024-09-19T19:17:37.719Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2024-09-19T19:18:06.733Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

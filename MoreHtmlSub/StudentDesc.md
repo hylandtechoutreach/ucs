@@ -17,9 +17,6 @@ Then, change the website to be whatever you want it to be!
 
 ## Ideas
 [Click here for some ideas about what you can do on your website.](Ideas.md)
-Add more pictures
 
-Change the font
-
-
-
+## Coding Game
+[Click here for a game that will help you practice computational thinking.](https://www.w3schools.com/codegame/)

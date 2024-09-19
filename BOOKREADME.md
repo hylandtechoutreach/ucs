@@ -1,8 +1,8 @@
 # Hyland Academy @ UCS
 Thank you for participating in this program! Please bookmark this page 😁
 
-## Glitch
-[Click here to go to Glitch - this is where you can write code for your websites!](https://glitch.com/)
+## VS Code for Education
+[Click here to go to VS Code for Education - this is where you can write code for your websites!](https://vscodeedu.com/my-work/projects)
 
 ## Schedule
 Material for each lesson is linked below.
