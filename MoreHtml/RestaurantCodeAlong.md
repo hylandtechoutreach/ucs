@@ -1,7 +1,7 @@
 # Restaurant Website: Code-Along Activity
 Congratulations, you just won $250,000 in a prestigious cooking competition! The only catch is that all of that money has to go toward starting a restaurant. You can serve any type of food you'd like, but you _also_ have to make a website for your new endeavor. Follow the instructions below!
 
-[**Click here to open the Restaurant Website project.**](https://glitch.com/edit/#!/remix/restaurant-starter)
+[**Click here to open the Restaurant Website project.**](https://glitch.com/edit/#!/remix/restaurant-site)
 
 ## Setup
 Make sure to log into your Glitch account before proceeding!
