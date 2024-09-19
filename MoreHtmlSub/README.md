@@ -11,9 +11,9 @@ They should all have the [main academy page](https://hylandtechoutreach.github.i
 ### Agenda
 | Activity | Time |
 |-|-|
-| Lesson Introduction | 5m |
+| [Lesson Introduction](https://hylandtechoutreach.github.io/ucs/MoreHtmlSub/StudentDesc.html) | 5m |
 | Self-Paced Work | 60m |
-| Baamboozle Quiz | 10m |
+| [Baamboozle Quiz](https://www.baamboozle.com/game/2574964) | 10m |
 
 ## Outline
 The bulk of this lesson should be students working independently, but there are a couple other things as well.
