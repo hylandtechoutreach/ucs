@@ -1,7 +1,10 @@
 # More HTML Elements
-Learn how to use HTML links and iframes to build more dynamic websites!
+Here is the learning target for today: **Use new HTML elements to make a website for a restaurant**
 
-## Do Now
+## Glitch Setup
+**[Click here to sign up for an account on Glitch.](https://glitch.com/signup)** You should be able to sign up with Google.
+
+## Warm-Up
 [Click here for the form.](https://forms.office.com/r/Ky21qbTXRi)
 
 ## More HTML Elements PowerPoint Presentation
@@ -9,3 +12,6 @@ Learn how to use HTML links and iframes to build more dynamic websites!
 
 ## Restaurant Website Code-Along
 [Click here for the Restaurant Code-Along instructions.](RestaurantCodeAlong.md)
+
+### VS Code for Education Backup
+[Click here for the starter project.](https://vscodeedu.com/b4HbIcHXf0TtJloNgXZw)
