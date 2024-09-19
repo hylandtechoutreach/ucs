@@ -60,8 +60,6 @@ Luckily, there is a website that generates CSS code for gradients.
 1. Within the `body` rule, (between `{` and `}`), paste the code (starting with `background`)
 1. Save the project to see the background change!
 
-That should be it! The code should end up looking something like this:
-
 ```css
 body {
   background: rgb(34,193,195);
@@ -80,8 +78,6 @@ It is also possible to give the page a background image.
 1. Inside the quotes, paste the image address
 1. Save the project to see the background change!
 
-It should look something like this:
-
 ```css
 body {
     background: url("https://cdn.wallpaperhub.app/cloudcache/6/9/0/e/e/f/690eefe3ba1f553e0ea527f51ee407b604b681b4.jpg");
@@ -99,8 +95,6 @@ Another neat CSS trick is to add text shadow. For this example, add text shadow 
 1. Make another new line, and add the closing `}` curly bracket
 1. Save the project to see the shadow!
 1. Update the numbers and the color to see how it changes the effect
-
-The code should look something like this:
 
 ```css
 h1 {
