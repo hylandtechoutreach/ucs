@@ -1,7 +1,7 @@
 # Go Bananas: Code-Along Activity
 Add some styling to a website advertising bananas.
 
-**[Click here for the Starter Project.](https://glitch.com/edit/#!/remix/banana-website)**
+**[Click here for the Starter Project.](https://vscodeedu.com/x3SZcbKeUy2zxO4Uoy28)**
 
 ## Current Webpage
 So far, there is a simple website that has a lot of information about a banana. All of the information is there, but the page doesn't really pop in the right way.
