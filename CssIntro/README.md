@@ -1,9 +1,6 @@
 # Introduction to CSS
 For this session, introduce students to CSS. They can use CSS to make their websites look a lot more fun and interesting.
 
-## Do Now: Form
-Guide the students to complete the [form](https://forms.gle/zhh9RSwtZhLYCxou6) linked on the lesson homepage. View responses [here](https://docs.google.com/spreadsheets/d/164jqKXu0yjFAgUpmy2kbrj_EH6rLHnhIyYmjReVfAZM/edit?usp=sharing).
-
 ## Lecture
 The [PowerPoint Presentation](HelloCss.pptx) introduces the idea of CSS, and some basic syntax - selectors and properties.
 
