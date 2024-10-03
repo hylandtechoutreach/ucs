@@ -1,7 +1,7 @@
 # Rainbow Poem Code-Along
 In this activity, take an existing poem and make it your own!
 
-**[Click here for the starter website project.](https://glitch.com/edit/#!/remix/fresh-prince-starter)**
+**[Click here for the starter website project.](https://vscodeedu.com/pwopjt3jml4Je9O6hera)**
 
 ## Current Site
 Start by taking a look at the existing website. Try to figure out what it does! In the HTML, it has a header, a picture, and a few paragraphs with lines from a poem. In the CSS, it sets some of the basic colors and creates a couple classes. The first two lines of the poem are rainbow, but the rest are plain white. In this activity, update the HTML and CSS so that the whole poem is a rainbow!
