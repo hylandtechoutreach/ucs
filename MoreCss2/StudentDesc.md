@@ -9,6 +9,8 @@ There are a ton of things you can do with CSS. Here are just a few of the possib
 
 [Click here to see a website that shows off these new concepts.](https://hylandtechoutreach.github.io/ucs/MoreCss2/Assets/Showcase.html)
 
+_[Click here for the source code.](https://vscodeedu.com/DiUbqXTOCXYhhIXZGNRG)_
+
 ### Custom Fonts
 [Click here to learn how to add a **custom font** to a website.](CustomFonts.md)
 
@@ -27,8 +29,8 @@ There are a ton of things you can do with CSS. Here are just a few of the possib
 ### Animations
 [Click here to learn how to add an **animation** to a website.](Animations.md)
 
-## Free Reign
-The goal for this session is for you to create whatever you'd like! Try to use some of the new concepts to make something cool. Feel free to go back to old projects and update them, or start creating a totally new project!
+## Project Work
+This week, you should work on a project you will present next week.
 
 ## Challenges
 If you get bored of making things on your own, [click here to check out some interactive challenges.](Challenges.md)
