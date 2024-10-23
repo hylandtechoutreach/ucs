@@ -4,7 +4,7 @@ Follow this guide to learn how to add a color gradient to a website using [CSS G
 ## Setup
 The setup for this concept is fairly simple.
 
-1. [Click here to go to the Starter project](https://glitch.com/edit/#!/remix/more-css-start-style)
+1. [Click here to go to the Starter project](https://vscodeedu.com/vrOC9IIT1pw19o5loViI)
 1. Open the **index.html** file, and find the `<style></style>` element
 1. Create a new ruleset to style the whole page
     - Use `body` as the selector
