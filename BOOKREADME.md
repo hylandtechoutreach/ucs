@@ -17,8 +17,8 @@ Material for each lesson is linked below.
 | **October 3** | [CSS Introduction](CssIntro/StudentDesc.md) |
 | **October 10** | 🍂 FALL BREAK 🍂 |
 | **October 17** | [More CSS](MoreCss/StudentDesc.md) |
-| **✨ October 24** | [More CSS Part 2](MoreCss2/StudentDesc.md) |
-| **October 31** | [Project Presentations](FinalProject/Presentations.md) |
+| **October 24** | [More CSS Part 2](MoreCss2/StudentDesc.md) |
+| **✨ October 31** | [Project Presentations](FinalProject/Presentations.md) |
 | **November 7** | [Pixel Art](Piskel/StudentDesc.md) |
 
 ## Project Submission
