@@ -1,5 +1,5 @@
 # Pixel Art & Games
-You have two options for today.
+You have two options for today:
 
 ### 🎨 Option 1: Pixel Art with Piskel
 [Click here to go to Piskel.](https://www.piskelapp.com/) If you want a guide on how to use it, you can check out [this page](PiskelDemo.md).
@@ -7,7 +7,7 @@ You have two options for today.
 You are welcome to use the entire time to create a piece of art using piskel.
 
 ### 🎮 Option 2: Platformer Game - HIGH SCORE CHALLENGE
-**🍭 whoever has the highest score at the end of class gets a lollipop! 🍭**
+**🍭 whoever has the highest score at the end of class wins a lollipop! 🍭**
 
 [Click here to play the game.](https://wandering-fern-moth-328.vscodeedu.app/)
 
