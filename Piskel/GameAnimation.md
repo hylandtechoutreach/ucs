@@ -2,12 +2,11 @@
 Artists often create pixel art animations to be used in retro-style games. Follow the instructions to modify an existing game with new custom art! Google Chrome is recommended for this activity.
 
 ## The Existing Game
-For the purposes of this exercise, there is an existing game within a Glitch project to use. Start by creating a remix of the game, and playing it.
+For the purposes of this exercise, there is an existing game within a project to use. Start by creating a copy of the game, and playing it.
 
-1. Go to the [Existing Game Project](https://glitch.com/edit/#!/platformer-hacke)
-1. Click the "Remix" button in the upper right
-1. Click the "Run" button to run the game
-1. Expand the Preview area so there is room to play the game
+1. Go to the [Existing Game Project](https://vscodeedu.com/vSnMpC4iN9JHbSZ3Gx8w)
+2. Click the "Run" button to run the game
+3. Expand the Preview area so there is room to play the game
 
 Play through the game to see how it works!
 
