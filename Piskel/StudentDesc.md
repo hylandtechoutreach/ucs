@@ -1,11 +1,16 @@
-# Piskel
-This session covers [Piskel](http://piskelapp.com) for pixel art, and a JavaScript game that uses the pixel art assets.
+You have two options today:
 
-## Piskel Demo
-[Click here to learn about some of the tools and capabilities of Piskel.](PiskelDemo.md)
+# 🎨 Option 1: Pixel Art with Piskel
+[Click here to go to Piskel.](https://piskelapp.com) If you want a guide on how to use it, you can check out [this page](PiskelDemo.md).
 
-## Game Animation Follow-Along
-[Click here to see how to put a custom animation into an existing game.](GameAnimation.md)
+You are welcome to use the entire time to create a piece of art using piskel.
 
-## Self-Paced Work
-[Click here for the self-paced challenges.](AnimationChallenges.md)
+# 🎮 Option 2: Platformer Game - HIGH SCORE CHALLENGE
+**🍭 whoever has the highest score at the end of class gets a lollipop! 🍭**
+
+[Click here to play the game.](https://wandering-fern-moth-328.vscodeedu.app/)
+
+You are allowed to cheat by hacking the game. [Click here to create your own version of the game](https://vscodeedu.com/vSnMpC4iN9JHbSZ3Gx8w), and update the numbers in the **variables.js** file to make it easier to get a high score.
+
+## BONUS: Custom Characters
+[Click here for the Game Animation Instructions](GameAnimation.md). These will let you put your own character into your game! There are some [additional challenges](AnimationChallenges.md) as well.
