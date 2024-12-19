@@ -10,8 +10,8 @@ Material for each lesson is linked below.
 | Date | Lesson |
 |-|-|
 | **November 14** | [Kick-Off: Intro to Hyland](IntroHyland/StudentDesc.md) |
-| **🌟 November 21 🌟** | [HTML Introduction](HtmlIntro/StudentDesc.md) |
 | **November 28** | 🦃 THANKSGIVING 🦃 |
+| **December 5** | [HTML Introduction](HtmlIntro/StudentDesc.md) |
 | **December 12** | [HTML Introduction Part 2](HtmlIntro2/StudentDesc.md) |
 | **December 19** | [More HTML](MoreHtml/StudentDesc.md) |
 | **December 26** | ⛄ WINTER BREAK ⛄ |

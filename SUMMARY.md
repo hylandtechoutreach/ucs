@@ -1,6 +1,6 @@
 - [Hyland Academy @ UCS](BOOKREADME.md)
 - [11/14: Kick-Off: Intro to Hyland](IntroHyland/StudentDesc.md)
-- [**🌟 11/21: Intro to HTML**](HtmlIntro/StudentDesc.md)
+- [12/5: Intro to HTML](HtmlIntro/StudentDesc.md)
 - [12/12: Intro to HTML Part 2](HtmlIntro2/StudentDesc.md)
   - [About Me Code-Along](HtmlIntro2/AboutMeCodeAlong.md)
   - [About Me Self-Paced Exercises](HtmlIntro2/AboutMeSelfPaced.md)
