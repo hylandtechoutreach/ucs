@@ -8,7 +8,7 @@ Learn what HTML is all about, and how to use some of the basic HTML elements: he
 [Click here to go to the HTML Typing Practice Lesson!](https://www.typing.com/student/lesson/12950/html-the-structure-of-a-webpage)
 
 ## VS Code for Education
-Go to [vscodeedu.com](https://vscodeedu.com/) to get started with Glitch!
+Go to [vscodeedu.com](https://vscodeedu.com/) to get started with VSCODE EDU!
 
 ## Activities
 Test your typing skills by racing with [NitroType](https://www.nitrotype.com/)!
