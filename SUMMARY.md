@@ -13,7 +13,7 @@
 - [1/16: More HTML Part 2](MoreHtmlSub/StudentDesc.md)
   - [Ideas](MoreHtmlSub/Ideas.md)
   - [Font List](MoreHtmlSub/FontList.md)
-- [1/23: More CSS](MoreCss/StudentDesc.md)
+- [**🌟 1/23: More CSS**](MoreCss/StudentDesc.md)
   - [Rainbow Poem Code-Along](MoreCss/RainbowPoemCodeAlong.md)
   - [Self-Paced Work](MoreCss/SelfPacedWork.md)
 - [1/30: More CSS Part 2](MoreCss2/StudentDesc.md)
