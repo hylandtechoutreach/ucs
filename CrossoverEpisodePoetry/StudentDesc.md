@@ -99,4 +99,4 @@ First, you will have to publish your site!
 
 When you have your URL, you can paste it to share it with anyone!
 
-[Click here to share your site.](https://forms.office.com/r/3FUe74YUJgn)
+[Click here to share your site.](https://forms.office.com/r/3FU74YUJgn?origin=lprLink)
