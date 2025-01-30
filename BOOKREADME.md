@@ -18,6 +18,6 @@ Material for each lesson is linked below.
 | **January 2** | ⛄ WINTER BREAK ⛄ |
 | **January 9** | [CSS Introduction](CssIntro/StudentDesc.md) |
 | **January 16** | [More HTML Part 2](MoreHtmlSub/StudentDesc.md) |
-| **🌟 January 23** | [More CSS](MoreCss/StudentDesc.md) |
-| **January 30** | [More CSS Part 2](MoreCss2/StudentDesc.md) |
+| **January 23** | [More CSS](MoreCss/StudentDesc.md) |
+| **🌟 January 30** | [Crossover Episode](CrossoverEpisodePoetry/StudentDesc.md) |
 | **February 6** | [Pixel Art](Piskel/StudentDesc.md) |
