@@ -4,6 +4,9 @@ Thank you for participating in this program! Please bookmark this page 😁
 ## VS Code for Education
 [Click here to go to VS Code for Education - this is where you can write code for your websites!](https://vscodeedu.com/my-work/projects)
 
+## End-of-Trimester Survey
+[Click here to complete the form.](https://forms.office.com/r/REv0Yz8APX)
+
 ## Schedule
 Material for each lesson is linked below.
 
@@ -19,5 +22,5 @@ Material for each lesson is linked below.
 | **January 9** | [CSS Introduction](CssIntro/StudentDesc.md) |
 | **January 16** | [More HTML Part 2](MoreHtmlSub/StudentDesc.md) |
 | **January 23** | [More CSS](MoreCss/StudentDesc.md) |
-| **🌟 January 30** | [Crossover Episode](CrossoverEpisodePoetry/StudentDesc.md) |
-| **February 6** | [Pixel Art](Piskel/StudentDesc.md) |
+| **January 30** | [Crossover Episode](CrossoverEpisodePoetry/StudentDesc.md) |
+| **🌟 February 6** | [Pixel Art](Piskel/StudentDesc.md) |
