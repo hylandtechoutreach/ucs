@@ -7,7 +7,7 @@ You have two options for today:
 You are welcome to use the entire time to create a piece of art using piskel.
 
 ### 🎮 Option 2: Platformer Game - HIGH SCORE CHALLENGE
-**🍭 whoever has the highest score at the end of class wins a lollipop! 🍭**
+**whoever has the highest score at the end of class wins**
 
 [Click here to play the game.](https://wandering-fern-moth-328.vscodeedu.app/)
 
